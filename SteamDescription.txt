@@ -24,5 +24,6 @@ Translated from the mod's English text, with the Korean original checked for nam
 [*]A few messages compiled into the original mod's DLL (equipment restrictions, Essence extraction warning) stay in Korean until the author rebuilds it.
 [*]Text added in later Weazel Mode updates shows in English or Korean until the translation is updated.
 [/list]
+I made this because I wanted Weazel Mode in my game and no Chinese translation existed yet. If anyone would like to take over the translation, you are welcome to.
 [hr][/hr]
 This translation was made with the help of AI tools (Claude Code). Translation files are included in the Languages folder and on [url=https://github.com/ifchen0/WeazelModeChineseTraditional]GitHub[/url] for review.
