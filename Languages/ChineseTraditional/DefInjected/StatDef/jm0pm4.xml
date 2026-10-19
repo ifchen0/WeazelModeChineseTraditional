@@ -5,5 +5,5 @@
   <!-- EN: The additional weight (kg) that can be carried by wearing this equipment. -->
   <Weazel_MassCarryCapacity.description>穿著此裝備後可額外攜帶的重量（公斤）。</Weazel_MassCarryCapacity.description>
   <!-- EN: {0} kg -->
-  <Weazel_MassCarryCapacity.formatString>{0} 公斤</Weazel_MassCarryCapacity.formatString>
+  <Weazel_MassCarryCapacity.formatString>{0}公斤</Weazel_MassCarryCapacity.formatString>
 </LanguageData>

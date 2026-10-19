@@ -9,9 +9,9 @@
   <!-- EN: Unlocks the fabrication of specialized prisoner garments designed to periodically harvest Essence from captives. -->
   <WeazelWeazelSlavesuit.description>解鎖特製的囚服，可以定期從俘虜身上收穫精華。</WeazelWeazelSlavesuit.description>
   <!-- EN: G.A.M. Incubation Theory -->
-  <WeazelGAMIncubation.label>G.A.M. 培養理論</WeazelGAMIncubation.label>
+  <WeazelGAMIncubation.label>G.A.M.培養理論</WeazelGAMIncubation.label>
   <!-- EN: Unlocks the construction of a specialized incubator designed to cultivate G.A.M. artificial muscles utilizing Essence. -->
-  <WeazelGAMIncubation.description>解鎖特製培養槽的建造，可以利用精華培養 G.A.M. 人工肌肉。</WeazelGAMIncubation.description>
+  <WeazelGAMIncubation.description>解鎖特製培養槽的建造，可以利用精華培養G.A.M.人工肌肉。</WeazelGAMIncubation.description>
   <!-- EN: Essence Refining Technology -->
   <WeazelEssenceRefiner.label>精華精煉技術</WeazelEssenceRefiner.label>
   <!-- EN: Unlocks the construction of the Essence Refiner, a facility intended for purifying raw Essence. Currently, this building has no practical effect. -->
@@ -19,11 +19,11 @@
   <!-- EN: Artificial Muscle Fiber Replication -->
   <WeazelPowerArmor.label>人工肌纖維複製</WeazelPowerArmor.label>
   <!-- EN: Unlocks the fabrication of advanced power armor integrated with G.A.M. artificial muscles. -->
-  <WeazelPowerArmor.description>解鎖整合 G.A.M. 人工肌肉的進階動力裝甲製作。</WeazelPowerArmor.description>
+  <WeazelPowerArmor.description>解鎖整合G.A.M.人工肌肉的進階動力裝甲製作。</WeazelPowerArmor.description>
   <!-- EN: Applied Artificial Biology -->
   <WeazelBioGenerator.label>應用人工生物學</WeazelBioGenerator.label>
   <!-- EN: Unlocks the construction of the G.A.M. Bio-Generator, a facility that generates electrical power by utilizing G.A.M. artificial muscles. -->
-  <WeazelBioGenerator.description>解鎖 G.A.M. 生質發電機的建造，這是一種利用 G.A.M. 人工肌肉發電的設施。</WeazelBioGenerator.description>
+  <WeazelBioGenerator.description>解鎖G.A.M.生質發電機的建造，這是一種利用G.A.M.人工肌肉發電的設施。</WeazelBioGenerator.description>
   <!-- EN: Weapon Upscaling -->
   <WeazelPowerWeapon.label>武器巨型化</WeazelPowerWeapon.label>
   <!-- EN: Unlocks the fabrication of massive heavy weapons. Due to their extreme weight and monstrous recoil, these weapons can only be wielded by units equipped with power armor. -->

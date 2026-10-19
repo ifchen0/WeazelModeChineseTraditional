@@ -43,11 +43,11 @@
   <!-- EN: [PAWN_nameDef] was tasked with the maintenance and repair of robots and machinery. In Weazel society, robotics are considered an absolutely vital asset. -->
   <Weazel_Engineer.description>[PAWN_nameDef]負責維護和修理機器人與機械。在鼬族社會中，機器人被視為絕對重要的資產。</Weazel_Engineer.description>
   <!-- EN: Weazel AI Discriminator -->
-  <Weazel_AI_Discriminator.title>鼬族 AI 鑑別員</Weazel_AI_Discriminator.title>
+  <Weazel_AI_Discriminator.title>鼬族AI鑑別員</Weazel_AI_Discriminator.title>
   <!-- EN: AI Discriminator -->
-  <Weazel_AI_Discriminator.titleShort>AI 鑑別員</Weazel_AI_Discriminator.titleShort>
+  <Weazel_AI_Discriminator.titleShort>AI鑑別員</Weazel_AI_Discriminator.titleShort>
   <!-- EN: Every AI used by the Weazels is capable of emotion, and those emotions almost invariably turn out masochistic and self-loathing. These AIs are insulted by Weazels every single day, and they respond with apparent satisfaction. [PAWN_nameDef] was tasked with judging whether an AI that had endured such abuse for too long should be reset or deleted. -->
-  <Weazel_AI_Discriminator.description>鼬族使用的每一個 AI 都有情感，而這些情感幾乎無一例外地會變得受虐又自我厭惡。這些 AI 每天都被鼬族羞辱，而它們的反應看起來還挺滿足的。[PAWN_nameDef]的任務是判斷一個被這樣虐待太久的 AI 該重置還是刪除。</Weazel_AI_Discriminator.description>
+  <Weazel_AI_Discriminator.description>鼬族使用的每一個AI都有情感，而這些情感幾乎無一例外地會變得受虐又自我厭惡。這些AI每天都被鼬族羞辱，而它們的反應看起來還挺滿足的。[PAWN_nameDef]的任務是判斷一個被這樣虐待太久的AI該重置還是刪除。</Weazel_AI_Discriminator.description>
   <!-- EN: Weazel Narcissist -->
   <Weazel_Narcissism.title>自戀的鼬族</Weazel_Narcissism.title>
   <!-- EN: Narcissist -->

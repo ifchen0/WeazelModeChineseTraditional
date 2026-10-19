@@ -15,9 +15,9 @@
   <!-- EN: Weazels -->
   <XCCRaidBase.pawnsPlural>鼬族</XCCRaidBase.pawnsPlural>
   <!-- EN: XCC Boss -->
-  <XCCRaidBase.leaderTitle>XCC 头目</XCCRaidBase.leaderTitle>
+  <XCCRaidBase.leaderTitle>XCC头目</XCCRaidBase.leaderTitle>
   <!-- EN: XCC Raiding Battalion -->
-  <XCCRaidBase.label>XCC 掠夺大队</XCCRaidBase.label>
+  <XCCRaidBase.label>XCC掠夺大队</XCCRaidBase.label>
   <!-- EN: A Weazel raiding battalion cultivated in the XCC cloning facilities. -->
-  <XCCRaidBase.description>在 XCC 复制设施中培育出来的鼬族掠夺大队。</XCCRaidBase.description>
+  <XCCRaidBase.description>在XCC复制设施中培育出来的鼬族掠夺大队。</XCCRaidBase.description>
 </LanguageData>
