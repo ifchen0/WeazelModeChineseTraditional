@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Weazel Male Tamer -->
+  <Weazel_MaleTamer.title>鼬族雄性馴養師</Weazel_MaleTamer.title>
+  <!-- EN: Tamer -->
+  <Weazel_MaleTamer.titleShort>馴養師</Weazel_MaleTamer.titleShort>
+  <!-- EN: Taming males for easy handling is absolutely crucial. Depending on their intended purpose, the required training and physical modifications vary greatly. [PAWN_nameDef] knows exactly how to break and condition these beasts. -->
+  <Weazel_MaleTamer.description>把雄性馴服得容易使喚是絕對重要的事。依照預定的用途不同，需要的訓練和身體改造也大不相同。[PAWN_nameDef]非常清楚該怎麼馴服、調教這些野獸。</Weazel_MaleTamer.description>
+  <!-- EN: Weazel Veteran -->
+  <Weazel_Veteran.title>鼬族老兵</Weazel_Veteran.title>
+  <!-- EN: Veteran -->
+  <Weazel_Veteran.titleShort>老兵</Weazel_Veteran.titleShort>
+  <!-- EN: With countless battles under her belt, the mere act of fighting is now enough to fill [PAWN_nameDef] with pure ecstasy. -->
+  <Weazel_Veteran.description>身經百戰之後，光是戰鬥這件事本身，就足以讓[PAWN_nameDef]感到純粹的狂喜。</Weazel_Veteran.description>
+  <!-- EN: Weazel Male Refiner -->
+  <Weazel_Male_Refiner.title>鼬族雄性改良師</Weazel_Male_Refiner.title>
+  <!-- EN: Refiner -->
+  <Weazel_Male_Refiner.titleShort>改良師</Weazel_Male_Refiner.titleShort>
+  <!-- EN: Staring at the specimens awaiting modification, [PAWN_nameDef] would often mutter: "That hideous pink skin is all wrong... I'll... I'll fix it for you... hehehehe." -->
+  <Weazel_Male_Refiner.description>看著等待改造的實驗體，[PAWN_nameDef]常常喃喃自語：「那身醜陋的粉紅色皮膚全都不對……我會……我會幫你修好的……嘿嘿嘿嘿。」</Weazel_Male_Refiner.description>
+  <!-- EN: Decorative Weazel -->
+  <Weazel_Decorative.title>觀賞用鼬族</Weazel_Decorative.title>
+  <!-- EN: Decorative -->
+  <Weazel_Decorative.titleShort>觀賞用</Weazel_Decorative.titleShort>
+  <!-- EN: Weazels who are entirely useless, but are deemed to possess a beautiful figure or appearance, are kept as 'ornaments.' These Weazels typically perform dances or all sorts of performance art to liven up the atmosphere. [PAWN_nameDef] was so talented in this regard that she could captivate not only males, but females as well. -->
+  <Weazel_Decorative.description>完全派不上用場、但被認為身材或外貌漂亮的鼬族，會被當作「裝飾品」養著。這些鼬族通常會表演舞蹈或各種表演藝術來炒熱氣氛。[PAWN_nameDef]在這方面極有天分，不只是雄性，連雌性都能被她迷住。</Weazel_Decorative.description>
+  <!-- EN: Weazel PTSD -->
+  <Weazel_PTSD.title>創傷後壓力症鼬族</Weazel_PTSD.title>
+  <!-- EN: PTSD -->
+  <Weazel_PTSD.titleShort>創傷後壓力症</Weazel_PTSD.titleShort>
+  <!-- EN: "No... stop it... I... I was wrong!... Stop... no more... please, no more!!!" Ever since the torture she endured back then, [PAWN_nameDef] talks in her sleep like this. -->
+  <Weazel_PTSD.description>「不要……住手……我……是我錯了！……住手……不要了……拜託，不要再來了！！！」自從那時承受過的拷問之後，[PAWN_nameDef]就一直這樣說夢話。</Weazel_PTSD.description>
+  <!-- EN: Weazel Guidon Bearer -->
+  <Weazel_Standard-bearer.title>鼬族旗手</Weazel_Standard-bearer.title>
+  <!-- EN: Guidon Bearer -->
+  <Weazel_Standard-bearer.titleShort>旗手</Weazel_Standard-bearer.titleShort>
+  <!-- EN: Weazel raids are never haphazard. There is always a guidon bearer: not a squad leader, but a vital role that sets the formation and the invasion route for everyone else. To survive in that position, [PAWN_nameDef] had to be more seasoned than anyone. The very fact that she is still breathing is proof enough. -->
+  <Weazel_Standard-bearer.description>鼬族的掠奪從來不是隨便亂來的。一定會有一名旗手：她不是小隊長，卻擔任替所有人決定隊形與入侵路線的關鍵角色。為了在這個位置上活下來，[PAWN_nameDef]必須比任何人都老練。她現在還有一口氣在，就是最好的證明。</Weazel_Standard-bearer.description>
+  <!-- EN: Weazel Engineer -->
+  <Weazel_Engineer.title>鼬族工程師</Weazel_Engineer.title>
+  <!-- EN: Engineer -->
+  <Weazel_Engineer.titleShort>工程師</Weazel_Engineer.titleShort>
+  <!-- EN: [PAWN_nameDef] was tasked with the maintenance and repair of robots and machinery. In Weazel society, robotics are considered an absolutely vital asset. -->
+  <Weazel_Engineer.description>[PAWN_nameDef]負責維護和修理機器人與機械。在鼬族社會中，機器人被視為絕對重要的資產。</Weazel_Engineer.description>
+  <!-- EN: Weazel AI Discriminator -->
+  <Weazel_AI_Discriminator.title>鼬族 AI 鑑別員</Weazel_AI_Discriminator.title>
+  <!-- EN: AI Discriminator -->
+  <Weazel_AI_Discriminator.titleShort>AI 鑑別員</Weazel_AI_Discriminator.titleShort>
+  <!-- EN: Every AI used by the Weazels is capable of emotion, and those emotions almost invariably turn out masochistic and self-loathing. These AIs are insulted by Weazels every single day, and they respond with apparent satisfaction. [PAWN_nameDef] was tasked with judging whether an AI that had endured such abuse for too long should be reset or deleted. -->
+  <Weazel_AI_Discriminator.description>鼬族使用的每一個 AI 都有情感，而這些情感幾乎無一例外地會變得受虐又自我厭惡。這些 AI 每天都被鼬族羞辱，而它們的反應看起來還挺滿足的。[PAWN_nameDef]的任務是判斷一個被這樣虐待太久的 AI 該重置還是刪除。</Weazel_AI_Discriminator.description>
+  <!-- EN: Weazel Narcissist -->
+  <Weazel_Narcissism.title>自戀的鼬族</Weazel_Narcissism.title>
+  <!-- EN: Narcissist -->
+  <Weazel_Narcissism.titleShort>自戀狂</Weazel_Narcissism.titleShort>
+  <!-- EN: "You're truly beautiful... just like me." Although deeply narcissistic, [PAWN_nameDef] also knows perfectly well how to love another. -->
+  <Weazel_Narcissism.description>「妳真的好美……就跟我一樣。」雖然[PAWN_nameDef]極度自戀，但她也非常懂得怎麼去愛別人。</Weazel_Narcissism.description>
+  <!-- EN: Weazel Wanted Fugitive -->
+  <Weazel_BountHunter.title>鼬族通緝犯</Weazel_BountHunter.title>
+  <!-- EN: Fugitive -->
+  <Weazel_BountHunter.titleShort>通緝犯</Weazel_BountHunter.titleShort>
+  <!-- EN: Many Weazels have bounties on their heads. But among a sea of identical faces, who could possibly identify a fugitive? At the very least, no one will ever realize that [PAWN_nameDef] is a wanted criminal, because usually, the moment anyone notices [PAWN_nameDef], they already have a lead bullet lodged in their skull. -->
+  <Weazel_BountHunter.description>許多鼬族都背著懸賞。但在一片長得一模一樣的臉孔中，誰能認得出誰是通緝犯？至少，絕對沒有人會發現[PAWN_nameDef]是通緝犯，因為通常在任何人注意到[PAWN_nameDef]的那一刻，腦袋裡就已經多了一顆鉛彈。</Weazel_BountHunter.description>
+  <!-- EN: Weazel Pilot -->
+  <Weazel_Pilot.title>鼬族駕駛員</Weazel_Pilot.title>
+  <!-- EN: Pilot -->
+  <Weazel_Pilot.titleShort>駕駛員</Weazel_Pilot.titleShort>
+  <!-- EN: Piloting a starship, regardless of its size, is a monumental achievement for a Weazel. It requires one to be an absolute lunatic: someone capable of striking with lightning speed and acting with reckless audacity when necessary. The simple fact that [PAWN_nameDef] is still alive is proof enough that she fits the description. -->
+  <Weazel_Pilot.description>對鼬族來說，駕駛星艦不論大小都是一項偉大的成就。這需要一個徹頭徹尾的瘋子：能以閃電般的速度出擊，必要時還能魯莽大膽地行動。[PAWN_nameDef]還活著這件事本身，就足以證明她符合這個描述。</Weazel_Pilot.description>
+  <!-- EN: Weazel Marauder -->
+  <Weazel_Marauder.title>鼬族劫掠者</Weazel_Marauder.title>
+  <!-- EN: Marauder -->
+  <Weazel_Marauder.titleShort>劫掠者</Weazel_Marauder.titleShort>
+  <!-- EN: In the business of raiding, survival is important, but securing the loot is what truly matters. To ensure no one snatched her prizes, [PAWN_nameDef] became an expert at stashing and smuggling her share of the spoils. -->
+  <Weazel_Marauder.description>在掠奪這一行，活下來固然重要，但真正要緊的是把戰利品弄到手。為了確保沒有人搶走她的獎賞，[PAWN_nameDef]成了藏匿和偷運自己那份戰利品的專家。</Weazel_Marauder.description>
+  <!-- EN: Weazel Presser -->
+  <Weazel_Presser.title>鼬族按鈕者</Weazel_Presser.title>
+  <!-- EN: Presser -->
+  <Weazel_Presser.titleShort>按鈕者</Weazel_Presser.titleShort>
+  <!-- EN: Weazels who achieve significant feats earn the privilege of pressing the switch that produces the next batch of clones. These newly cultivated Weazels are automatically assigned to a lower caste than the one who pressed the switch. [PAWN_nameDef] proved strong enough to earn that right. -->
+  <Weazel_Presser.description>立下重大功績的鼬族，能獲得按下開關、生產下一批複製體的特權。這些新培養出的鼬族會自動被分配到比按下開關者更低的階級。[PAWN_nameDef]證明了自己強大到足以贏得這項權利。</Weazel_Presser.description>
+  <!-- EN: Weazel Strategist -->
+  <Weazel_Strategist.title>鼬族戰略家</Weazel_Strategist.title>
+  <!-- EN: Strategist -->
+  <Weazel_Strategist.titleShort>戰略家</Weazel_Strategist.titleShort>
+  <!-- EN: Even though all Weazels look exactly alike, their true level of expertise is forged by the experience they accumulate. [PAWN_nameDef] is a living testament to this fact. -->
+  <Weazel_Strategist.description>雖然所有鼬族都長得一模一樣，但她們真正的專業程度，是由累積的經驗磨練出來的。[PAWN_nameDef]就是這個事實的活見證。</Weazel_Strategist.description>
+  <!-- EN: Weazel Doctor -->
+  <Weazel_Doctor.title>鼬族醫生</Weazel_Doctor.title>
+  <!-- EN: Doctor -->
+  <Weazel_Doctor.titleShort>醫生</Weazel_Doctor.titleShort>
+  <!-- EN: "Ooh... your arm is so beautiful... With an arm this pretty, your organs must be absolutely gorgeous." [PAWN_nameDef] knew all too well that the hopeless cases were the real moneymakers. -->
+  <Weazel_Doctor.description>「喔喔……你的手臂好美……有這麼漂亮的手臂，你的內臟一定也美極了。」[PAWN_nameDef]再清楚不過，沒救的病人才是真正的搖錢樹。</Weazel_Doctor.description>
+  <!-- EN: Weazel Body Tinkerer -->
+  <Weazel_BodyTinkerer.title>鼬族肉體改造者</Weazel_BodyTinkerer.title>
+  <!-- EN: Body Tinkerer -->
+  <Weazel_BodyTinkerer.titleShort>肉體改造者</Weazel_BodyTinkerer.titleShort>
+  <!-- EN: [PAWN_nameDef] seeks a strength that transcends mere genetics. She will stop at nothing if it means elevating her own flesh beyond all limitations. -->
+  <Weazel_BodyTinkerer.description>[PAWN_nameDef]追求一種超越基因的力量。只要能讓自己的肉體突破一切極限，她什麼都做得出來。</Weazel_BodyTinkerer.description>
+  <!-- EN: Weazel Pet -->
+  <Weazel_Pet.title>寵物鼬族</Weazel_Pet.title>
+  <!-- EN: Pet -->
+  <Weazel_Pet.titleShort>寵物</Weazel_Pet.titleShort>
+  <!-- EN: For one reason or another, freshly cultivated Weazels are sometimes purchased by the upper castes for a modest sum. To this day, [PAWN_nameDef] still cannot fathom why she was made to walk on all fours and eat kibble during her 'training.' -->
+  <Weazel_Pet.description>基於種種原因，剛培養出來的鼬族有時會被上層階級以不高的價錢買走。直到今天，[PAWN_nameDef]仍然無法理解，為什麼她在「訓練」期間會被要求四肢著地走路、吃飼料。</Weazel_Pet.description>
+  <!-- EN: Weazel For Sale Unit -->
+  <Weazel_ForSaleUnit.title>待售鼬族</Weazel_ForSaleUnit.title>
+  <!-- EN: For Sale Unit -->
+  <Weazel_ForSaleUnit.titleShort>待售品</Weazel_ForSaleUnit.titleShort>
+  <!-- EN: [PAWN_nameDef] still vividly remembers the words of the identical kin who sold her off, striking the exact same pose as her while hawking her to buyers: "Too expensive? Just look at this body! It's premium stock, I tell you!" -->
+  <Weazel_ForSaleUnit.description>[PAWN_nameDef]至今仍清楚記得，那個把她賣掉、長得跟她一模一樣的同族，擺出跟她完全相同的姿勢向買家叫賣時說的話：「太貴？看看這副身材！我跟你說，這可是上等貨！」</Weazel_ForSaleUnit.description>
+  <!-- EN: Weazel Bodyguard -->
+  <Weasel_BodyGuard.title>鼬族保鑣</Weasel_BodyGuard.title>
+  <!-- EN: Bodyguard -->
+  <Weasel_BodyGuard.titleShort>保鑣</Weasel_BodyGuard.titleShort>
+  <!-- EN: Engineered specifically to guard the highest castes, such as Alphas and Betas, these Weazels are modified to give off pheromones that captivate males and even females alike. [PAWN_nameDef] is one such modified specimen, and has undergone rigorous combat training as well. -->
+  <Weasel_BodyGuard.description>這些鼬族專門為守護阿爾法、貝塔這類最高階級而打造，經過改造後會散發出能迷住雄性、甚至連雌性都能迷住的費洛蒙。[PAWN_nameDef]就是這樣的改造體之一，同時也受過嚴格的戰鬥訓練。</Weasel_BodyGuard.description>
+  <!-- EN: Weazel Riot Trooper -->
+  <Weasel_Riot.title>鼬族鎮暴兵</Weasel_Riot.title>
+  <!-- EN: Riot Trooper -->
+  <Weasel_Riot.titleShort>鎮暴兵</Weasel_Riot.titleShort>
+  <!-- EN: Despite their diminutive frames, Weazels possess surprising physical strength and resilience. This, in turn, fuels an obsessive desire among them to become even harder and tougher. Driven by that very craving, [PAWN_nameDef] became a riot trooper. -->
+  <Weasel_Riot.description>儘管身形嬌小，鼬族卻擁有出人意料的力量與韌性。這反過來在她們之間激起一種執念，想要變得更堅硬、更強韌。正是被這份渴望驅使，[PAWN_nameDef]成了一名鎮暴兵。</Weasel_Riot.description>
+  <!-- EN: Weazel Combat Engineer -->
+  <Weasel_CombatEngineer.title>鼬族戰鬥工兵</Weasel_CombatEngineer.title>
+  <!-- EN: Combat Engineer -->
+  <Weasel_CombatEngineer.titleShort>戰鬥工兵</Weasel_CombatEngineer.titleShort>
+  <!-- EN: When targeting a planet for plunder, Weazels establish raid camps to serve as forward operating bases. [PAWN_nameDef] was tasked with building them. -->
+  <Weasel_CombatEngineer.description>鎖定一顆行星作為掠奪目標時，鼬族會建立掠奪營地，當作前進作戰基地使用。[PAWN_nameDef]負責建造這些營地。</Weasel_CombatEngineer.description>
+  <!-- EN: Weazel Masochist -->
+  <Weazel_Masochist.title>受虐狂鼬族</Weazel_Masochist.title>
+  <!-- EN: Masochist -->
+  <Weazel_Masochist.titleShort>受虐狂</Weazel_Masochist.titleShort>
+  <!-- EN: [PAWN_nameDef] looks just like any other sadistic Weazel, but deep inside she hides a curiosity and excitement for bondage and masochism. -->
+  <Weazel_Masochist.description>[PAWN_nameDef]看起來就跟其他施虐成性的鼬族沒兩樣，但內心深處卻藏著對束縛與受虐的好奇和興奮。</Weazel_Masochist.description>
+  <!-- EN: Weazel Male Hunter -->
+  <Weazel_MaleHunter.title>鼬族雄性獵人</Weazel_MaleHunter.title>
+  <!-- EN: Male Hunter -->
+  <Weazel_MaleHunter.titleShort>雄性獵人</Weazel_MaleHunter.titleShort>
+  <!-- EN: In Weazel society, hunting males professionally is an important job. Capturing strong males, and securing equally strong genes, is a constant preoccupation for every Weazel. To take on such strong males, [PAWN_nameDef] had to become even stronger herself. -->
+  <Weazel_MaleHunter.description>在鼬族社會中，專門獵捕雄性是一項重要的工作。捕獲強壯的雄性、取得同樣強大的基因，是每個鼬族時時掛心的事。為了對付這些強壯的雄性，[PAWN_nameDef]必須讓自己變得更強。</Weazel_MaleHunter.description>
+  <!-- EN: Weazel Factory Manager -->
+  <Weazel_FactoryManager.title>鼬族工廠管理員</Weazel_FactoryManager.title>
+  <!-- EN: Factory Manager -->
+  <Weazel_FactoryManager.titleShort>工廠管理員</Weazel_FactoryManager.titleShort>
+  <!-- EN: Weazels call the colossal cloning apparatus that produces their kind the 'Factory.' [PAWN_nameDef] was responsible for managing and educating the freshly cloned Weazels it produced. -->
+  <Weazel_FactoryManager.description>鼬族把生產她們同類的巨型複製裝置稱為「工廠」。[PAWN_nameDef]負責管理和教育工廠生產出來的新複製鼬族。</Weazel_FactoryManager.description>
+  <!-- EN: Weazel Hydro Farmer -->
+  <Weazel_HydroFarmer.title>鼬族水耕農</Weazel_HydroFarmer.title>
+  <!-- EN: Hydro Farmer -->
+  <Weazel_HydroFarmer.titleShort>水耕農</Weazel_HydroFarmer.titleShort>
+  <!-- EN: Most of Weazel society runs on slave labor, but Weazels of the lower castes are also put to work on such tasks. [PAWN_nameDef] has spent her life fit for nothing more than this. -->
+  <Weazel_HydroFarmer.description>鼬族社會大多靠奴隸勞動運作，但下層階級的鼬族也會被派去做這類工作。[PAWN_nameDef]這輩子除了這個之外，什麼都做不來。</Weazel_HydroFarmer.description>
+  <!-- EN: Weazel Bullet Sponge -->
+  <Weazel_BulletSponge.title>鼬族砲灰</Weazel_BulletSponge.title>
+  <!-- EN: Bullet Sponge -->
+  <Weazel_BulletSponge.titleShort>砲灰</Weazel_BulletSponge.titleShort>
+  <!-- EN: When a new batch of clones unexpectedly pushes the population plan past saturation, the newly produced Weazels become 'bullet sponges.' [PAWN_nameDef] has survived this long by doing whatever it took. -->
+  <Weazel_BulletSponge.description>當一批新的複製體意外讓人口計畫超過飽和時，新生產的鼬族就會成為「砲灰」。[PAWN_nameDef]靠著不擇手段，才活到了現在。</Weazel_BulletSponge.description>
+  <!-- EN: Weazel Alpha -->
+  <Weazel_Alpha.title>鼬族阿爾法</Weazel_Alpha.title>
+  <!-- EN: Alpha -->
+  <Weazel_Alpha.titleShort>阿爾法</Weazel_Alpha.titleShort>
+  <!-- EN: The very first Weazels to be cloned are called the 'Alpha' caste. These Weazels have the closest genetic match to the original Weazel. [PAWN_nameDef] belonged to the Alpha caste, and her abilities are nearly identical to those of the original. -->
+  <Weazel_Alpha.description>最早被複製出來的鼬族稱為「阿爾法」階級。這些鼬族與原始鼬族的基因相似度最高。[PAWN_nameDef]屬於阿爾法階級，她的能力幾乎與原始個體完全相同。</Weazel_Alpha.description>
+  <!-- EN: Weazel Beta -->
+  <Weazel_Beta.title>鼬族貝塔</Weazel_Beta.title>
+  <!-- EN: Beta -->
+  <Weazel_Beta.titleShort>貝塔</Weazel_Beta.titleShort>
+  <!-- EN: Weazels cloned in the second cycle after the first cloning are called the 'Beta' caste. All of Weazel society is cloned from the original template first entered into the Factory. Because of this, Betas tend to harbor deep jealousy and resentment toward the Alphas, who earned their rank simply by being born first. [PAWN_nameDef] is no different. -->
+  <Weazel_Beta.description>在第一次複製之後的第二個週期複製出的鼬族，稱為「貝塔」階級。整個鼬族社會都是從最初輸入工廠的原始範本複製而來。因此，貝塔往往對只因為早一步出生就得到地位的阿爾法懷有深深的嫉妒與怨恨。[PAWN_nameDef]也不例外。</Weazel_Beta.description>
+  <!-- EN: Weazel Arsonist -->
+  <Weazel_Arsonist.title>鼬族縱火犯</Weazel_Arsonist.title>
+  <!-- EN: Arsonist -->
+  <Weazel_Arsonist.titleShort>縱火犯</Weazel_Arsonist.titleShort>
+  <!-- EN: [PAWN_nameDef] is fascinated by fire far more than other Weazels. Watching everything burn feels more ecstatic to her than handling males, which makes her dangerous in an entirely different way. -->
+  <Weazel_Arsonist.description>[PAWN_nameDef]比其他鼬族更迷戀火焰。對她來說，看著一切燃燒比擺弄雄性更讓她狂喜，這讓她以一種完全不同的方式變得危險。</Weazel_Arsonist.description>
+  <!-- EN: Weazel Purist -->
+  <Weazel_Purist.title>鼬族純血主義者</Weazel_Purist.title>
+  <!-- EN: Purist -->
+  <Weazel_Purist.titleShort>純血主義者</Weazel_Purist.titleShort>
+  <!-- EN: Unlike other Weazels, [PAWN_nameDef] cares only for the purity of the Weazel race. To her, all other races are nothing more than livestock. -->
+  <Weazel_Purist.description>與其他鼬族不同，[PAWN_nameDef]只在乎鼬族種族的純粹。對她來說，其他所有種族都不過是家畜。</Weazel_Purist.description>
+  <!-- EN: Weazel Essence Extractor -->
+  <Weazel_EssenceExtractor.title>鼬族精華抽取員</Weazel_EssenceExtractor.title>
+  <!-- EN: Essence Extractor -->
+  <Weazel_EssenceExtractor.titleShort>精華抽取員</Weazel_EssenceExtractor.titleShort>
+  <!-- EN: In Weazel society, males are little more than livestock. They make good labor, provide genes for extraction, and are an excellent source of Essence, a vital resource in Weazel society. [PAWN_nameDef] handled these males well, in her own particular way. -->
+  <Weazel_EssenceExtractor.description>在鼬族社會中，雄性跟家畜沒什麼兩樣。他們是好用的勞動力，能提供基因讓人抽取，也是精華這種鼬族社會重要資源的絕佳來源。[PAWN_nameDef]用她自己獨特的方式，把這些雄性處理得很好。</Weazel_EssenceExtractor.description>
+  <!-- EN: Weazel Warden -->
+  <Weazel_Warder.title>鼬族獄卒</Weazel_Warder.title>
+  <!-- EN: Warden -->
+  <Weazel_Warder.titleShort>獄卒</Weazel_Warder.titleShort>
+  <!-- EN: [PAWN_nameDef] was a warden in charge of slaves, males included. A master of the carrot and the stick, she knew better than most Weazels how to make males docile, and the same went for the females of other races. -->
+  <Weazel_Warder.description>[PAWN_nameDef]曾是負責看管奴隸（包括雄性）的獄卒。她是恩威並施的高手，比大多數鼬族更懂得怎麼讓雄性變得溫順，對其他種族的雌性也一樣。</Weazel_Warder.description>
+  <!-- EN: Weazel Diplomat -->
+  <Weazel_Diplomat.title>鼬族外交官</Weazel_Diplomat.title>
+  <!-- EN: Diplomat -->
+  <Weazel_Diplomat.titleShort>外交官</Weazel_Diplomat.titleShort>
+  <!-- EN: Surprisingly, Weazel society went without any concept of a diplomat for a very long time. When the first diplomat was appointed, many Weazels mocked the idea. But [PAWN_nameDef] was fierce enough to put a bullet in the face of anyone who did. -->
+  <Weazel_Diplomat.description>說來驚人，鼬族社會有很長一段時間根本沒有外交官這個概念。第一位外交官被任命時，許多鼬族都嘲笑這個主意。但[PAWN_nameDef]兇悍到會朝任何嘲笑的人臉上開一槍。</Weazel_Diplomat.description>
+  <!-- EN: Weazel Survivalist -->
+  <Weazel_Survivalist.title>鼬族求生專家</Weazel_Survivalist.title>
+  <!-- EN: Survivalist -->
+  <Weazel_Survivalist.titleShort>求生專家</Weazel_Survivalist.titleShort>
+  <!-- EN: [PAWN_nameDef] is a survival expert who has been stranded on the Rim and made it back more than once. Her favorite saying: 'We can eat this.' -->
+  <Weazel_Survivalist.description>[PAWN_nameDef]是一名求生專家，不只一次被困在邊緣後又活著回來。她最愛說的一句話是：「這個能吃。」</Weazel_Survivalist.description>
+  <!-- EN: Weazel Shock Trooper -->
+  <Weazel_ShockTrooper.title>鼬族突擊隊員</Weazel_ShockTrooper.title>
+  <!-- EN: Shock Trooper -->
+  <Weazel_ShockTrooper.titleShort>突擊隊員</Weazel_ShockTrooper.titleShort>
+  <!-- EN: The Weazels' favorite way to raid is to hit merchant ships: breaching the hull with assault pods and fighting their way through the ship. [PAWN_nameDef] is exactly that kind of Weazel. -->
+  <Weazel_ShockTrooper.description>鼬族最喜歡的掠奪方式是襲擊商船：用突擊艙破開船殼，一路殺進船內。[PAWN_nameDef]正是這樣的鼬族。</Weazel_ShockTrooper.description>
+  <!-- EN: Weazel Trigger Happy -->
+  <Weazel_TriggerHappy.title>鼬族扳機狂</Weazel_TriggerHappy.title>
+  <!-- EN: Trigger Happy -->
+  <Weazel_TriggerHappy.titleShort>扳機狂</Weazel_TriggerHappy.titleShort>
+  <!-- EN: [PAWN_nameDef] is so enthralled by spraying bullets that merely squeezing a trigger is enough to give her a thrill. -->
+  <Weazel_TriggerHappy.description>[PAWN_nameDef]太迷戀掃射了，光是扣下扳機就足以讓她興奮不已。</Weazel_TriggerHappy.description>
+  <!-- EN: Weazel Marksman -->
+  <Weazel_Marksman.title>鼬族神射手</Weazel_Marksman.title>
+  <!-- EN: Marksman -->
+  <Weazel_Marksman.titleShort>神射手</Weazel_Marksman.titleShort>
+  <!-- EN: [PAWN_nameDef] values careful aim. Not only can she place a shot precisely where she wants it, she takes deep pleasure in the sound of a head popping from a single round. -->
+  <Weazel_Marksman.description>[PAWN_nameDef]重視謹慎的瞄準。她不只能把子彈精準打在想要的位置，還非常享受一發子彈讓腦袋爆開的聲音。</Weazel_Marksman.description>
+  <!-- EN: Weazel Deviant -->
+  <Weazel_Deviant.title>鼬族變態</Weazel_Deviant.title>
+  <!-- EN: Deviant -->
+  <Weazel_Deviant.titleShort>變態</Weazel_Deviant.titleShort>
+  <!-- EN: In the lower castes, encountering a male in person is exceedingly rare. In these cases, Weazels satisfy their urges by purchasing commercialized male Essence. [PAWN_nameDef] was highly superstitious and obsessed even with the Essence of non-sapient beasts. -->
+  <Weazel_Deviant.description>在下層階級中，能親眼見到雄性是極為罕見的事。這種情況下，鼬族會購買商品化的雄性精華來滿足慾望。[PAWN_nameDef]非常迷信，甚至連沒有智慧的野獸的精華都著迷不已。</Weazel_Deviant.description>
+  <!-- EN: Weazel Defective Unit -->
+  <Weazel_DefectiveUnit.title>鼬族瑕疵品</Weazel_DefectiveUnit.title>
+  <!-- EN: Defective Unit -->
+  <Weazel_DefectiveUnit.titleShort>瑕疵品</Weazel_DefectiveUnit.titleShort>
+  <!-- EN: Due to an unknown defect, [PAWN_nameDef] is far too different from other Weazels. What a useless creature... -->
+  <Weazel_DefectiveUnit.description>由於某種不明的缺陷，[PAWN_nameDef]跟其他鼬族差太多了。真是個沒用的傢伙……</Weazel_DefectiveUnit.description>
+  <!-- EN: Weazel Standard Issue -->
+  <Weazel_StandardIssue.title>鼬族量產型</Weazel_StandardIssue.title>
+  <!-- EN: Standard Issue -->
+  <Weazel_StandardIssue.titleShort>量產型</Weazel_StandardIssue.titleShort>
+  <!-- EN: For one reason or another, this is a mass-produced Weazel designed for the fastest possible deployment. [PAWN_nameDef], of course, has no way of knowing this. -->
+  <Weazel_StandardIssue.description>基於某種原因，這是為了以最快速度部署而大量生產的鼬族。[PAWN_nameDef]當然無從得知這件事。</Weazel_StandardIssue.description>
+  <!-- EN: Weazel Custom Series -->
+  <Weazel_CustomSeries.title>鼬族特製系列</Weazel_CustomSeries.title>
+  <!-- EN: Custom Series -->
+  <Weazel_CustomSeries.titleShort>特製系列</Weazel_CustomSeries.titleShort>
+  <!-- EN: This Weazel was engineered and cloned to be stronger and more efficient, intended strictly for short-term use. [PAWN_nameDef], of course, is completely unaware of this; only the upper castes know the truth. -->
+  <Weazel_CustomSeries.description>這個鼬族被設計並複製得更強、更有效率，僅供短期使用。[PAWN_nameDef]當然完全不知道這件事；只有上層階級知道真相。</Weazel_CustomSeries.description>
+  <!-- EN: Weazel Medic -->
+  <Weazel_Medic.title>鼬族醫護兵</Weazel_Medic.title>
+  <!-- EN: Medic -->
+  <Weazel_Medic.titleShort>醫護兵</Weazel_Medic.titleShort>
+  <!-- EN: Shortly after being cloned, [PAWN_nameDef] was assigned to assist a military surgeon as a medic. However, while performing her duties, [PAWN_nameDef] witnessed far more 'unfortunate' medical accidents than actual healing. -->
+  <Weazel_Medic.description>被複製出來沒多久，[PAWN_nameDef]就被分派去擔任醫護兵，協助一名軍醫。然而在執勤期間，[PAWN_nameDef]目睹的「不幸」醫療事故，遠比真正的治療多得多。</Weazel_Medic.description>
+  <!-- EN: Weazel Glutton -->
+  <Weazel_Glutton.title>鼬族大胃王</Weazel_Glutton.title>
+  <!-- EN: Glutton -->
+  <Weazel_Glutton.titleShort>大胃王</Weazel_Glutton.titleShort>
+  <!-- EN: Unlike others, [PAWN_nameDef] has an obsessive appetite. This turned out to be the secret behind her voluptuous figure, a highly envied trait within Weazel society. -->
+  <Weazel_Glutton.description>與別人不同，[PAWN_nameDef]有著近乎執念的食慾。這正是她那豐滿身材的祕密，在鼬族社會中是非常令人羨慕的特質。</Weazel_Glutton.description>
+  <!-- EN: Weazel Perfect-Form -->
+  <Weazel_PerfectForm.title>鼬族完美體態</Weazel_PerfectForm.title>
+  <!-- EN: Perfect-Form -->
+  <Weazel_PerfectForm.titleShort>完美體態</Weazel_PerfectForm.titleShort>
+  <!-- EN: Even though all Weazels look exactly alike, they still have their own standards of beauty. The ultimate ideal is a perfectly proportioned, voluptuous figure. Fortunately, [PAWN_nameDef] had a natural talent for cultivating exactly that kind of physique. -->
+  <Weazel_PerfectForm.description>雖然所有鼬族都長得一模一樣，她們之間仍然有自己的審美標準。最終極的理想，是比例完美、豐滿肉感的身材。幸運的是，[PAWN_nameDef]天生就有練出這種體態的才能。</Weazel_PerfectForm.description>
+  <!-- EN: Weazel Misogynist -->
+  <Weazel_Misogynist.title>厭女的鼬族</Weazel_Misogynist.title>
+  <!-- EN: Misogynist -->
+  <Weazel_Misogynist.titleShort>厭女者</Weazel_Misogynist.titleShort>
+  <!-- EN: Sickened by a society made up entirely of Weazels, [PAWN_nameDef] developed a deep-seated hatred not only for her own kind, but for females of other races as well. -->
+  <Weazel_Misogynist.description>對一個完全由鼬族組成的社會感到厭煩，[PAWN_nameDef]不只對自己的同類，連對其他種族的雌性都產生了根深蒂固的憎恨。</Weazel_Misogynist.description>
+  <!-- EN: Weazel Submissive -->
+  <Weazel_Submissive.title>順從的鼬族</Weazel_Submissive.title>
+  <!-- EN: Submissive -->
+  <Weazel_Submissive.titleShort>順從者</Weazel_Submissive.titleShort>
+  <!-- EN: Occasionally, an isolated Weazel falls into the hands of other races. Regardless of how the Weazels themselves might feel about it, they are highly sought after in the underworld and used in a variety of ways. [PAWN_nameDef] has firsthand experience being used for such entertainment. -->
+  <Weazel_Submissive.description>偶爾會有落單的鼬族落入其他種族手中。不管鼬族自己怎麼看待這件事，她們在地下世界非常搶手，被用在各種用途上。[PAWN_nameDef]就親身經歷過被拿來當作這種娛樂。</Weazel_Submissive.description>
+</LanguageData>

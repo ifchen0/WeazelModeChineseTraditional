@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Essence -->
+  <Chemical_Essence.label>精华</Chemical_Essence.label>
+  <!-- EN: Essence delivers a powerful wave of euphoria, but its insidious side effects risk driving the consumer into a relentless cycle of dependency. -->
+  <Chemical_Essence.description>精华会带来一波强烈的狂喜，但其潜伏的副作用可能让使用者陷入无止境的依赖循环。</Chemical_Essence.description>
+  <!-- EN: Essence Blow -->
+  <Chemical_EssenceSmokeleaf.label>精华吞吐</Chemical_EssenceSmokeleaf.label>
+  <!-- EN: To avoid Essence Blow withdrawal, the user needs to smoke Essence Blow on a regular basis. -->
+  <Chemical_EssenceSmokeleaf.description>为了避免精华吞吐的戒断症状，此人需要定期吸食精华吞吐。</Chemical_EssenceSmokeleaf.description>
+</LanguageData>

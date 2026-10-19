@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Essence -->
+  <Weazel_Essence.label>精華</Weazel_Essence.label>
+  <!-- EN: A specialized genetic substance extracted from various species, including humans. It is the most fundamental and indispensable resource in all Weazel engineering.\n\nEssence is a specialized genetic substance discovered by the Weazels. Yielding particularly high quantities when extracted from males, this substance holds boundless potential and is absolutely vital to Weazel society. Depending on how it is processed, Essence can be utilized in everything from weaving textiles and cultivating artificial muscles to synthesizing pharmaceuticals and even recreational use. Essence is practically synonymous with Weazel culture; it is the lifeblood and driving force that shaped them into a race of predatory raiders.\nWhile it is theoretically possible to harvest Essence from other creatures besides civilized humanoid races, doing so is considered a strict taboo even within Weazel society, an act so utterly abhorrent that no sane Weazel would ever even attempt it. -->
+  <Weazel_Essence.description>從包括人類在內的各種族身上抽取出的特殊遺傳物質，是所有鼬族工程中最基本、也最不可或缺的資源。\n\n精華是鼬族發現的一種特殊遺傳物質。從雄性身上抽取時產量特別高，這種物質擁有無窮的潛力，對鼬族社會而言至關重要。視加工方式不同，精華可用於紡織布料、培養人工肌肉、合成藥物，甚至是娛樂用途。精華幾乎就是鼬族文化的代名詞，是讓她們成為掠食性掠奪種族的命脈與原動力。\n雖然理論上也能從文明人形種族以外的生物身上收穫精華，但即使在鼬族社會中，這也被視為嚴格的禁忌，是令人極度厭惡的行為，任何神智正常的鼬族都不會嘗試。</Weazel_Essence.description>
+  <!-- EN: Purified Essence -->
+  <Weazel_Purified_Essence.label>純化精華</Weazel_Purified_Essence.label>
+  <!-- EN: Essence that has been rendered pure through a process of removing impurities and separating out unwanted compounds. -->
+  <Weazel_Purified_Essence.description>經過去除雜質、分離多餘成分等程序而變得純淨的精華。</Weazel_Purified_Essence.description>
+  <!-- EN: Essence Silk -->
+  <Weazel_EssentialSilk.label>精華絲綢</Weazel_EssentialSilk.label>
+  <!-- EN: A fabric woven from stretched Essence threads. Used as a material for Weazel apparel.\n\nA textile woven by extruding Essence into threads. Its silk-like softness and elasticity bear a disturbing resemblance to the texture of living skin. The raw Essence threads are manufactured during the weaving process via a mechanical device armed with countless micro-needles; this machine utilizes centrifugal force to spin the viscous liquid into microscopic filaments, braiding them tightly together like twine. Mimicking the structural principles of spider silk, this woven material offers impressive ballistic protection. Furthermore, thanks to the inherent thermal properties of raw Essence, specialized processing methods guarantee excellent body temperature regulation. -->
+  <Weazel_EssentialSilk.description>以拉伸的精華絲線紡織而成的布料，用作鼬族衣物的材料。\n\n將精華擠壓成絲線後紡織出的織物。它如絲綢般柔軟且富有彈性，觸感卻與活生生的皮膚相似得令人不安。原始的精華絲線是在紡織過程中，由一台布滿無數微針的機械裝置製造：這台機器利用離心力將黏稠的液體紡成極細的纖維，再像搓繩一樣將它們緊密編在一起。這種織物模仿蜘蛛絲的結構原理，提供了出色的防彈性能。此外，由於原始精華本身的熱特性，經過特殊加工後還能確保優秀的體溫調節能力。</Weazel_EssentialSilk.description>
+  <!-- EN: G.A.M. -->
+  <Weazel_GAM.label>G.A.M.</Weazel_GAM.label>
+  <!-- EN: An artificial muscle essential for crafting Weazel power armor. Because it suffers from biological decay at room temperature, it must be kept frozen at sub-zero temperatures.\n\nGenetic Amplified Muscle (G.A.M.) is a synthetic musculature cultivated using Essence. Fueled by Essence or chemical stimulants, G.A.M. is primarily utilized in the construction of power armor. Perfectly replicating biological biomechanics, G.A.M. consists of bundled artificial fibers capable of highly precise contraction and relaxation. By manipulating these fiber bundles, a vast array of muscular structures can be synthesized. Thanks to its extreme elasticity and durability, it serves as the core material for power armor, granting the wearer superhuman kinetic strength.\nIts capacity for rapid mass production once incubation begins makes it the perfect material for a clone race like the Weazels. However, without a constant energy source, G.A.M. will begin to rot. Therefore, it must be kept in cryogenic storage to suspend its activity and maintain freshness. -->
+  <Weazel_GAM.description>製作鼬族動力裝甲不可或缺的人工肌肉。在室溫下會發生生物性腐敗，因此必須在零度以下冷凍保存。\n\n基因增幅肌肉（G.A.M.）是利用精華培養出的合成肌肉組織。G.A.M. 以精華或化學刺激物為能量，主要用於建造動力裝甲。它完美重現生物力學，由成束的人工纖維構成，能進行極為精確的收縮與舒張。透過操縱這些纖維束，可以合成出各式各樣的肌肉結構。憑藉極高的彈性與耐久度，它成為動力裝甲的核心材料，賦予穿著者超乎常人的力量。\n一旦開始培養就能迅速大量生產，這讓它成為鼬族這種複製種族的完美材料。然而，沒有持續的能量來源，G.A.M. 就會開始腐爛。因此必須冷凍保存以中止其活動、維持鮮度。</Weazel_GAM.description>
+  <!-- EN: Weazel -->
+  <Weazel.label>鼬族</Weazel.label>
+  <!-- EN: An artificially cloned creation, the Weazel is a race that never originally existed.\nMost of them are belligerent, as they inherit the personality of the original specimen they were cloned from.\n\nThe race is genetically all female, stands about 120cm tall on average, and is exceptionally cunning and quick.\nWeazels are a common sight across the galaxy. They focus their raids on the Rim and have a particular fondness for abducting colonists. The reason is a special genetic substance called 'Essence,' which can only be extracted from races other than the Weazels themselves.\nEssence is a vital resource in Weazel society, and the entire race lives like pirates in pursuit of high-quality Essence. -->
+  <Weazel.description>鼬族是人工複製出的造物，是一個原本並不存在的種族。\n她們大多好戰，因為她們繼承了被複製的原始個體的性格。\n\n這個種族在基因上全為雌性，平均身高約 120 公分，極為狡猾且敏捷。\n鼬族在銀河各處隨處可見。她們把掠奪重心放在邊緣，尤其喜歡綁架殖民者。原因在於一種名為「精華」的特殊遺傳物質，只能從鼬族以外的種族身上抽取。\n精華是鼬族社會的重要資源，整個種族都像海盜一樣過活，追尋高品質的精華。</Weazel.description>
+  <!-- EN: left claw -->
+  <Weazel.tools.0.label>左爪</Weazel.tools.0.label>
+  <!-- EN: right claw -->
+  <Weazel.tools.1.label>右爪</Weazel.tools.1.label>
+  <!-- EN: teeth -->
+  <Weazel.tools.2.label>牙齒</Weazel.tools.2.label>
+  <!-- EN: The most fundamental military uniform issued to Weazel forces.\n\nWeazels universally favor skin-tight garments like this bodysuit, as the form-fitting design perfectly complements and enhances their natural agility. Woven entirely from Essence Silk, the material's extreme elasticity allows it to function as a universal 'one-size-fits-all' garment, specifically calibrated to their standard 130cm stature. Boasting exceptional comfort and mild vacuum resistance, it serves as the mandatory base layer for all Weazel infantry, whether they are donning light skirmisher gear or piloting heavy power armor. Furthermore, the bodysuit alone provides a respectable degree of innate physical protection. -->
+  <Weazel_Bodysuit_A.description>配發給鼬族部隊最基本的軍服。\n\n鼬族普遍偏好這種緊貼皮膚的服裝，因為貼身的設計能完美襯托並強化她們天生的敏捷。這件緊身衣完全以精華絲綢織成，材質極富彈性，可作為「均碼」服裝，專為她們標準的 130 公分身高調整過。它穿起來非常舒適，也有輕微的真空耐受性，是所有鼬族步兵的必備底層衣物，無論是穿戴輕型散兵裝備還是駕馭重型動力裝甲都一樣。此外，光是緊身衣本身就能提供相當程度的防護。</Weazel_Bodysuit_A.description>
+  <!-- EN: Weazel Bodysuit A -->
+  <Weazel_Bodysuit_A.label>鼬族緊身衣 A</Weazel_Bodysuit_A.label>
+  <!-- EN: The most fundamental military uniform issued to Weazel forces.\n\nWeazels universally favor skin-tight garments like this bodysuit, as the form-fitting design perfectly complements and enhances their natural agility. Woven entirely from Essence Silk, the material's extreme elasticity allows it to function as a universal 'one-size-fits-all' garment, specifically calibrated to their standard 130cm stature. Boasting exceptional comfort and mild vacuum resistance, it serves as the mandatory base layer for all Weazel infantry, whether they are donning light skirmisher gear or piloting heavy power armor. Furthermore, the bodysuit alone provides a respectable degree of innate physical protection. -->
+  <Weazel_Bodysuit_B.description>配發給鼬族部隊最基本的軍服。\n\n鼬族普遍偏好這種緊貼皮膚的服裝，因為貼身的設計能完美襯托並強化她們天生的敏捷。這件緊身衣完全以精華絲綢織成，材質極富彈性，可作為「均碼」服裝，專為她們標準的 130 公分身高調整過。它穿起來非常舒適，也有輕微的真空耐受性，是所有鼬族步兵的必備底層衣物，無論是穿戴輕型散兵裝備還是駕馭重型動力裝甲都一樣。此外，光是緊身衣本身就能提供相當程度的防護。</Weazel_Bodysuit_B.description>
+  <!-- EN: Weazel Bodysuit B -->
+  <Weazel_Bodysuit_B.label>鼬族緊身衣 B</Weazel_Bodysuit_B.label>
+  <!-- EN: A bodysuit worn by Weazel officers. -->
+  <Weazel_Bodysuit_Officer.description>鼬族軍官穿著的緊身衣。</Weazel_Bodysuit_Officer.description>
+  <!-- EN: Weazel Officer Bodysuit -->
+  <Weazel_Bodysuit_Officer.label>鼬族軍官緊身衣</Weazel_Bodysuit_Officer.label>
+  <!-- EN: A duster designed to fully cover the wearer's torso and arms. Not only is it highly resilient against the harsh, rugged environments of the Rim, but its open-front cut ensures that a Weazel's natural agility remains completely unhindered. -->
+  <Weazel_Duster.description>能完整覆蓋穿著者軀幹與手臂的風衣。不但能抵禦邊緣嚴酷崎嶇的環境，前襟敞開的剪裁也確保鼬族天生的敏捷完全不受妨礙。</Weazel_Duster.description>
+  <!-- EN: Weazel Duster -->
+  <Weazel_Duster.label>鼬族風衣</Weazel_Duster.label>
+  <!-- EN: A flak vest designed to protect the wearer's chest. Given their diminutive stature of roughly 130cm, Weazels consider this limited armor coverage to be more than sufficient. Because almost every enemy they encounter in combat towers over them, they firmly believe that, outside of fielding heavy power armor, unhindered mobility is the absolute key to maximizing survivability. -->
+  <Weazel_WeazelFlakvest.description>保護穿著者胸部的防彈背心。鼬族身高只有約 130 公分，因此她們認為這樣有限的護甲覆蓋範圍已經綽綽有餘。由於戰鬥中遇到的敵人幾乎都比她們高大，她們深信除了出動重型動力裝甲之外，不受拘束的機動力才是提高存活率的絕對關鍵。</Weazel_WeazelFlakvest.description>
+  <!-- EN: Weazel Flak Vest -->
+  <Weazel_WeazelFlakvest.label>鼬族防彈背心</Weazel_WeazelFlakvest.label>
+  <!-- EN: A standard-issue combat helmet featuring prominent, oversized ear housings on either side. The spacious interior provides ample clearance for the wearer's ears to twitch and pivot freely, while an integrated tactical headset system amplifies acoustic tracking to easily pinpoint enemy movements. -->
+  <Weazel_WeazelHelmat.description>制式戰鬥頭盔，兩側有醒目的大型耳罩。寬敞的內部空間讓穿著者的耳朵能自由抽動、轉向，整合式戰術耳機系統則能放大聲音，輕鬆鎖定敵人的動向。</Weazel_WeazelHelmat.description>
+  <!-- EN: Weazel Combat Helmet -->
+  <Weazel_WeazelHelmat.label>鼬族戰鬥頭盔</Weazel_WeazelHelmat.label>
+  <!-- EN: Provides better protection than a standard combat helmet, but falls short compared to other power armor helmets.\n\nFor the cloned Weazel race, 'individuality' is an obsession that far surpasses any desire for material wealth. The reality that their entire populace looks and thinks exactly alike has driven most Weazels into a desperate fixation on appearing different.\nConsequently, the very first thing a Weazel does upon acquiring power armor is adorn her helmet with decorations meant to symbolize her 'unique' identity.\n\nHowever, bound by the cognitive limitations of their cloned minds, they all inevitably think alike, meaning these desperate expressions of individuality almost always end up looking ironically identical. -->
+  <Weazel_MarderHelmat.description>防護力比一般戰鬥頭盔好，但比不上其他動力裝甲頭盔。\n\n對複製種族鼬族來說，「個性」是遠遠超越物質財富的執念。整個族群長得一樣、想法也一樣的現實，讓大多數鼬族拚命想讓自己看起來與眾不同。\n因此，鼬族拿到動力裝甲後做的第一件事，就是在頭盔上加裝象徵自己「獨特」身分的裝飾。\n\n然而，受限於複製大腦的認知極限，她們的想法終究都一樣，所以這些拚命展現個性的嘗試，最後幾乎總是諷刺地長得一模一樣。</Weazel_MarderHelmat.description>
+  <!-- EN: Weazel Marder Helmet -->
+  <Weazel_MarderHelmat.label>鼬族馬德頭盔</Weazel_MarderHelmat.label>
+  <!-- EN: Provides better protection than a standard combat helmet, but falls short compared to other power armor helmets. It does not provide any pain suppression effects.\n\nIf you manage to survive an encounter with an armed Weazel raiding party, one of the most common sights left on the battlefield is a discarded Marten helmet, its interior thoroughly caked in blood and saliva.\nThe wearer of Marten armor is constantly pushed to the brink of extreme frenzy, whether engaged in active combat or merely standing on standby. As a result, they display razor-thin patience, frequently screaming and frothing at the mouth.\n\nWeazel commanders exploit this volatile state by deploying Marten wearers at the absolute vanguard, using them to guarantee the survival of the assault squads pushing in behind them. Because of this tactical doctrine, donning Marten armor is widely regarded as a death sentence within Weazel society.\n\nHowever, in a culture where survival is the ultimate testament to strength, returning alive from the meat grinder of melee combat is the absolute measure of power. Consequently, a surprisingly large number of Weazels willingly choose the Marten armor purely for the prestige it brings. -->
+  <Weazel_MartenHelmat.description>防護力比一般戰鬥頭盔好，但比不上其他動力裝甲頭盔。不提供任何壓抑痛覺的效果。\n\n如果你在遭遇武裝鼬族掠奪隊後僥倖存活，戰場上最常見的景象之一，就是被丟棄的貂式頭盔，內部沾滿了血和口水。\n貂式裝甲的穿著者無論是在交戰中還是待命時，都一直被推到極度狂暴的邊緣。因此她們的耐性薄得像紙，動不動就尖叫、口吐白沫。\n\n鼬族指揮官利用這種不穩定的狀態，把貂式穿著者部署在最前線，用她們來確保後方突擊小隊的存活。由於這種戰術準則，穿上貂式裝甲在鼬族社會中普遍被視為死刑判決。\n\n然而，在一個以存活證明強大的文化裡，能從近戰的絞肉機中活著回來，就是力量的絕對標準。因此，出乎意料地有許多鼬族純粹為了它帶來的威望，而心甘情願選擇貂式裝甲。</Weazel_MartenHelmat.description>
+  <!-- EN: Weazel Marten Helmet -->
+  <Weazel_MartenHelmat.label>鼬族貂式頭盔</Weazel_MartenHelmat.label>
+  <!-- EN: Equipped with a Cyclops lens, the Wolverine helmet is precision-engineered to maximize the wearer's marksmanship. Increases shooting accuracy.\n\nWhile the Cyclops lens suffers from the severe drawback of drastically narrowing peripheral vision, it compensates by projecting a primary tactical HUD that rapidly acquires and pinpoints distant targets. This makes it perfectly optimized for establishing a supporting field of fire from the rear lines.\nThis targeting system allows a Wolverine, armed to the teeth with devastating heavy ordnance, to deliver surgical strikes against high-value targets.\n\nTo reiterate: surviving Weazels absolutely never utter the word 'Thicc' to a wearer's face, nor do they dare make any hand gestures implying it. -->
+  <Weazel_WolverineHelmat.description>狼獾頭盔配備獨眼鏡頭，經過精密設計以將穿著者的射擊技術發揮到極致。提升射擊準度。\n\n雖然獨眼鏡頭有嚴重的缺點，會大幅縮小周邊視野，但它能投射出主要戰術 HUD，迅速捕捉並鎖定遠方目標，作為補償。這讓它非常適合在後方建立支援火線。\n有了這套瞄準系統，全副武裝、扛著毀滅性重火力的狼獾就能對高價值目標進行精準打擊。\n\n再次重申：還活著的鼬族絕對不會當著穿著者的面說出「肉感」這個詞，也不敢比出任何暗示這個詞的手勢。</Weazel_WolverineHelmat.description>
+  <!-- EN: Weazel Wolverine Helmet -->
+  <Weazel_WolverineHelmat.label>鼬族狼獾頭盔</Weazel_WolverineHelmat.label>
+  <!-- EN: The Marder is the most common standard-issue power armor manufactured for Weazels. While it offers comparatively lower protection than other power armors, its greatest strength is the superhuman force provided by its G.A.M. artificial muscles.\n\nA true symbol of Weazel engineering, a wearer of the Marder armor can easily support over 100kg of weight without compromising her balance.\n\nWeazels place immense faith in the strength and durability this suit provides to shatter their own physical limitations, and they gleefully revel in the thrill of firing massive heavy weapons that their natural bodies could never lift. -->
+  <Weazel_MarderArmor.description>馬德是為鼬族生產、最普遍的制式動力裝甲。雖然防護力比其他動力裝甲低，但它最大的優勢是 G.A.M. 人工肌肉提供的怪力。\n\n作為鼬族工程的真正象徵，穿著馬德裝甲的人能輕鬆承受超過 100 公斤的重量，而且不會失去平衡。\n\n鼬族非常信賴這套裝甲提供的力量與耐久度，靠它突破自身的身體極限，並且樂在其中地享受發射天生身體絕對扛不動的巨型重武器的快感。</Weazel_MarderArmor.description>
+  <!-- EN: Weazel Marder Power Armor -->
+  <Weazel_MarderArmor.label>鼬族馬德動力裝甲</Weazel_MarderArmor.label>
+  <!-- EN: The Marten is a modified power armor specialized for melee combat. It artificially inflates the wearer's pain threshold, allowing her to endure grievous injuries for extended periods. However, because she can fight past the point of collapse, the wearer is exceptionally likely to simply fight until death.\n\nThe Marten provides a dangerously simple function: maximum pain suppression. This is achieved not through conventional drugs, but via pheromones secreted directly from its Essence-fueled, modified G.A.M. musculature. Reeking of fresh blood, this substance is vented internally from the G.A.M., forcing the wearer to inhale it constantly and thrusting her into a state of violent frenzy. The awakened wearer is reduced to a rabid marten, obsessed only with charging forward to slaughter everything in sight. Due to these suicidal side effects, demand is highly niche. Consequently, the Marten stands as the cheapest and most readily available power armor for Weazels with 'specific' tastes. -->
+  <Weazel_MartenArmor.description>貂式是專精近戰的改良型動力裝甲。它會人為提高穿著者的痛覺閾值，讓她能長時間忍受重傷。然而，由於能撐過本該倒下的極限繼續戰鬥，穿著者極有可能就這樣一路打到死。\n\n貂式提供一項危險而單純的功能：最大限度地壓抑痛覺。這不是靠一般藥物達成，而是由以精華驅動的改良型 G.A.M. 肌肉組織直接分泌的費洛蒙。這種物質帶有新鮮血液的腥味，從 G.A.M. 內部排出，迫使穿著者持續吸入，並把她推入暴力的狂亂狀態。覺醒的穿著者會淪為一頭狂暴的貂，腦中只剩衝上前去屠殺眼前的一切。由於這些自殺式的副作用，需求相當小眾。因此，對有「特殊」癖好的鼬族來說，貂式是最便宜、也最容易取得的動力裝甲。</Weazel_MartenArmor.description>
+  <!-- EN: Weazel Marten Power Armor -->
+  <Weazel_MartenArmor.label>鼬族貂式動力裝甲</Weazel_MartenArmor.label>
+  <!-- EN: The Wolverine is a heavy power armor that defies standard design specifications. Boasting exceptionally high armor ratings and brute kinetic strength, it is the optimal suit for wielding massive heavy weaponry.\n\nBuilt as a heavyweight juggernaut, the Wolverine is reinforced with reactive armor plating and powered by a specially modified, high-capacity G.A.M. musculature designed to support its own immense weight. Specialized for handling anti-tank ordnance and high-yield explosives, the armor's sheer bulk has earned it the nickname 'Thicc' armor among Weazels. While it is a rare sight on the battlefield, if you ever face one as an enemy, the gargantuan weapon in its wearer's hands will likely catch your eye long before her robust figure does. Just as a Wolverine wearer is incredibly hard to kill, she is invariably armed with devastating firepower capable of effortlessly killing anything else. Naturally, surviving Weazels know better than to ever utter the word 'Thicc' to a wearer's face. -->
+  <Weazel_WolverineArmor.description>狼獾是一款超出標準設計規格的重型動力裝甲。它擁有極高的護甲值與蠻力，是揮舞巨型重武器的最佳裝甲。\n\n狼獾作為重量級巨兵打造，以反應裝甲板強化，並由特別改良的大容量 G.A.M. 肌肉組織驅動，以支撐自身龐大的重量。這套專門用來操作反戰車武器與高爆炸藥的裝甲，因為那驚人的體積，在鼬族之間得到了「肉感」裝甲的綽號。雖然在戰場上很少見，但如果你與它為敵，在注意到穿著者豐滿的身形之前，你多半會先看到她手中那把巨大的武器。正如狼獾的穿著者極難殺死，她也必定配備了足以輕鬆殺死其他一切的毀滅性火力。不用說，還活著的鼬族都知道，絕對不要當著穿著者的面說出「肉感」這個詞。</Weazel_WolverineArmor.description>
+  <!-- EN: Weazel Wolverine Power Armor -->
+  <Weazel_WolverineArmor.label>鼬族狼獾動力裝甲</Weazel_WolverineArmor.label>
+  <!-- EN: A specialized bodysuit worn by Weazel wardens. It exerts a significant psychological effect, greatly increasing the suppression and obedience of nearby slaves.\n\nIn Weazel society, the role of a warden is a position of absolute authority and a display of power. Wardens are tasked with overseeing the captives designated for Essence extraction, placing them at the very forefront of the Essence production process. Weazels who become wardens are highly prone to becoming intoxicated by their own power, frequently deriving sadistic pleasure from dominating and subduing their prisoners. Consequently, to the captives under their watch, these wardens can be truly horrific entities. -->
+  <Weazel_Bodysuit_Warder.description>鼬族獄卒穿著的特製緊身衣。它有顯著的心理效果，能大幅提高附近奴隸的服從與順從程度。\n\n在鼬族社會中，獄卒是絕對權威的職位，也是權力的展現。獄卒負責看管被指定抽取精華的俘虜，站在精華生產流程的最前線。當上獄卒的鼬族很容易沉醉於自己的權力，常常從支配、制伏俘虜中得到施虐的快感。因此，對她們看管下的俘虜而言，這些獄卒可能是真正恐怖的存在。</Weazel_Bodysuit_Warder.description>
+  <!-- EN: Weazel Warden Bodysuit -->
+  <Weazel_Bodysuit_Warder.label>鼬族獄卒緊身衣</Weazel_Bodysuit_Warder.label>
+  <!-- EN: A standard-issue cap worn by Weazel wardens. It enhances the wearer's ability to maintain the obedience of slaves.\n\nIt's a warden's cap. What more is there to say? -->
+  <Weazel_Wardenhat.description>鼬族獄卒戴的制式帽子。能提升穿著者維持奴隸服從的能力。\n\n這是獄卒帽。還需要說什麼嗎？</Weazel_Wardenhat.description>
+  <!-- EN: Weazel Warden Cap -->
+  <Weazel_Wardenhat.label>鼬族獄卒帽</Weazel_Wardenhat.label>
+  <!-- EN: Weazel Essence Slave Suit -->
+  <Weazel_Slavesuit.label>鼬族精華奴隸服</Weazel_Slavesuit.label>
+  <!-- EN: A specialized slave uniform engineered with proprietary Weazel know-how. It periodically extracts Essence from the wearer, dropping the harvested product directly onto the floor.\n\nThis garment is custom-fitted for captives and equipped with a specialized extraction apparatus. Utilizing a device positioned at the wearer's crotch, it periodically harvests Essence, which is then discharged through a mechanism on the back. The exact method by which this Essence is extracted is a secret known only to the Weazels and the unfortunate wearer. As a bonus, it offers a surprisingly comfortable fit for a slave's daily life. -->
+  <Weazel_Slavesuit.description>運用鼬族獨門技術製作的特殊奴隸服。它會定期從穿著者身上抽取精華，並把收穫的產物直接排放到地上。\n\n這件衣服是為俘虜量身打造，配備了特殊的抽取裝置。它利用位於穿著者胯下的裝置定期收穫精華，再透過背後的機構排出。精華究竟是用什麼方法抽取的，只有鼬族和不幸的穿著者知道。附帶一提，對奴隸的日常生活而言，它穿起來意外地舒適。</Weazel_Slavesuit.description>
+  <!-- EN: Bionic Weazel Tail -->
+  <Weazel_BionicTail.label>仿生鼬族尾巴</Weazel_BionicTail.label>
+  <!-- EN: A Weazel tail whose artificial nature is impossible to spot at a glance. It corrects the user's gait, assisting their movement. -->
+  <Weazel_BionicTail.description>一眼看不出是人造品的鼬族尾巴。能矯正使用者的步態，輔助移動。</Weazel_BionicTail.description>
+  <!-- EN: Weazel Blade Tail -->
+  <Weazel_BladeTail.label>鼬族刀刃尾巴</Weazel_BladeTail.label>
+  <!-- EN: The only thing better than an ordinary tail is a tail with a blade on it. Special, stylish, and quite handy for killing anyone who gets on your nerves. -->
+  <Weazel_BladeTail.description>比普通尾巴更好的，就是裝了刀刃的尾巴。特別、時髦，用來宰掉看不順眼的傢伙也很順手。</Weazel_BladeTail.description>
+  <!-- EN: Weazel Colloid Arm -->
+  <WeazelColloidArm.label>鼬族膠體手臂</WeazelColloidArm.label>
+  <!-- EN: A gel-like arm formed through Weazel technology. -->
+  <WeazelColloidArm.description>以鼬族技術形成的凝膠狀手臂。</WeazelColloidArm.description>
+  <!-- EN: G.A.M. Bio-Generator -->
+  <WeazelBioGenerator.label>G.A.M. 生質發電機</WeazelBioGenerator.label>
+  <!-- EN: A generator that produces electricity by harnessing the bio-thermic heat of G.A.M. Requires G.A.M. as fuel to generate power.\n\nG.A.M. is a ubiquitous material in Weazel society, notably repurposed even for power generation facilities. Shortly after discovering that sadistically stimulating the artificial muscle induces intense heat and a minor electrical charge, the majority of Weazel raiding outposts aggressively transitioned to G.A.M.-based power over standard chemfuel. After all, the very establishment of a Weazel raiding camp implies the active harvesting of Essence. Because G.A.M. can be cultivated with terrifying speed as long as Essence is plentiful, this method offers the massive advantage of a completely self-sustaining power supply. -->
+  <WeazelBioGenerator.description>利用 G.A.M. 的生物熱能發電的發電機。需要 G.A.M. 作為燃料才能發電。\n\nG.A.M. 是鼬族社會中隨處可見的材料，甚至被拿來當作發電設施的燃料。在發現以施虐方式刺激人工肌肉會產生高熱與微量電荷後不久，大多數鼬族掠奪前哨就積極地從標準化合燃料改用 G.A.M. 發電。畢竟，建立鼬族掠奪營地本來就意味著要積極收穫精華。只要精華充足，G.A.M. 就能以驚人的速度培養出來，因此這種方式擁有完全自給自足的巨大優勢。</WeazelBioGenerator.description>
+  <!-- EN: Essence Loom -->
+  <WeazelEssenceWeaver.label>精華紡織機</WeazelEssenceWeaver.label>
+  <!-- EN: A mechanical device designed to weave Essence into textile materials.\n\nTransforming viscous, liquid Essence into workable fabric is a nearly impossible task without this machinery. First, extracted Essence is injected into a receptacle, where countless micro-needles stretch and spin the fluid in mid-air, temporarily solidifying it into microscopic fibers. These fibers are then braided together like twine and woven into usable threads. The underlying principle mimics a spider spinning its web: a conceptually simple but highly demanding process that strictly requires mechanical precision. -->
+  <WeazelEssenceWeaver.description>將精華紡織成布料的機械裝置。\n\n沒有這台機器，要把黏稠的液態精華變成可用的布料幾乎是不可能的任務。首先，抽取出的精華會被注入容器，無數微針在空中拉伸、紡絲，讓液體暫時凝固成極細的纖維。接著這些纖維會像搓繩一樣編在一起，織成可用的絲線。其原理模仿蜘蛛結網：概念簡單，卻是極為嚴苛、必須仰賴機械精度的工序。</WeazelEssenceWeaver.description>
+  <!-- EN: Weazel Essence Refiner -->
+  <WeazelEssenceRefiner.label>鼬族精華精煉機</WeazelEssenceRefiner.label>
+  <!-- EN: A Weazel Essence refinery. It currently has no function.\n\nIt purifies Essence through highly specialized processes. Weazel engineering is fundamentally built upon Essence, and refining it allows it to be utilized in a multitude of ways, from crafting sophisticated apparel to synthesizing potent pharmaceuticals. Naturally, such highly refined Essence is reserved for the upper castes of Weazel society. -->
+  <WeazelEssenceRefiner.description>鼬族的精華精煉設施。目前沒有任何功能。\n\n它以高度特殊的工序純化精華。鼬族工程從根本上就建立在精華之上，經過精煉後的精華用途更廣，從製作精緻的衣物到合成強效藥物都行。理所當然，這種高度精煉的精華只保留給鼬族社會的上層階級。</WeazelEssenceRefiner.description>
+  <!-- EN: G.A.M. Incubator -->
+  <WeazelGAMIncubation.label>G.A.M. 培養槽</WeazelGAMIncubation.label>
+  <!-- EN: An incubator that cultivates G.A.M. artificial muscles using Essence. As long as Essence is periodically injected, it automatically produces G.A.M.\n\nThis vat nurtures a mass of artificial muscle that pulsates in reaction to Essence, behaving almost like a living organism. During the incubation phase, the G.A.M. writhes like tentacles, clumped together within the vat's nutrient fluid. When Essence is pumped through the lower intake chamber, the G.A.M. actively reacts, absorbing the fluid to fuel its growth. Few Weazels actually know the true nature of this material. Most are simply supplied with the base organic matter, knowing nothing more than the protocols required to cultivate and mass-produce it. -->
+  <WeazelGAMIncubation.description>利用精華培養 G.A.M. 人工肌肉的培養槽。只要定期注入精華，就會自動生產 G.A.M.。\n\n這座槽內培育著一團會對精華產生反應而搏動的人工肌肉，表現得幾乎就像活生生的生物。在培養階段，G.A.M. 會在槽內的營養液中擠成一團，像觸手一樣扭動。當精華從下方的注入艙打進來時，G.A.M. 會主動反應，吸收液體來促進生長。真正了解這種材料本質的鼬族寥寥無幾。大多數鼬族只是被配給基礎的有機物質，除了培養與量產所需的作業程序之外一無所知。</WeazelGAMIncubation.description>
+  <!-- EN: Essence Blow -->
+  <Weazel_EssenceSmokeleaf.label>精華吞吐</Weazel_EssenceSmokeleaf.label>
+  <!-- EN: An aerosolized form of Essence designed to be inhaled like smoke, carrying a deeply suggestive double entendre. It offers a pleasant mood boost with minimal risk of addiction.\n\nEssence Blow is the quintessential recreational indulgence in Weazel society, a clever play on words that leaves polite company blushing. Invented by a depraved Weazel artisan, this sultry luxury plays into the decadent vanity of inhaling the essence with puckered lips, quickly spreading as a wildly popular vice. By blending a hint of smokeleaf with refined Essence, it minimizes addictive properties while delivering a euphoric jolt to Weazels exhausted by grueling labor. Many a Weazel harbors a dark, salacious romanticism for taking a deep, breathless pull of Essence Blow to unwind after a brutal raid. -->
+  <Weazel_EssenceSmokeleaf.description>將精華霧化，像菸一樣吸入的形態，帶有強烈暗示的雙關意味。能讓心情愉快地提升，成癮風險也很低。\n\n精華吞吐是鼬族社會中最具代表性的娛樂享受，這個巧妙的文字遊戲足以讓正經人臉紅。它由一名墮落的鼬族工匠發明，這種撩人的奢侈品迎合了噘起嘴唇吸入精華的頹廢虛榮，很快就成為廣受歡迎的惡習。它在純化精華中混入少許捲菸，將成癮性降到最低，同時為被繁重勞動累壞的鼬族帶來一陣狂喜。許多鼬族對於在殘酷的掠奪之後，深深地、喘不過氣地吸上一口精華吞吐來放鬆，懷有一種陰暗而淫靡的浪漫情懷。</Weazel_EssenceSmokeleaf.description>
+  <!-- EN: Smoke {0} -->
+  <Weazel_EssenceSmokeleaf.ingestible.ingestCommandString>吸食{0}</Weazel_EssenceSmokeleaf.ingestible.ingestCommandString>
+  <!-- EN: Smoking {0}. -->
+  <Weazel_EssenceSmokeleaf.ingestible.ingestReportString>正在吸食{0}。</Weazel_EssenceSmokeleaf.ingestible.ingestReportString>
+  <!-- EN: Consuming {0}. -->
+  <Weazel_EssenceSmokeleaf.ingestible.ingestReportStringEat>正在服用{0}。</Weazel_EssenceSmokeleaf.ingestible.ingestReportStringEat>
+  <!-- EN: Weazel revolver bullet -->
+  <Bullet_Geckco.label>鼬族左輪子彈</Bullet_Geckco.label>
+  <!-- EN: Weazel SMG bullet -->
+  <Bullet_Viper.label>鼬族衝鋒槍子彈</Bullet_Viper.label>
+  <!-- EN: Weazel battle rifle bullet -->
+  <Bullet_Mamba.label>鼬族戰鬥步槍子彈</Bullet_Mamba.label>
+  <!-- EN: Weazel LMG bullet -->
+  <Bullet_Anaconda.label>鼬族輕機槍子彈</Bullet_Anaconda.label>
+  <!-- EN: Weazel hunting rifle bullet -->
+  <Bullet_Caiman.label>鼬族獵槍子彈</Bullet_Caiman.label>
+  <!-- EN: Weazel sniper bullet -->
+  <Bullet_Caiman_H.label>鼬族狙擊子彈</Bullet_Caiman_H.label>
+  <!-- EN: Weazel nine-barrel shotgun pellet -->
+  <Bullet_NineBarrelShotgun.label>鼬族九管霰彈</Bullet_NineBarrelShotgun.label>
+  <!-- EN: autocannon HE shell -->
+  <Bullet_Alligator.label>機砲高爆彈</Bullet_Alligator.label>
+  <!-- EN: Weazel machine gun bullet -->
+  <Bullet_Taipan.label>鼬族機槍子彈</Bullet_Taipan.label>
+  <!-- EN: Weazel Bear Slam -->
+  <Weazel_BearSlam.label>鼬族熊掌重擊</Weazel_BearSlam.label>
+  <!-- EN: A mechanized subjugation weapon forged in the shape of a massive bear's paw.\n\nOperating on mechanical principles, the Bear Slam is specifically engineered for subduing captives. Its primary purpose is to deliver a 'crushing blow,' utilizing its broad surface area to swat enemies into unconsciousness. However, when lethal force is required, the four razor-sharp claw blades mounted at the fingertips can inflict critical lacerations and induce heavy bleeding. -->
+  <Weazel_BearSlam.description>鍛造成巨大熊掌形狀的機械化制伏武器。\n\n熊掌重擊以機械原理運作，專為制伏俘虜而設計。它的主要用途是靠寬大的表面積施加「壓制重擊」，把敵人拍到昏迷。然而，需要致命武力時，裝在指尖的四片鋒利爪刃也能造成致命的割傷並引發大量出血。</Weazel_BearSlam.description>
+  <!-- EN: slam -->
+  <Weazel_BearSlam.tools.0.label>重擊</Weazel_BearSlam.tools.0.label>
+  <!-- EN: claw -->
+  <Weazel_BearSlam.tools.1.label>爪</Weazel_BearSlam.tools.1.label>
+  <!-- EN: Weazel Grizzly -->
+  <Weazel_Grizzly.label>鼬族灰熊</Weazel_Grizzly.label>
+  <!-- EN: A multi-purpose falchion featuring a broad blade. Tailored to complement Weazel agility, it is remarkably lightweight yet capable of delivering devastating cleaving power thanks to its wide surface area, making it a highly favored melee weapon among Weazels.\nBeyond close-quarters combat, the Grizzly also serves as an exceptional utility tool, equally adept at chopping wood, clearing brush, and performing various other tasks on the Rim. -->
+  <Weazel_Grizzly.description>刀身寬大的多用途彎刀。為配合鼬族的敏捷而設計，重量極輕，但憑藉寬大的刀面能發揮毀滅性的劈砍力，是鼬族非常喜愛的近戰武器。\n除了近身戰鬥，灰熊也是優秀的實用工具，在邊緣上劈柴、清除灌木和處理各種雜務都同樣得心應手。</Weazel_Grizzly.description>
+  <!-- EN: handle -->
+  <Weazel_Grizzly.tools.0.label>刀柄</Weazel_Grizzly.tools.0.label>
+  <!-- EN: blade -->
+  <Weazel_Grizzly.tools.1.label>刀身</Weazel_Grizzly.tools.1.label>
+  <!-- EN: Weazel Ermine -->
+  <Weazel_Ermine.label>鼬族白鼬</Weazel_Ermine.label>
+  <!-- EN: The Ermine is a small, lightweight, and flat-profiled dagger featuring a ring at the pommel, specifically engineered for rapid deployment and immediate strikes.\n\nPrioritizing piercing over slashing, the Ermine is a weapon perfectly tailored to the small, agile Weazels. In combat, Weazels typically rush their targets at breakneck speed and drive the blade directly into vital organs. -->
+  <Weazel_Ermine.description>白鼬是一把小巧、輕盈、外形扁平的匕首，柄頭有一個圓環，專為迅速拔出、立即出擊而設計。\n\n白鼬重刺擊而非劈砍，是完美契合嬌小敏捷的鼬族的武器。戰鬥中，鼬族通常會以驚人的速度衝向目標，把刀刃直接刺進要害。</Weazel_Ermine.description>
+  <!-- EN: blade -->
+  <Weazel_Ermine.tools.0.label>刀身</Weazel_Ermine.tools.0.label>
+  <!-- EN: point -->
+  <Weazel_Ermine.tools.1.label>刀尖</Weazel_Ermine.tools.1.label>
+  <!-- EN: handle -->
+  <Weazel_Ermine.tools.2.label>刀柄</Weazel_Ermine.tools.2.label>
+  <!-- EN: Weazel Badger -->
+  <Weazel_Badger.label>鼬族獾</Weazel_Badger.label>
+  <!-- EN: The Badger is a 140cm long blunt weapon whose very design reflects the core purpose of the Weazels.\n\nIt was designed to 'capture,' rather than kill, targets far larger than its wielder. Taking advantage of a length that exceeds the average Weazel's height, it is swung two-handed with full centrifugal force behind each blow, making it optimal for incapacitating and subduing large hostiles. -->
+  <Weazel_Badger.description>獾是一把長 140 公分的鈍器，它的設計本身就反映了鼬族的核心目的。\n\n它是為了「捕獲」而非殺死遠比使用者高大的目標而設計的。利用超過鼬族平均身高的長度，以雙手全力揮動、讓每一擊都帶著離心力，最適合用來讓大型敵人失去行動能力並加以制伏。</Weazel_Badger.description>
+  <!-- EN: head -->
+  <Weazel_Badger.tools.0.label>錘頭</Weazel_Badger.tools.0.label>
+  <!-- EN: handle -->
+  <Weazel_Badger.tools.1.label>握柄</Weazel_Badger.tools.1.label>
+  <!-- EN: Weazel Chihuahua Chainsaw -->
+  <Weazel_ChihuahuaChainsaw.label>鼬族吉娃娃鏈鋸</Weazel_ChihuahuaChainsaw.label>
+  <!-- EN: Measuring a staggering 130cm in length, the Chihuahua is a colossal chainsaw that functions more like a mechanized greatsword engineered by the Weazels. The moment its engine revs up, the deafening roar and violent shaking perfectly capture the spirit of its namesake: a furious Chihuahua.\nWeazels who are obsessed with the visceral thrill of close-quarters combat naturally gravitate toward this weapon. Their preference, however, stems less from its practical combat efficiency and more from the sadistic entertainment of watching their enemies recoil in sheer terror. Rather than using it for steady cutting like a traditional chainsaw, Weazels frequently swing it wildly through the air like a greatsword, reveling in the panic it induces.\n\nDespite its diminutive name, the weapon is as heavy as it looks. Wielding the Chihuahua unassisted is impractical; it is strongly recommended that it only be used while wearing power armor. -->
+  <Weazel_ChihuahuaChainsaw.description>吉娃娃長達驚人的 130 公分，是一把巨型鏈鋸，用起來更像是鼬族打造的機械化巨劍。引擎一發動，震耳欲聾的咆哮和劇烈的晃動，完美體現了它名字的精神：一隻暴怒的吉娃娃。\n沉迷於近身戰鬥那份原始快感的鼬族，自然而然會被這把武器吸引。然而，她們的偏好與其說是來自實際的戰鬥效率，不如說是來自看著敵人嚇得退縮的施虐樂趣。鼬族很少像傳統鏈鋸那樣穩定地切割，而是常常像揮巨劍一樣在空中亂揮，享受它引起的恐慌。\n\n雖然名字很嬌小，這把武器卻跟看起來一樣沉重。沒有輔助就揮舞吉娃娃並不實際，強烈建議只在穿著動力裝甲時使用。</Weazel_ChihuahuaChainsaw.description>
+  <!-- EN: head -->
+  <Weazel_ChihuahuaChainsaw.tools.0.label>鋸頭</Weazel_ChihuahuaChainsaw.tools.0.label>
+  <!-- EN: saw -->
+  <Weazel_ChihuahuaChainsaw.tools.1.label>鋸鏈</Weazel_ChihuahuaChainsaw.tools.1.label>
+  <!-- EN: Weazel Gecko Revolver -->
+  <Weazel_Geckco.label>鼬族壁虎左輪手槍</Weazel_Geckco.label>
+  <!-- EN: Designed for maximum portability, this compact revolver is built for sidearm carry. While its diminutive frame allows for a rapid draw during sudden emergencies, its large-caliber chambering guarantees highly reliable stopping power in close-quarters, anti-personnel combat. -->
+  <Weazel_Geckco.description>為了極致的便攜性而設計，這把小巧的左輪手槍是作為副武器攜帶用的。嬌小的槍身讓它能在突發緊急狀況中迅速拔槍，而大口徑的膛室則保證在近距離對人戰鬥中有非常可靠的制止力。</Weazel_Geckco.description>
+  <!-- EN: Weazel Gecko Revolver -->
+  <Weazel_Geckco.verbs.Verb_Shoot.label>鼬族壁虎左輪手槍</Weazel_Geckco.verbs.Verb_Shoot.label>
+  <!-- EN: grip -->
+  <Weazel_Geckco.tools.0.label>握把</Weazel_Geckco.tools.0.label>
+  <!-- EN: barrel -->
+  <Weazel_Geckco.tools.1.label>槍管</Weazel_Geckco.tools.1.label>
+  <!-- EN: Weazel Viper -->
+  <Weazel_Viper.label>鼬族蝰蛇</Weazel_Viper.label>
+  <!-- EN: Engineered specifically for Weazel mobility, the Viper is characterized by its compact size, lightweight frame, and blistering rate of fire. Designed to rapidly unload a massive volume of lead into close-range targets, the Viper perfectly symbolizes the Weazel combat doctrine of utilizing their natural agility to swiftly close the distance on their prey. -->
+  <Weazel_Viper.description>蝰蛇專為鼬族的機動力設計，特點是體積小巧、重量輕、射速極快。它的設計目的是迅速向近距離目標傾瀉大量子彈，完美象徵了鼬族利用天生敏捷迅速逼近獵物的戰鬥準則。</Weazel_Viper.description>
+  <!-- EN: Weazel Viper -->
+  <Weazel_Viper.verbs.Verb_Shoot.label>鼬族蝰蛇</Weazel_Viper.verbs.Verb_Shoot.label>
+  <!-- EN: stock -->
+  <Weazel_Viper.tools.0.label>槍托</Weazel_Viper.tools.0.label>
+  <!-- EN: barrel -->
+  <Weazel_Viper.tools.1.label>槍管</Weazel_Viper.tools.1.label>
+  <!-- EN: Weazel Mamba -->
+  <Weazel_Mamba.label>鼬族曼巴</Weazel_Mamba.label>
+  <!-- EN: The Mamba rifle is the most widely issued standard firearm among Weazel forces. Its reliable range, steady rate of fire, and solid accuracy are its greatest assets, making the weapon highly versatile and capable of adapting to almost any combat scenario. -->
+  <Weazel_Mamba.description>曼巴步槍是鼬族部隊配發最廣的制式槍械。可靠的射程、穩定的射速和扎實的準度是它最大的優點，讓這把武器用途廣泛，幾乎能適應任何戰鬥情境。</Weazel_Mamba.description>
+  <!-- EN: Weazel Mamba -->
+  <Weazel_Mamba.verbs.Verb_Shoot.label>鼬族曼巴</Weazel_Mamba.verbs.Verb_Shoot.label>
+  <!-- EN: stock -->
+  <Weazel_Mamba.tools.0.label>槍托</Weazel_Mamba.tools.0.label>
+  <!-- EN: barrel -->
+  <Weazel_Mamba.tools.1.label>槍管</Weazel_Mamba.tools.1.label>
+  <!-- EN: Weazel Anaconda -->
+  <Weazel_Anaconda.label>鼬族森蚺</Weazel_Anaconda.label>
+  <!-- EN: Engineered for battlefield suppression, the Anaconda is designed to rapidly lay down a hail of gunfire to pin down and halt advancing enemies.\nWhile its smaller caliber means it lacks outright lethality, its ability to instantly establish a blistering curtain of fire allows it to effortlessly suppress humans and even significantly larger hostiles. -->
+  <Weazel_Anaconda.description>森蚺專為戰場壓制而設計，能迅速傾瀉彈雨，牽制並阻止推進中的敵人。\n雖然口徑較小，缺乏直接的殺傷力，但它能瞬間建立猛烈的火網，輕鬆壓制人類，甚至是體型大得多的敵人。</Weazel_Anaconda.description>
+  <!-- EN: Weazel Anaconda -->
+  <Weazel_Anaconda.verbs.Verb_Shoot.label>鼬族森蚺</Weazel_Anaconda.verbs.Verb_Shoot.label>
+  <!-- EN: stock -->
+  <Weazel_Anaconda.tools.0.label>槍托</Weazel_Anaconda.tools.0.label>
+  <!-- EN: barrel -->
+  <Weazel_Anaconda.tools.1.label>槍管</Weazel_Anaconda.tools.1.label>
+  <!-- EN: Weazel Caiman -->
+  <Weazel_Caiman.label>鼬族凱門鱷</Weazel_Caiman.label>
+  <!-- EN: Resembling a grotesquely upscaled revolver, the Caiman is a long-range rifle chambered to hold six rounds of .50 caliber ammunition.\nEngineered to eliminate the most troublesome targets from afar, it boasts extreme range, devastating damage, and high armor penetration, all backed by highly reliable accuracy. However, its massive recoil and the slow reloading of its oversized munitions result in an abysmally low rate of fire. Yet even these flaws are completely overshadowed by its most glaring drawback: its sheer, agonizing weight, which leaves it barely portable on the battlefield. -->
+  <Weazel_Caiman.description>凱門鱷看起來像一把被誇張放大的左輪手槍，是一把可裝填六發 .50 口徑彈藥的長程步槍。\n它是為了從遠處除掉最棘手的目標而設計，擁有極遠的射程、毀滅性的傷害和高穿甲能力，準度也非常可靠。然而，巨大的後座力加上超大彈藥的緩慢裝填，讓它的射速低得可憐。但這些缺點都比不上它最明顯的毛病：重得令人痛苦，在戰場上幾乎扛不動。</Weazel_Caiman.description>
+  <!-- EN: Weazel Caiman -->
+  <Weazel_Caiman.verbs.Verb_Shoot.label>鼬族凱門鱷</Weazel_Caiman.verbs.Verb_Shoot.label>
+  <!-- EN: stock -->
+  <Weazel_Caiman.tools.0.label>槍托</Weazel_Caiman.tools.0.label>
+  <!-- EN: barrel -->
+  <Weazel_Caiman.tools.1.label>槍管</Weazel_Caiman.tools.1.label>
+  <!-- EN: Weazel Caiman Long Barrel -->
+  <Weazel_Caiman_H.label>鼬族凱門鱷長槍管型</Weazel_Caiman_H.label>
+  <!-- EN: A variant of the Caiman featuring a barrel extended to twice its original length. As a direct consequence, its overall weight has also doubled, making it impossible for standard infantry to wield. It is therefore fielded by power armor wearers.\n\nThe lengthened barrel provides a proportional increase to its maximum range, along with an equally devastating boost to its destructive power. -->
+  <Weazel_Caiman_H.description>凱門鱷的衍生型，槍管延長為原本的兩倍。直接的後果就是整體重量也翻倍，一般步兵根本無法使用，因此由動力裝甲穿著者配備。\n\n加長的槍管讓最大射程等比例提升，破壞力也同樣大幅增強。</Weazel_Caiman_H.description>
+  <!-- EN: Weazel Caiman Long Barrel -->
+  <Weazel_Caiman_H.verbs.Verb_Shoot.label>鼬族凱門鱷長槍管型</Weazel_Caiman_H.verbs.Verb_Shoot.label>
+  <!-- EN: stock -->
+  <Weazel_Caiman_H.tools.0.label>槍托</Weazel_Caiman_H.tools.0.label>
+  <!-- EN: barrel -->
+  <Weazel_Caiman_H.tools.1.label>槍管</Weazel_Caiman_H.tools.1.label>
+  <!-- EN: Hydra Shotgun -->
+  <Weazel_NineBarrelShotgun.label>九頭蛇霰彈槍</Weazel_NineBarrelShotgun.label>
+  <!-- EN: A shotgun featuring not two, not three, but nine individual barrels. Designed less for practical efficiency and purely for the sheer romance of overwhelming firepower, this weapon erupts with a storm of buckshot like a wall of flame from its nine muzzles, rapidly suppressing targets and inflicting catastrophic damage at close range. -->
+  <Weazel_NineBarrelShotgun.description>一把霰彈槍，槍管不是兩根，也不是三根，而是九根。它的設計重點不在實用效率，純粹是為了壓倒性火力的浪漫。九個槍口會像一道火牆般噴出暴風般的霰彈，迅速壓制目標，並在近距離造成毀滅性的傷害。</Weazel_NineBarrelShotgun.description>
+  <!-- EN: Hydra Shotgun -->
+  <Weazel_NineBarrelShotgun.verbs.Verb_Shoot.label>九頭蛇霰彈槍</Weazel_NineBarrelShotgun.verbs.Verb_Shoot.label>
+  <!-- EN: stock -->
+  <Weazel_NineBarrelShotgun.tools.0.label>槍托</Weazel_NineBarrelShotgun.tools.0.label>
+  <!-- EN: barrel -->
+  <Weazel_NineBarrelShotgun.tools.1.label>槍管</Weazel_NineBarrelShotgun.tools.1.label>
+  <!-- EN: Weazel Alligator -->
+  <Weazel_Alligator.label>鼬族短吻鱷</Weazel_Alligator.label>
+  <!-- EN: A massive, devastating heavy weapon created by fusing twin autocannons into a single platform, capable of rapidly unleashing a barrage of 25mm high-explosive rounds.\nIts overwhelming firepower and explosive payload effectively transform a standard infantryman into a walking armored vehicle. However, its crushing weight and absurd recoil make it impossible to operate without the highly precise contraction and relaxation of G.A.M. artificial muscles to absorb the punishment.\nConsequently, the Alligator is designed exclusively for power armor wearers. -->
+  <Weazel_Alligator.description>將兩門機砲合而為一的巨大毀滅性重武器，能迅速射出一連串 25mm 高爆彈。\n壓倒性的火力與爆炸酬載，實際上把一名普通步兵變成了一輛會走路的裝甲車。然而，它驚人的重量和荒謬的後座力，沒有 G.A.M. 人工肌肉極其精確的收縮與舒張來吸收衝擊，就根本無法操作。\n因此，短吻鱷專為動力裝甲穿著者設計。</Weazel_Alligator.description>
+  <!-- EN: Weazel Alligator -->
+  <Weazel_Alligator.verbs.Verb_Shoot.label>鼬族短吻鱷</Weazel_Alligator.verbs.Verb_Shoot.label>
+  <!-- EN: grip -->
+  <Weazel_Alligator.tools.0.label>握把</Weazel_Alligator.tools.0.label>
+  <!-- EN: Weazel Taipan -->
+  <Weazel_Taipan.label>鼬族太攀蛇</Weazel_Taipan.label>
+  <!-- EN: Most Weazels harbor a deep love for indiscriminate spray-and-pray. They are especially drawn to massive heavy weapons like the Taipan Minigun that can unleash spectacular storms of lead. This weapon perfectly embodies the fundamental spirit of Weazel engineering. While the Taipan Minigun's actual lethality is shockingly poor, the majority of Weazels derive immense pleasure from watching their enemies cower, pinned down by the sheer volume of fire unleashed in mere seconds. This perfectly aligns with the core Weazel ideology: rather than outright killing their targets, the goal is to crush their will to fight and secure them as intact 'livestock' for Essence. Naturally, due to its absurd recoil, the Taipan Minigun can only be wielded by those equipped with power armor. -->
+  <Weazel_Taipan.description>大多數鼬族都深愛不分青紅皂白的亂槍掃射。她們特別喜歡像太攀蛇旋轉機槍這種能噴出壯觀彈雨的巨型重武器。這把武器完美體現了鼬族工程的基本精神。雖然太攀蛇旋轉機槍的實際殺傷力差得驚人，但大多數鼬族都非常享受看著敵人被短短幾秒內傾瀉的大量火力壓得抬不起頭。這完全符合鼬族的核心思想：與其直接殺死目標，不如粉碎他們的戰意，把他們當成完好無損的精華「家畜」帶走。當然，由於荒謬的後座力，太攀蛇旋轉機槍只有穿著動力裝甲的人才能使用。</Weazel_Taipan.description>
+  <!-- EN: Weazel Taipan -->
+  <Weazel_Taipan.verbs.Verb_Shoot.label>鼬族太攀蛇</Weazel_Taipan.verbs.Verb_Shoot.label>
+  <!-- EN: grip -->
+  <Weazel_Taipan.tools.0.label>握把</Weazel_Taipan.tools.0.label>
+</LanguageData>

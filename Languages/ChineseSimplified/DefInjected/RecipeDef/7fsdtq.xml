@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Weave Essence Silk -->
+  <Make_EssentialSilk.label>纺织精华丝绸</Make_EssentialSilk.label>
+  <!-- EN: Weave Essence Silk from Essence. -->
+  <Make_EssentialSilk.description>用精华纺织出精华丝绸。</Make_EssentialSilk.description>
+  <!-- EN: Weaving Essence Silk. -->
+  <Make_EssentialSilk.jobString>正在纺织精华丝绸。</Make_EssentialSilk.jobString>
+  <!-- EN: Extract Essence -->
+  <ExtractEssenceRecipe.label>抽取精华</ExtractEssenceRecipe.label>
+  <!-- EN: Extract Essence from the subject. -->
+  <ExtractEssenceRecipe.description>从对象身上抽取精华。</ExtractEssenceRecipe.description>
+  <!-- EN: Extracting Essence. -->
+  <ExtractEssenceRecipe.jobString>正在抽取精华。</ExtractEssenceRecipe.jobString>
+  <!-- EN: Install Bionic Weazel Tail -->
+  <InstallWeazelBionicTail.label>安装仿生鼬族尾巴</InstallWeazelBionicTail.label>
+  <!-- EN: Attach a bionic Weazel tail to the body. -->
+  <InstallWeazelBionicTail.description>将仿生鼬族尾巴安装到身体上。</InstallWeazelBionicTail.description>
+  <!-- EN: Installing bionic Weazel tail. -->
+  <InstallWeazelBionicTail.jobString>正在安装仿生鼬族尾巴。</InstallWeazelBionicTail.jobString>
+  <!-- EN: Install Weazel Blade Tail -->
+  <InstallWeazelBladeTail.label>安装鼬族刀刃尾巴</InstallWeazelBladeTail.label>
+  <!-- EN: Attach a Weazel blade tail to the body. -->
+  <InstallWeazelBladeTail.description>将鼬族刀刃尾巴安装到身体上。</InstallWeazelBladeTail.description>
+  <!-- EN: Installing Weazel blade tail. -->
+  <InstallWeazelBladeTail.jobString>正在安装鼬族刀刃尾巴。</InstallWeazelBladeTail.jobString>
+  <!-- EN: Install Weazel Colloid Arm -->
+  <InstallColloidArm.label>安装鼬族胶体手臂</InstallColloidArm.label>
+  <!-- EN: Attach a Weazel colloid arm to the body. -->
+  <InstallColloidArm.description>将鼬族胶体手臂安装到身体上。</InstallColloidArm.description>
+  <!-- EN: Installing Weazel colloid arm. -->
+  <InstallColloidArm.jobString>正在安装鼬族胶体手臂。</InstallColloidArm.jobString>
+</LanguageData>

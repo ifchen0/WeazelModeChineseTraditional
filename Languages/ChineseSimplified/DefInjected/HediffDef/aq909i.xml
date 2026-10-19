@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Essence Extracted -->
+  <EssenceReplicating.label>精华已抽取</EssenceReplicating.label>
+  <!-- EN: To Weazels, Essence is the most precious resource of all. Rather than extracting it recklessly, they usually keep their captives alive in order to harvest more Essence over the long term.\nEssence regenerates over time, and once it has sufficiently recovered, it can be extracted again.\nIn desperate times, however, some Weazels attempt to forcibly extract Essence from captives who have not yet regenerated. In such cases, the excessive extraction leaves the captive dead, or in a state not far from it. -->
+  <EssenceReplicating.description>对鼬族而言，精华是最珍贵的资源。她们通常不会鲁莽地抽取，而是让囚犯活着，以便长期收获更多精华。\n精华会随时间再生，充分恢复后即可再次抽取。\n然而在走投无路时，有些鼬族会试图从尚未再生的囚犯身上强行抽取精华。这种情况下，过度抽取会让囚犯死亡，或落入离死不远的状态。</EssenceReplicating.description>
+  <!-- EN: Essence Extraction -->
+  <Weazel_Slavesuit.label>精华抽取</Weazel_Slavesuit.label>
+  <!-- EN: The subject is undergoing continuous Essence extraction, carefully regulated to avoid permanent physical damage. This grueling process yields an average of 15 Essence per day. -->
+  <Weazel_Slavesuit.description>此人正在被持续抽取精华，抽取量经过精密调控，以免造成永久性的身体损伤。这个累人的过程平均每天可产出 15 份精华。</Weazel_Slavesuit.description>
+  <!-- EN: Bionic Weazel Tail -->
+  <Weazel_BionicTail.label>仿生鼬族尾巴</Weazel_BionicTail.label>
+  <!-- EN: a bionic Weazel tail -->
+  <Weazel_BionicTail.labelNoun>仿生鼬族尾巴</Weazel_BionicTail.labelNoun>
+  <!-- EN: A Weazel tail whose artificial nature is impossible to spot at a glance. It corrects the user's gait, assisting their movement. -->
+  <Weazel_BionicTail.description>一眼看不出是人造品的鼬族尾巴。能矫正使用者的步态，辅助移动。</Weazel_BionicTail.description>
+  <!-- EN: Weazel Blade Tail -->
+  <Weazel_BladeTail.label>鼬族刀刃尾巴</Weazel_BladeTail.label>
+  <!-- EN: a Weazel blade tail -->
+  <Weazel_BladeTail.labelNoun>鼬族刀刃尾巴</Weazel_BladeTail.labelNoun>
+  <!-- EN: The only thing better than an ordinary tail is a tail with a blade on it. Special, stylish, and quite handy for killing anyone who gets on your nerves. -->
+  <Weazel_BladeTail.description>比普通尾巴更好的，就是装了刀刃的尾巴。特别、时髦，用来宰掉看不顺眼的家伙也很顺手。</Weazel_BladeTail.description>
+  <!-- EN: blade -->
+  <Weazel_BladeTail.comps.0.tools.0.label>刀刃</Weazel_BladeTail.comps.0.tools.0.label>
+  <!-- EN: Weazel Colloid Arm -->
+  <WeazelColloidArm.label>鼬族胶体手臂</WeazelColloidArm.label>
+  <!-- EN: a Weazel colloid arm -->
+  <WeazelColloidArm.labelNoun>鼬族胶体手臂</WeazelColloidArm.labelNoun>
+  <!-- EN: A gel-like fist formed through Weazel technology. -->
+  <WeazelColloidArm.description>以鼬族技术形成的凝胶状拳头。</WeazelColloidArm.description>
+  <!-- EN: fist -->
+  <WeazelColloidArm.comps.0.tools.0.label>拳头</WeazelColloidArm.comps.0.tools.0.label>
+  <!-- EN: Essence High -->
+  <EssenceHigh.label>精华亢奋</EssenceHigh.label>
+  <!-- EN: an Essence high -->
+  <EssenceHigh.labelNoun>精华亢奋</EssenceHigh.labelNoun>
+  <!-- EN: In a state of extreme stimulation and euphoria induced by refined Essence. -->
+  <EssenceHigh.description>因纯化精华而处于极度刺激与狂喜的状态。</EssenceHigh.description>
+  <!-- EN: Essence Addiction -->
+  <EssenceAddiction.label>精华成瘾</EssenceAddiction.label>
+  <!-- EN: Addicted to Essence. Once addicted, the user becomes entirely dependent on the substance in a relentless pursuit to recapture its intense euphoria. -->
+  <EssenceAddiction.description>对精华成瘾。一旦成瘾，使用者就会完全依赖这种物质，不断追求重温那股强烈的狂喜。</EssenceAddiction.description>
+  <!-- EN: withdrawal -->
+  <EssenceAddiction.stages.1.label>戒断反应</EssenceAddiction.stages.1.label>
+  <!-- EN: Essence Tolerance -->
+  <EssenceTolerance.label>精华耐受</EssenceTolerance.label>
+  <!-- EN: Repeated administration of Essence breeds familiarity with its euphoria, amplifying the sense of diminishing returns and worsening the drop-off. -->
+  <EssenceTolerance.description>反复使用精华会让人习惯那股狂喜，效果递减的感受越来越强，退潮时也越来越难受。</EssenceTolerance.description>
+  <!-- EN: High on Essence Blow -->
+  <EssenceSmokeleafHigh.label>精华吞吐亢奋</EssenceSmokeleafHigh.label>
+  <!-- EN: an Essence Blow high -->
+  <EssenceSmokeleafHigh.labelNoun>精华吞吐亢奋</EssenceSmokeleafHigh.labelNoun>
+  <!-- EN: Essence carried in on the smoke is coursing through the veins. A strange euphoria and a sharp sense of focus set in. -->
+  <EssenceSmokeleafHigh.description>随着烟雾吸入的精华正在血管中流窜。一股奇异的狂喜与敏锐的专注感油然而生。</EssenceSmokeleafHigh.description>
+  <!-- EN: Essence Blow Tolerance -->
+  <EssenceSmokeleafTolerance.label>精华吞吐耐受</EssenceSmokeleafTolerance.label>
+  <!-- EN: A built-up tolerance to Essence Blow. The higher the tolerance, the more Essence Blow is needed to achieve the same effect. -->
+  <EssenceSmokeleafTolerance.description>对精华吞吐的耐受性。耐受性越严重，达到同样效果所需要的精华吞吐也就越多。</EssenceSmokeleafTolerance.description>
+  <!-- EN: Essence Blow Dependence -->
+  <EssenceSmokeleafAddiction.label>精华吞吐依赖</EssenceSmokeleafAddiction.label>
+  <!-- EN: Essence Blow is not very addictive, but it is still useful—and dangerous. -->
+  <EssenceSmokeleafAddiction.description>精华吞吐的成瘾性不高，但仍然很有用，也很危险。</EssenceSmokeleafAddiction.description>
+  <!-- EN: withdrawal -->
+  <EssenceSmokeleafAddiction.stages.1.label>戒断反应</EssenceSmokeleafAddiction.stages.1.label>
+  <!-- EN: {PAWN_nameDef}'s Essence has fully regenerated and can be extracted again. -->
+  <EssenceReplicating.comps.0.messageOnDisappear>{PAWN_nameDef}的精华已完全再生，可以再次抽取。</EssenceReplicating.comps.0.messageOnDisappear>
+</LanguageData>

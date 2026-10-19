@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: New Beginning -->
+  <Weazel_PlayerFaction.label>新的開始</Weazel_PlayerFaction.label>
+  <!-- EN: Your Weazel settlement. -->
+  <Weazel_PlayerFaction.description>你的鼬族據點。</Weazel_PlayerFaction.description>
+  <!-- EN: Weazel -->
+  <Weazel_PlayerFaction.pawnSingular>鼬族</Weazel_PlayerFaction.pawnSingular>
+  <!-- EN: Weazels -->
+  <Weazel_PlayerFaction.pawnsPlural>鼬族</Weazel_PlayerFaction.pawnsPlural>
+  <!-- EN: leader -->
+  <Weazel_PlayerFaction.leaderTitle>領袖</Weazel_PlayerFaction.leaderTitle>
+  <!-- EN: Weazel -->
+  <XCCRaidBase.pawnSingular>鼬族</XCCRaidBase.pawnSingular>
+  <!-- EN: Weazels -->
+  <XCCRaidBase.pawnsPlural>鼬族</XCCRaidBase.pawnsPlural>
+  <!-- EN: XCC Boss -->
+  <XCCRaidBase.leaderTitle>XCC 頭目</XCCRaidBase.leaderTitle>
+  <!-- EN: XCC Raiding Battalion -->
+  <XCCRaidBase.label>XCC 掠奪大隊</XCCRaidBase.label>
+  <!-- EN: A Weazel raiding battalion cultivated in the XCC cloning facilities. -->
+  <XCCRaidBase.description>在 XCC 複製設施中培育出來的鼬族掠奪大隊。</XCCRaidBase.description>
+</LanguageData>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Essence Processing -->
+  <WeazelEssenceWeaver.label>精华加工</WeazelEssenceWeaver.label>
+  <!-- EN: Unlocks foundational techniques for processing raw Essence. This research allows your colony to weave harvested Essence into usable Essence Silk. -->
+  <WeazelEssenceWeaver.description>解锁加工原始精华的基础技术。完成此研究后，殖民地就能把收获的精华纺织成可用的精华丝绸。</WeazelEssenceWeaver.description>
+  <!-- EN: Efficient Domestication -->
+  <WeazelWeazelSlavesuit.label>高效家畜化</WeazelWeazelSlavesuit.label>
+  <!-- EN: Unlocks the fabrication of specialized prisoner garments designed to periodically harvest Essence from captives. -->
+  <WeazelWeazelSlavesuit.description>解锁特制的囚服，可以定期从囚犯身上收获精华。</WeazelWeazelSlavesuit.description>
+  <!-- EN: G.A.M. Incubation Theory -->
+  <WeazelGAMIncubation.label>G.A.M. 培养理论</WeazelGAMIncubation.label>
+  <!-- EN: Unlocks the construction of a specialized incubator designed to cultivate G.A.M. artificial muscles utilizing Essence. -->
+  <WeazelGAMIncubation.description>解锁特制培养槽的建造，可以利用精华培养 G.A.M. 人工肌肉。</WeazelGAMIncubation.description>
+  <!-- EN: Essence Refining Technology -->
+  <WeazelEssenceRefiner.label>精华精炼技术</WeazelEssenceRefiner.label>
+  <!-- EN: Unlocks the construction of the Essence Refiner, a facility intended for purifying raw Essence. Currently, this building has no practical effect. -->
+  <WeazelEssenceRefiner.description>解锁精华精炼机的建造，用于纯化原始精华。这座建筑目前没有实际效果。</WeazelEssenceRefiner.description>
+  <!-- EN: Artificial Muscle Fiber Replication -->
+  <WeazelPowerArmor.label>人工肌纤维复制</WeazelPowerArmor.label>
+  <!-- EN: Unlocks the fabrication of advanced power armor integrated with G.A.M. artificial muscles. -->
+  <WeazelPowerArmor.description>解锁整合 G.A.M. 人工肌肉的进阶动力装甲制作。</WeazelPowerArmor.description>
+  <!-- EN: Applied Artificial Biology -->
+  <WeazelBioGenerator.label>应用人工生物学</WeazelBioGenerator.label>
+  <!-- EN: Unlocks the construction of the G.A.M. Bio-Generator, a facility that generates electrical power by utilizing G.A.M. artificial muscles. -->
+  <WeazelBioGenerator.description>解锁 G.A.M. 生质发电机的建造，这是一种利用 G.A.M. 人工肌肉发电的设施。</WeazelBioGenerator.description>
+  <!-- EN: Weapon Upscaling -->
+  <WeazelPowerWeapon.label>武器巨型化</WeazelPowerWeapon.label>
+  <!-- EN: Unlocks the fabrication of massive heavy weapons. Due to their extreme weight and monstrous recoil, these weapons can only be wielded by units equipped with power armor. -->
+  <WeazelPowerWeapon.description>解锁巨型重武器的制作。由于极为沉重且后座力惊人，这些武器只有穿着动力装甲的人才能使用。</WeazelPowerWeapon.description>
+</LanguageData>

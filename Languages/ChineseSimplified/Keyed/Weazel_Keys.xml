@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Only Weazels can equip this. -->
+  <Weazel_CantEquip_WeazelOnly>只有鼬族能装备。</Weazel_CantEquip_WeazelOnly>
+  <!-- EN: Requires Weazel power armor. -->
+  <Weazel_CantEquip_NeedPowerArmor>需要鼬族动力装甲。</Weazel_CantEquip_NeedPowerArmor>
+  <!-- EN: Only Weazels can perform this surgery. -->
+  <Weazel_Surgery_WeazelOnly>只有鼬族能进行此手术。</Weazel_Surgery_WeazelOnly>
+  <!-- EN: The target must be a prisoner or slave, and cannot be a Weazel. -->
+  <Weazel_Surgery_InvalidTarget>目标必须是囚犯或奴隶，且不能是鼬族。</Weazel_Surgery_InvalidTarget>
+  <!-- EN: The target's Essence has not regenerated yet. Extracting now may kill them. -->
+  <Weazel_EssenceNotRegenerated>目标的精华尚未再生。现在抽取可能会害死对方。</Weazel_EssenceNotRegenerated>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Additional Carry Capacity -->
+  <Weazel_MassCarryCapacity.label>额外负重</Weazel_MassCarryCapacity.label>
+  <!-- EN: The additional weight (kg) that can be carried by wearing this equipment. -->
+  <Weazel_MassCarryCapacity.description>穿着此装备后可额外携带的重量（公斤）。</Weazel_MassCarryCapacity.description>
+  <!-- EN: {0} kg -->
+  <Weazel_MassCarryCapacity.formatString>{0} 公斤</Weazel_MassCarryCapacity.formatString>
+</LanguageData>

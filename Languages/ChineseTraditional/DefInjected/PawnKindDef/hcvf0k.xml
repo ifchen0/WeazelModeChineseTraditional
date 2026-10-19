@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Weazel Logistics Officer -->
+  <Weazel_Merchant.label>鼬族後勤官</Weazel_Merchant.label>
+  <!-- EN: Weazel Warden -->
+  <Weazel_Warden.label>鼬族獄卒</Weazel_Warden.label>
+  <!-- EN: Weazel Caravan Guard -->
+  <Weazel_Caravan_Guard.label>鼬族商隊護衛</Weazel_Caravan_Guard.label>
+  <!-- EN: Weazel Bodyguard -->
+  <Weazel_BodyGuard.label>鼬族保鑣</Weazel_BodyGuard.label>
+  <!-- EN: Weazel Colonist -->
+  <Weazel_Colonist.label>鼬族殖民者</Weazel_Colonist.label>
+  <!-- EN: Weazel Double Fang Bullet Sponge -->
+  <Weazel_BulletSponge.label>鼬族雙牙砲灰</Weazel_BulletSponge.label>
+  <!-- EN: Weazel Recruit -->
+  <Weazel_Recruit.label>鼬族新兵</Weazel_Recruit.label>
+  <!-- EN: Weazel Core Infantry -->
+  <Weazel_Core_Infantry.label>鼬族主力步兵</Weazel_Core_Infantry.label>
+  <!-- EN: Weazel Guidon Bearer -->
+  <Weazel_Guidon_Bearer.label>鼬族旗手</Weazel_Guidon_Bearer.label>
+  <!-- EN: Weazel Grenadier -->
+  <Weazel_Trooper.label>鼬族擲彈兵</Weazel_Trooper.label>
+  <!-- EN: Weazel Marksman -->
+  <Weazel_Marksman.label>鼬族精確射手</Weazel_Marksman.label>
+  <!-- EN: Weazel Heavy Infantry -->
+  <Weazel_Heavy.label>鼬族重步兵</Weazel_Heavy.label>
+  <!-- EN: Weazel Assault Trooper -->
+  <Weazel_Assault_Trooper.label>鼬族突擊兵</Weazel_Assault_Trooper.label>
+  <!-- EN: Weazel Assault Guidon Bearer -->
+  <Weazel_Assalut_Guidon.label>鼬族突擊旗手</Weazel_Assalut_Guidon.label>
+  <!-- EN: Weazel Berserker -->
+  <Weazel_Berserker.label>鼬族狂戰士</Weazel_Berserker.label>
+  <!-- EN: Weazel Veteran -->
+  <Weazel_Veteran.label>鼬族老兵</Weazel_Veteran.label>
+</LanguageData>

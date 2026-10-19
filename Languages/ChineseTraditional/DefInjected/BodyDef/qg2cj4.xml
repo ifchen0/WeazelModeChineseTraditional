@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Weazel -->
+  <Weazel.label>鼬族</Weazel.label>
+  <!-- EN: tail -->
+  <Weazel.corePart.parts.4.customLabel>尾巴</Weazel.corePart.parts.4.customLabel>
+  <!-- EN: left lung -->
+  <Weazel.corePart.parts.7.customLabel>左肺</Weazel.corePart.parts.7.customLabel>
+  <!-- EN: right lung -->
+  <Weazel.corePart.parts.8.customLabel>右肺</Weazel.corePart.parts.8.customLabel>
+  <!-- EN: left kidney -->
+  <Weazel.corePart.parts.9.customLabel>左腎</Weazel.corePart.parts.9.customLabel>
+  <!-- EN: right kidney -->
+  <Weazel.corePart.parts.10.customLabel>右腎</Weazel.corePart.parts.10.customLabel>
+  <!-- EN: left shoulder -->
+  <Weazel.corePart.parts.13.customLabel>左肩</Weazel.corePart.parts.13.customLabel>
+  <!-- EN: right shoulder -->
+  <Weazel.corePart.parts.14.customLabel>右肩</Weazel.corePart.parts.14.customLabel>
+  <!-- EN: left leg -->
+  <Weazel.corePart.parts.16.customLabel>左腿</Weazel.corePart.parts.16.customLabel>
+  <!-- EN: right leg -->
+  <Weazel.corePart.parts.17.customLabel>右腿</Weazel.corePart.parts.17.customLabel>
+  <!-- EN: left clavicle -->
+  <Weazel.corePart.parts.13.parts.0.customLabel>左鎖骨</Weazel.corePart.parts.13.parts.0.customLabel>
+  <!-- EN: left arm -->
+  <Weazel.corePart.parts.13.parts.1.customLabel>左臂</Weazel.corePart.parts.13.parts.1.customLabel>
+  <!-- EN: right clavicle -->
+  <Weazel.corePart.parts.14.parts.0.customLabel>右鎖骨</Weazel.corePart.parts.14.parts.0.customLabel>
+  <!-- EN: right arm -->
+  <Weazel.corePart.parts.14.parts.1.customLabel>右臂</Weazel.corePart.parts.14.parts.1.customLabel>
+  <!-- EN: left femur -->
+  <Weazel.corePart.parts.16.parts.0.customLabel>左股骨</Weazel.corePart.parts.16.parts.0.customLabel>
+  <!-- EN: left tibia -->
+  <Weazel.corePart.parts.16.parts.1.customLabel>左脛骨</Weazel.corePart.parts.16.parts.1.customLabel>
+  <!-- EN: left foot -->
+  <Weazel.corePart.parts.16.parts.2.customLabel>左腳</Weazel.corePart.parts.16.parts.2.customLabel>
+  <!-- EN: right femur -->
+  <Weazel.corePart.parts.17.parts.0.customLabel>右股骨</Weazel.corePart.parts.17.parts.0.customLabel>
+  <!-- EN: right tibia -->
+  <Weazel.corePart.parts.17.parts.1.customLabel>右脛骨</Weazel.corePart.parts.17.parts.1.customLabel>
+  <!-- EN: right foot -->
+  <Weazel.corePart.parts.17.parts.2.customLabel>右腳</Weazel.corePart.parts.17.parts.2.customLabel>
+  <!-- EN: left eye -->
+  <Weazel.corePart.parts.12.parts.0.parts.1.customLabel>左眼</Weazel.corePart.parts.12.parts.0.parts.1.customLabel>
+  <!-- EN: right eye -->
+  <Weazel.corePart.parts.12.parts.0.parts.2.customLabel>右眼</Weazel.corePart.parts.12.parts.0.parts.2.customLabel>
+  <!-- EN: left ear -->
+  <Weazel.corePart.parts.12.parts.0.parts.3.customLabel>左耳</Weazel.corePart.parts.12.parts.0.parts.3.customLabel>
+  <!-- EN: right ear -->
+  <Weazel.corePart.parts.12.parts.0.parts.4.customLabel>右耳</Weazel.corePart.parts.12.parts.0.parts.4.customLabel>
+  <!-- EN: left humerus -->
+  <Weazel.corePart.parts.13.parts.1.parts.0.customLabel>左肱骨</Weazel.corePart.parts.13.parts.1.parts.0.customLabel>
+  <!-- EN: left radius -->
+  <Weazel.corePart.parts.13.parts.1.parts.1.customLabel>左橈骨</Weazel.corePart.parts.13.parts.1.parts.1.customLabel>
+  <!-- EN: left hand -->
+  <Weazel.corePart.parts.13.parts.1.parts.2.customLabel>左手</Weazel.corePart.parts.13.parts.1.parts.2.customLabel>
+  <!-- EN: right humerus -->
+  <Weazel.corePart.parts.14.parts.1.parts.0.customLabel>右肱骨</Weazel.corePart.parts.14.parts.1.parts.0.customLabel>
+  <!-- EN: right radius -->
+  <Weazel.corePart.parts.14.parts.1.parts.1.customLabel>右橈骨</Weazel.corePart.parts.14.parts.1.parts.1.customLabel>
+  <!-- EN: right hand -->
+  <Weazel.corePart.parts.14.parts.1.parts.2.customLabel>右手</Weazel.corePart.parts.14.parts.1.parts.2.customLabel>
+  <!-- EN: left little toe -->
+  <Weazel.corePart.parts.16.parts.2.parts.0.customLabel>左小趾</Weazel.corePart.parts.16.parts.2.parts.0.customLabel>
+  <!-- EN: left fourth toe -->
+  <Weazel.corePart.parts.16.parts.2.parts.1.customLabel>左四趾</Weazel.corePart.parts.16.parts.2.parts.1.customLabel>
+  <!-- EN: left middle toe -->
+  <Weazel.corePart.parts.16.parts.2.parts.2.customLabel>左中趾</Weazel.corePart.parts.16.parts.2.parts.2.customLabel>
+  <!-- EN: left second toe -->
+  <Weazel.corePart.parts.16.parts.2.parts.3.customLabel>左二趾</Weazel.corePart.parts.16.parts.2.parts.3.customLabel>
+  <!-- EN: left big toe -->
+  <Weazel.corePart.parts.16.parts.2.parts.4.customLabel>左拇趾</Weazel.corePart.parts.16.parts.2.parts.4.customLabel>
+  <!-- EN: right little toe -->
+  <Weazel.corePart.parts.17.parts.2.parts.0.customLabel>右小趾</Weazel.corePart.parts.17.parts.2.parts.0.customLabel>
+  <!-- EN: right fourth toe -->
+  <Weazel.corePart.parts.17.parts.2.parts.1.customLabel>右四趾</Weazel.corePart.parts.17.parts.2.parts.1.customLabel>
+  <!-- EN: right middle toe -->
+  <Weazel.corePart.parts.17.parts.2.parts.2.customLabel>右中趾</Weazel.corePart.parts.17.parts.2.parts.2.customLabel>
+  <!-- EN: right second toe -->
+  <Weazel.corePart.parts.17.parts.2.parts.3.customLabel>右二趾</Weazel.corePart.parts.17.parts.2.parts.3.customLabel>
+  <!-- EN: right big toe -->
+  <Weazel.corePart.parts.17.parts.2.parts.4.customLabel>右拇趾</Weazel.corePart.parts.17.parts.2.parts.4.customLabel>
+  <!-- EN: left pinky -->
+  <Weazel.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>左小指</Weazel.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <!-- EN: left ring finger -->
+  <Weazel.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>左無名指</Weazel.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <!-- EN: left middle finger -->
+  <Weazel.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>左中指</Weazel.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <!-- EN: left index finger -->
+  <Weazel.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>左食指</Weazel.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <!-- EN: left thumb -->
+  <Weazel.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>左拇指</Weazel.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <!-- EN: right pinky -->
+  <Weazel.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>右小指</Weazel.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+  <!-- EN: right ring finger -->
+  <Weazel.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>右無名指</Weazel.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+  <!-- EN: right middle finger -->
+  <Weazel.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>右中指</Weazel.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+  <!-- EN: right index finger -->
+  <Weazel.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>右食指</Weazel.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+  <!-- EN: right thumb -->
+  <Weazel.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>右拇指</Weazel.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+</LanguageData>

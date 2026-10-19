@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Weazel Apparel -->
+  <WeazelApparel.label>鼬族衣物</WeazelApparel.label>
+  <!-- EN: Weazel Headgear -->
+  <WeazelHeadgear.label>鼬族頭部裝備</WeazelHeadgear.label>
+  <!-- EN: Weazel Combat Gear -->
+  <WeazelCombatgear.label>鼬族戰鬥裝備</WeazelCombatgear.label>
+</LanguageData>

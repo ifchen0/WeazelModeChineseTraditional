@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Weazel Mode - Chinese (Traditional &amp; Simplified)</name>
+  <author>ifchen0</author>
+  <packageId>ifchen0.weazelmode.chinesetraditional</packageId>
+  <url>https://github.com/ifchen0/WeazelModeChineseTraditional</url>
+  <supportedVersions><li>1.6</li><li>1.7</li></supportedVersions>
+  <description>Traditional Chinese (繁體中文) and Simplified Chinese (简体中文) translation for Weazel Mode by WhereWolf.
+
+Translates the race, faction, items, apparel, weapons, buildings, research, health conditions, backstories and the scenario. Translated from the mod's English text; terms follow the vanilla Chinese translations. The Simplified Chinese version is converted from the Traditional Chinese one.
+
+Load after Weazel Mode. Safe to add to or remove from an existing save. A few messages compiled into the original mod's DLL stay in Korean.</description>
+  <modDependencies>
+    <li><packageId>Wherewolf.WeazelRaceMod</packageId><displayName>Weazel Mode</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3820790624</steamWorkshopUrl></li>
+  </modDependencies>
+  <loadAfter>
+    <li>Wherewolf.WeazelRaceMod</li>
+  </loadAfter>
+</ModMetaData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Essence farm -->
+  <EssenceFarm.label>精華畜養</EssenceFarm.label>
+  <!-- EN: Continuously extract Essence from this prisoner. -->
+  <EssenceFarm.description>持續從此俘虜身上抽取精華。</EssenceFarm.description>
+</LanguageData>

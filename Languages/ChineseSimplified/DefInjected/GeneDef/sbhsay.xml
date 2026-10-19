@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Weazel Syndrome -->
+  <WeazelGene_WeazelSyndrome.label>鼬族症候群</WeazelGene_WeazelSyndrome.label>
+  <!-- EN: W-Syndrome -->
+  <WeazelGene_WeazelSyndrome.labelShortAdj>鼬族症候</WeazelGene_WeazelSyndrome.labelShortAdj>
+  <!-- EN: Carriers feel pure euphoria from Essence extraction and live only for the next one. -->
+  <WeazelGene_WeazelSyndrome.description>带有此基因者会从抽取精华中感受到纯粹的狂喜，活着只为了下一次抽取。</WeazelGene_WeazelSyndrome.description>
+  <!-- EN: still -->
+  <WeazelGene_WeazelSyndrome.symbolPack.prefixSymbols.0.symbol>不动</WeazelGene_WeazelSyndrome.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: seren -->
+  <WeazelGene_WeazelSyndrome.symbolPack.prefixSymbols.1.symbol>平静</WeazelGene_WeazelSyndrome.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: tranqu -->
+  <WeazelGene_WeazelSyndrome.symbolPack.prefixSymbols.2.symbol>祥和</WeazelGene_WeazelSyndrome.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: hush -->
+  <WeazelGene_WeazelSyndrome.symbolPack.prefixSymbols.3.symbol>安静</WeazelGene_WeazelSyndrome.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: Essence Domestication: Accelerated Breeding -->
+  <WeazelGene_E_Cattle_Horny.label>精华家畜化：加速繁殖</WeazelGene_E_Cattle_Horny.label>
+  <!-- EN: Essence-livestock -->
+  <WeazelGene_E_Cattle_Horny.labelShortAdj>精华家畜</WeazelGene_E_Cattle_Horny.labelShortAdj>
+  <!-- EN: The Weazels had completely lost it. There were countless uses for Essence, and nowhere near enough of it to go around.\nThen, a brilliant Weazel created this gene.\nIf they needed to extract more Essence, they would simply breed more of the livestock it could be extracted from. -->
+  <WeazelGene_E_Cattle_Horny.description>鼬族们彻底崩溃了。需要用到精华的地方多不胜数，精华却远远不够分。\n就在这时，一名天才鼬族创造了这个基因。\n既然需要抽取更多精华，那就繁殖更多能被抽取的家畜就好了。</WeazelGene_E_Cattle_Horny.description>
+  <!-- EN: still -->
+  <WeazelGene_E_Cattle_Horny.symbolPack.prefixSymbols.0.symbol>不动</WeazelGene_E_Cattle_Horny.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: seren -->
+  <WeazelGene_E_Cattle_Horny.symbolPack.prefixSymbols.1.symbol>平静</WeazelGene_E_Cattle_Horny.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: tranqu -->
+  <WeazelGene_E_Cattle_Horny.symbolPack.prefixSymbols.2.symbol>祥和</WeazelGene_E_Cattle_Horny.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: hush -->
+  <WeazelGene_E_Cattle_Horny.symbolPack.prefixSymbols.3.symbol>安静</WeazelGene_E_Cattle_Horny.symbolPack.prefixSymbols.3.symbol>
+</LanguageData>

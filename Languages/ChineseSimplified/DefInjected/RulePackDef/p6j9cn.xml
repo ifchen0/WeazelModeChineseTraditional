@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: r_name->XCC-008 Raiding Battalion | r_name->XCC-101 Raiding Battalion | r_name->XCC-108 Raiding Battalion | r_name->XCC-124 Raiding Battalion | r_name->XCC-201 Raiding Battalion | r_name->XCC-221 Raiding Battalion | r_name->XCC-224 Raiding Battalion | r_name->XCC-230 Raiding Battalion | r_name->XCC-372 Raiding Battalion | r_name->XCC-401 Raiding Battalion | r_name->XCC-404 Raiding Battalion -->
+  <NamerSettlementWeazel.rulePack.rulesStrings>
+    <li>r_name-&gt;XCC-008 掠夺大队</li>
+    <li>r_name-&gt;XCC-101 掠夺大队</li>
+    <li>r_name-&gt;XCC-108 掠夺大队</li>
+    <li>r_name-&gt;XCC-124 掠夺大队</li>
+    <li>r_name-&gt;XCC-201 掠夺大队</li>
+    <li>r_name-&gt;XCC-221 掠夺大队</li>
+    <li>r_name-&gt;XCC-224 掠夺大队</li>
+    <li>r_name-&gt;XCC-230 掠夺大队</li>
+    <li>r_name-&gt;XCC-372 掠夺大队</li>
+    <li>r_name-&gt;XCC-401 掠夺大队</li>
+    <li>r_name-&gt;XCC-404 掠夺大队</li>
+  </NamerSettlementWeazel.rulePack.rulesStrings>
+</LanguageData>
