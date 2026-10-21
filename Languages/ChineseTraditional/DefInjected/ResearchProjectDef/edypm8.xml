@@ -14,8 +14,8 @@
   <WeazelGAMIncubation.description>解鎖特製培養槽的建造，可以利用精華培養G.A.M.人工肌肉。</WeazelGAMIncubation.description>
   <!-- EN: Essence Refining Technology -->
   <WeazelEssenceRefiner.label>精華精煉技術</WeazelEssenceRefiner.label>
-  <!-- EN: Unlocks the construction of the Essence Refiner, a facility intended for purifying raw Essence. Currently, this building has no practical effect. -->
-  <WeazelEssenceRefiner.description>解鎖精華精煉機的建造，用於純化原始精華。這座建築目前沒有實際效果。</WeazelEssenceRefiner.description>
+  <!-- EN: Unlocks the construction of the Essence Refiner, a facility that periodically produces Purified Essence when fed raw Essence. Also unlocks weaving Essence-Synth Silk on the Essence Weaver. -->
+  <WeazelEssenceRefiner.description>解鎖精華精煉機的建造，這座設施投入原始精華後會定期產出純化精華。同時解鎖在精華紡織機上紡織精華合成絲綢。</WeazelEssenceRefiner.description>
   <!-- EN: Artificial Muscle Fiber Replication -->
   <WeazelPowerArmor.label>人工肌纖維複製</WeazelPowerArmor.label>
   <!-- EN: Unlocks the fabrication of advanced power armor integrated with G.A.M. artificial muscles. -->

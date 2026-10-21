@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Weazel missile pod tail -->
+  <Weazel_MissileTail.label>鼬族飞弹荚舱尾巴</Weazel_MissileTail.label>
+  <!-- EN: A Weazel tail with a built-in missile pod. It can fire rockets one at a time from the tail, holding up to 4 shots reloaded with Purified Essence. The heavy armored tail slows the wearer down, but deflects some sharp attacks. -->
+  <Weazel_MissileTail.description>内建飞弹荚舱的鼬族尾巴。能从尾巴一次发射一枚火箭，以纯化精华装填，最多可存4发。沉重的装甲尾巴会拖慢移动速度，但能挡开部分锐器攻击。</Weazel_MissileTail.description>
+  <!-- EN: Weazel rocket thruster tail -->
+  <Weazel_RocketTail.label>鼬族火箭推进尾巴</Weazel_RocketTail.label>
+  <!-- EN: A Weazel tail with a compact rocket thruster. Like a jump pack, it lets the user leap long distances in an instant, holding up to 5 jumps reloaded with Purified Essence. -->
+  <Weazel_RocketTail.description>内建小型火箭推进器的鼬族尾巴。就像跳跃背包一样，能瞬间跃过长距离，以纯化精华装填，最多可存5次。</Weazel_RocketTail.description>
+</LanguageData>

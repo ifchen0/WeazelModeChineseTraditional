@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Propital-W -->
+  <Weazel_PropitalW.label>Propital-W</Weazel_PropitalW.label>
+  <!-- EN: A syringe of a drug made from Purified Essence. When injected, it drives the body's regeneration into overdrive, healing wounds quickly at the cost of hunger and fatigue. Injecting it again while the effect lasts puts a heavy strain on the body.\n\nPropital-W is the Weazels' own reinterpretation of a drug they analyzed and copied from a certain megacorporation. Even a small-bodied race that can replace its workforce with clones at any time takes a deep interest in regenerating wounds fast enough to serve as first aid. It works as a privilege of caste, sends workers back to the field quickly, and lets a pack leader show off just how much power she wields. -->
+  <Weazel_PropitalW.description>裝著以純化精華製成之藥物的注射器。注射後會讓身體的再生能力進入超速運轉，以飢餓與疲勞為代價快速治癒傷口。藥效持續期間再次注射，會對身體造成沉重負擔。\n\nPropital-W是鼬族分析並仿製某家超大企業的藥物後，以自己的方式重新詮釋的產物。即使是身材嬌小、隨時都能用複製體替換勞動力的種族，也對能快到足以當急救手段的傷口再生非常感興趣。它既是階級特權的象徵，也能讓勞工迅速回到崗位，還能讓群體首領炫耀自己手握多大的權力。</Weazel_PropitalW.description>
+  <!-- EN: Inject {0} -->
+  <Weazel_PropitalW.ingestible.ingestCommandString>注射{0}</Weazel_PropitalW.ingestible.ingestCommandString>
+  <!-- EN: Injecting {0}. -->
+  <Weazel_PropitalW.ingestible.ingestReportString>正在注射{0}。</Weazel_PropitalW.ingestible.ingestReportString>
+</LanguageData>

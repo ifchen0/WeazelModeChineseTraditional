@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Essence Boost high -->
+  <Weazel_EssenceBoostHigh.stages.0.label>精华增幅剂亢奋</Weazel_EssenceBoostHigh.stages.0.label>
+  <!-- EN: I can feel it tingling all the way to my fingertips. Right now I could tear anything apart. -->
+  <Weazel_EssenceBoostHigh.stages.0.description>连指尖都在发麻。现在的我什么都撕得碎。</Weazel_EssenceBoostHigh.stages.0.description>
+  <!-- EN: Essence Boost withdrawal -->
+  <Weazel_EssenceBoostWithdrawal.stages.1.label>精华增幅剂戒断</Weazel_EssenceBoostWithdrawal.stages.1.label>
+  <!-- EN: My hands are shaking. Everything aches and my head is foggy. Just one drag, that's all I need! -->
+  <Weazel_EssenceBoostWithdrawal.stages.1.description>手一直在抖，全身酸痛，脑袋也昏昏沉沉的。只要吸一口就好，一口就够了！</Weazel_EssenceBoostWithdrawal.stages.1.description>
+</LanguageData>

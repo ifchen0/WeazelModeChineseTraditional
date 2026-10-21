@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Propital-W -->
+  <Weazel_PropitalWHigh.label>Propital-W</Weazel_PropitalWHigh.label>
+  <!-- EN: Propital-W is driving the body's regeneration into overdrive. Wounds close very quickly, but hunger and fatigue build up fast. Another dose while the effect lasts causes a regeneration overload, and a dose during the overload leads to a drug overdose. -->
+  <Weazel_PropitalWHigh.description>Propital-W正讓身體的再生能力進入超速運轉。傷口癒合得非常快，但飢餓與疲勞也累積得很快。藥效持續期間再注射一劑會造成再生過載，過載期間再注射則會導致用藥過量。</Weazel_PropitalWHigh.description>
+  <!-- EN: regeneration overdrive -->
+  <Weazel_PropitalWHigh.stages.0.label>再生超速</Weazel_PropitalWHigh.stages.0.label>
+  <!-- EN: regeneration overload -->
+  <Weazel_PropitalWHigh.stages.1.label>再生過載</Weazel_PropitalWHigh.stages.1.label>
+</LanguageData>

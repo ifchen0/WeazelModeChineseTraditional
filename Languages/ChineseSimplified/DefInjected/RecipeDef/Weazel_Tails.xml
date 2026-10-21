@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: install Weazel missile pod tail -->
+  <InstallWeazelMissileTail.label>安装鼬族飞弹荚舱尾巴</InstallWeazelMissileTail.label>
+  <!-- EN: Attach a Weazel missile pod tail to the body. -->
+  <InstallWeazelMissileTail.description>将鼬族飞弹荚舱尾巴接到身体上。</InstallWeazelMissileTail.description>
+  <!-- EN: Installing Weazel missile pod tail. -->
+  <InstallWeazelMissileTail.jobString>正在安装鼬族飞弹荚舱尾巴。</InstallWeazelMissileTail.jobString>
+  <!-- EN: install Weazel rocket thruster tail -->
+  <InstallWeazelRocketTail.label>安装鼬族火箭推进尾巴</InstallWeazelRocketTail.label>
+  <!-- EN: Attach a Weazel rocket thruster tail to the body. -->
+  <InstallWeazelRocketTail.description>将鼬族火箭推进尾巴接到身体上。</InstallWeazelRocketTail.description>
+  <!-- EN: Installing Weazel rocket thruster tail. -->
+  <InstallWeazelRocketTail.jobString>正在安装鼬族火箭推进尾巴。</InstallWeazelRocketTail.jobString>
+</LanguageData>

@@ -30,4 +30,10 @@
   <InstallColloidArm.description>将鼬族胶体手臂安装到身体上。</InstallColloidArm.description>
   <!-- EN: Installing Weazel colloid arm. -->
   <InstallColloidArm.jobString>正在安装鼬族胶体手臂。</InstallColloidArm.jobString>
+  <!-- EN: Weave Essence-Synth Silk -->
+  <Make_EssenceSynthSilk.label>纺织精华合成丝绸</Make_EssenceSynthSilk.label>
+  <!-- EN: Weave Essence-Synth Silk from Essence Silk and Purified Essence. -->
+  <Make_EssenceSynthSilk.description>用精华丝绸和纯化精华纺织出精华合成丝绸。</Make_EssenceSynthSilk.description>
+  <!-- EN: Weaving Essence-Synth Silk. -->
+  <Make_EssenceSynthSilk.jobString>正在纺织精华合成丝绸。</Make_EssenceSynthSilk.jobString>
 </LanguageData>

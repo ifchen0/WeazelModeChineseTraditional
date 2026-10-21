@@ -20,4 +20,6 @@
   <XCCRaidBase.label>XCC掠夺大队</XCCRaidBase.label>
   <!-- EN: A Weazel raiding battalion cultivated in the XCC cloning facilities. -->
   <XCCRaidBase.description>在XCC复制设施中培育出来的鼬族掠夺大队。</XCCRaidBase.description>
+  <!-- EN: raid merit -->
+  <XCCRaidBase.royalFavorLabel>掠夺功绩</XCCRaidBase.royalFavorLabel>
 </LanguageData>

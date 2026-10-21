@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Weazel squad member -->
+  <Weazel_Aid_Squad.label>鼬族分队队员</Weazel_Aid_Squad.label>
+  <!-- EN: Weazel heavy weapons team member -->
+  <Weazel_Aid_Heavy.label>鼬族重武器小队队员</Weazel_Aid_Heavy.label>
+  <!-- EN: Weazel laborer -->
+  <Weazel_Aid_Laborer.label>鼬族劳工</Weazel_Aid_Laborer.label>
+</LanguageData>

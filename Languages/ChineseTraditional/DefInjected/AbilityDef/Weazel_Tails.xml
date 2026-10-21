@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: fire tail missile -->
+  <Weazel_TailMissile.label>發射尾巴飛彈</Weazel_TailMissile.label>
+  <!-- EN: Fire a single rocket from the tail's missile pod. Usable as many times as it has been loaded with Purified Essence. -->
+  <Weazel_TailMissile.description>從尾巴的飛彈莢艙發射一枚火箭。以純化精華裝填幾次就能使用幾次。</Weazel_TailMissile.description>
+  <!-- EN: tail rocket leap -->
+  <Weazel_TailJump.label>尾巴火箭躍進</Weazel_TailJump.label>
+  <!-- EN: Use the tail's rocket thruster to leap to a chosen spot. Usable as many times as it has been loaded with Purified Essence. -->
+  <Weazel_TailJump.description>利用尾巴的火箭推進器跳躍到指定位置。以純化精華裝填幾次就能使用幾次。</Weazel_TailJump.description>
+</LanguageData>

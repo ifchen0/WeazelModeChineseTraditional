@@ -6,4 +6,18 @@
   <Caravan_Weazel_MercenaryMerchant.label>鼬族佣兵商队</Caravan_Weazel_MercenaryMerchant.label>
   <!-- EN: Weazel Slave Traders -->
   <Caravan_Weazel_SlaveMerchant.label>鼬族奴隶贩子</Caravan_Weazel_SlaveMerchant.label>
+  <!-- EN: Weazel Raw Materials Caravan -->
+  <Caravan_Weazel_RawMaterialMerchant.label>鼬族原料商队</Caravan_Weazel_RawMaterialMerchant.label>
+  <!-- EN: Weazel Arms Caravan -->
+  <Caravan_Weazel_WeaponMerchant.label>鼬族军火商队</Caravan_Weazel_WeaponMerchant.label>
+  <!-- EN: Weazel gene ship -->
+  <Orbital_Weazel_GeneMerchant.label>鼬族基因商船</Orbital_Weazel_GeneMerchant.label>
+  <!-- EN: Weazel raw materials ship -->
+  <Orbital_Weazel_RawMaterialMerchant.label>鼬族原料商船</Orbital_Weazel_RawMaterialMerchant.label>
+  <!-- EN: Weazel arms ship -->
+  <Orbital_Weazel_WeaponMerchant.label>鼬族军火商船</Orbital_Weazel_WeaponMerchant.label>
+  <!-- EN: Weazel mercenary ship -->
+  <Orbital_Weazel_MercenaryMerchant.label>鼬族佣兵商船</Orbital_Weazel_MercenaryMerchant.label>
+  <!-- EN: Weazel slaver ship -->
+  <Orbital_Weazel_SlaveMerchant.label>鼬族奴隶商船</Orbital_Weazel_SlaveMerchant.label>
 </LanguageData>

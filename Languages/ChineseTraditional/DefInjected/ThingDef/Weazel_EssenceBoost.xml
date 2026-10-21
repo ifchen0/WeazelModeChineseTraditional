@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Essence Boost -->
+  <Weazel_EssenceBoost.label>精華增幅劑</Weazel_EssenceBoost.label>
+  <!-- EN: A combat drug that remakes go-juice the Weazel way. It is barely addictive, yet it sharpens consciousness and manipulation and helps the user endure pain.\n\nDrugs made to human standards are all too often lethal to the Weazels' small bodies. Through countless battles and endless trial and error, the Weazels finally succeeded in brewing a combat drug suited to themselves. Essence Boost is often used like a quick vape before getting down to business. This monstrous drug, which gained a measure of safety against addiction while keeping its full effect, turns the Weazel who takes it into a frenzied little weasel for a while. -->
+  <Weazel_EssenceBoost.description>用鼬族的方式重新調製能量果飲而成的戰鬥藥物。它幾乎不會成癮，卻能提升意識與操作能力，並幫助使用者忍受疼痛。\n\n按人類標準製造的藥物，對鼬族嬌小的身體來說常常是致命的。歷經無數場戰鬥與沒完沒了的試錯，鼬族終於成功調製出適合自己的戰鬥藥物。精華增幅劑常被拿來像辦正事前先快速吸一口電子菸那樣使用。這種怪物級的藥物在保有完整藥效的同時，也取得了一定程度的成癮安全性，會讓使用的鼬族暫時變成一隻狂暴的小鼬鼠。</Weazel_EssenceBoost.description>
+  <!-- EN: Inhale {0} -->
+  <Weazel_EssenceBoost.ingestible.ingestCommandString>吸食{0}</Weazel_EssenceBoost.ingestible.ingestCommandString>
+  <!-- EN: Inhaling {0}. -->
+  <Weazel_EssenceBoost.ingestible.ingestReportString>正在吸食{0}。</Weazel_EssenceBoost.ingestible.ingestReportString>
+</LanguageData>

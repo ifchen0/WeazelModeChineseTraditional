@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: XCC private -->
+  <XCC_Private.label>XCC列兵</XCC_Private.label>
+  <!-- EN: A Weazel officially enrolled in the XCC Raiding Battalion. She is still just one clone among countless others, but she has earned the right to receive orders from XCC. -->
+  <XCC_Private.description>正式编入XCC掠夺大队的鼬族。她仍只是无数复制体中的一个，但已经取得接受XCC命令的资格。</XCC_Private.description>
+  <!-- EN: guidon bearer -->
+  <XCC_GuidonBearer.label>旗手</XCC_GuidonBearer.label>
+  <!-- EN: A guidon bearer sets the formation and invasion route of every raid. Not a squad leader, but every raid begins where the guidon bearer stands. She can request supply drops from XCC. -->
+  <XCC_GuidonBearer.description>旗手负责决定每次掠夺的队形与入侵路线。她不是分队长，但每一次掠夺都从旗手站立的位置开始。她可以向XCC申请补给空投。</XCC_GuidonBearer.description>
+  <!-- EN: squad leader -->
+  <XCC_SquadLeader.label>分队长</XCC_SquadLeader.label>
+  <!-- EN: A squad leader commands a Weazel squad. She is entitled to wear the officer bodysuit and can request troops and laborers from XCC. -->
+  <XCC_SquadLeader.description>分队长负责指挥一支鼬族分队。她有资格穿着军官紧身衣，并可以向XCC申请兵力与劳工。</XCC_SquadLeader.description>
+  <!-- EN: raid captain -->
+  <XCC_RaidCaptain.label>掠夺队长</XCC_RaidCaptain.label>
+  <!-- EN: A raid captain binds several squads into a raiding party. She can call in power-armored heavy weapons teams and have XCC assign new kin to her base. -->
+  <XCC_RaidCaptain.description>掠夺队长把数支分队整合成一支掠夺队。她可以召来身穿动力装甲的重武器小队，也能让XCC把新的同族分派到她的基地。</XCC_RaidCaptain.description>
+  <!-- EN: assault commander -->
+  <XCC_AssaultCommander.label>突击指挥官</XCC_AssaultCommander.label>
+  <!-- EN: An assault commander leads the costliest front lines of all: merchant ship boardings and drop pod infiltrations. Simply reaching this rank alive is proof of her strength. -->
+  <XCC_AssaultCommander.description>突击指挥官率领的是代价最高昂的前线：强登商船与运输舱渗透。光是活着爬到这个阶级，就足以证明她的实力。</XCC_AssaultCommander.description>
+</LanguageData>

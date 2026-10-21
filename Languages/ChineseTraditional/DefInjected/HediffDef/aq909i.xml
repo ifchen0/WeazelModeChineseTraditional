@@ -30,22 +30,6 @@
   <WeazelColloidArm.description>以鼬族技術形成的凝膠狀拳頭。</WeazelColloidArm.description>
   <!-- EN: fist -->
   <WeazelColloidArm.comps.0.tools.0.label>拳頭</WeazelColloidArm.comps.0.tools.0.label>
-  <!-- EN: Essence High -->
-  <EssenceHigh.label>精華亢奮</EssenceHigh.label>
-  <!-- EN: an Essence high -->
-  <EssenceHigh.labelNoun>精華亢奮</EssenceHigh.labelNoun>
-  <!-- EN: In a state of extreme stimulation and euphoria induced by refined Essence. -->
-  <EssenceHigh.description>因純化精華而處於極度刺激與狂喜的狀態。</EssenceHigh.description>
-  <!-- EN: Essence Addiction -->
-  <EssenceAddiction.label>精華成癮</EssenceAddiction.label>
-  <!-- EN: Addicted to Essence. Once addicted, the user becomes entirely dependent on the substance in a relentless pursuit to recapture its intense euphoria. -->
-  <EssenceAddiction.description>對精華成癮。一旦成癮，使用者就會完全依賴這種物質，不斷追求重溫那股強烈的狂喜。</EssenceAddiction.description>
-  <!-- EN: withdrawal -->
-  <EssenceAddiction.stages.1.label>戒斷</EssenceAddiction.stages.1.label>
-  <!-- EN: Essence Tolerance -->
-  <EssenceTolerance.label>精華耐受</EssenceTolerance.label>
-  <!-- EN: Repeated administration of Essence breeds familiarity with its euphoria, amplifying the sense of diminishing returns and worsening the drop-off. -->
-  <EssenceTolerance.description>反覆使用精華會讓人習慣那股狂喜，效果遞減的感受越來越強，退潮時也越來越難受。</EssenceTolerance.description>
   <!-- EN: High on Essence Blow -->
   <EssenceSmokeleafHigh.label>精華吞吐亢奮</EssenceSmokeleafHigh.label>
   <!-- EN: an Essence Blow high -->

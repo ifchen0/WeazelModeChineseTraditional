@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: fill Weazel clone vat -->
+  <Weazel_FillCloneVat.label>填裝鼬族複製培養槽</Weazel_FillCloneVat.label>
+  <!-- EN: fill -->
+  <Weazel_FillCloneVat.verb>填裝</Weazel_FillCloneVat.verb>
+  <!-- EN: filling -->
+  <Weazel_FillCloneVat.gerund>填裝</Weazel_FillCloneVat.gerund>
+</LanguageData>

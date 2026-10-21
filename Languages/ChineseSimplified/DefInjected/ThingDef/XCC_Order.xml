@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: XCC reinforcement order -->
+  <Weazel_XCCReinforcementOrder.label>XCC增援令</Weazel_XCCReinforcementOrder.label>
+  <!-- EN: A reinforcement order issued by XCC command. Using it brings down one XCC-cultivated Weazel by transport pod to join your colony. -->
+  <Weazel_XCCReinforcementOrder.description>XCC指挥部发出的增援令。使用后，一名由XCC培养的鼬族会搭乘运输舱降落，加入你的殖民地。</Weazel_XCCReinforcementOrder.description>
+  <!-- EN: Use {0_label} -->
+  <Weazel_XCCReinforcementOrder.comps.1.useLabel>使用{0_label}</Weazel_XCCReinforcementOrder.comps.1.useLabel>
+</LanguageData>

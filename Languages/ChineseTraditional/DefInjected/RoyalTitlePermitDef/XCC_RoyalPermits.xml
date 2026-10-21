@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: steel supply drop -->
+  <XCC_SteelDrop.label>鋼鐵補給空投</XCC_SteelDrop.label>
+  <!-- EN: Request a supply drop of 200 steel from XCC. -->
+  <XCC_SteelDrop.description>向XCC申請空投200單位鋼鐵。</XCC_SteelDrop.description>
+  <!-- EN: component drop -->
+  <XCC_ComponentDrop.label>零件空投</XCC_ComponentDrop.label>
+  <!-- EN: Request a supply drop of 10 components from XCC. -->
+  <XCC_ComponentDrop.description>向XCC申請空投10個零件。</XCC_ComponentDrop.description>
+  <!-- EN: call Weazel squad -->
+  <XCC_CallSquad.label>召喚鼬族分隊</XCC_CallSquad.label>
+  <!-- EN: Call 10 lightly armed Weazels from the Double Fang and assault teams to aid you in battle. Their roles are chosen at random. -->
+  <XCC_CallSquad.description>從雙牙與突擊小隊召來10名輕武裝鼬族協助作戰。兵種隨機決定。</XCC_CallSquad.description>
+  <!-- EN: call Weazel laborers -->
+  <XCC_CallLaborers.label>召喚鼬族勞工</XCC_CallLaborers.label>
+  <!-- EN: Call 10 Weazel laborers to assist you for 5 days. These workers can only do general labor tasks. You can control them as though they were your own colonists. You are required to keep them safe. -->
+  <XCC_CallLaborers.description>召來10名鼬族勞工協助你5天。這些勞工只能做一般勞動工作。你可以像指揮自己的殖民者一樣操控他們，但必須確保他們的安全。</XCC_CallLaborers.description>
+  <!-- EN: call Weazel heavy weapons team -->
+  <XCC_CallHeavyTeam.label>召喚鼬族重武器小隊</XCC_CallHeavyTeam.label>
+  <!-- EN: Call 5 power-armored Weazels from the Double Fang teams to aid you in battle. Each is randomly chosen from marksmen, heavy infantry, and veterans. -->
+  <XCC_CallHeavyTeam.description>從雙牙小隊召來5名身穿動力裝甲的鼬族協助作戰。每人隨機為神射手、重步兵或老兵之一。</XCC_CallHeavyTeam.description>
+  <!-- EN: Weazel reinforcement -->
+  <XCC_Reinforcement.label>鼬族增援</XCC_Reinforcement.label>
+  <!-- EN: One Weazel colonist descends by transport pod to the chosen spot and permanently joins your colony. -->
+  <XCC_Reinforcement.description>一名鼬族殖民者搭乘運輸艙降落在指定位置，並永久加入你的殖民地。</XCC_Reinforcement.description>
+  <!-- EN: Weazel clone vat request -->
+  <XCC_CloneVat.label>申請鼬族複製培養槽</XCC_CloneVat.label>
+  <!-- EN: Receive a packaged single-use Weazel clone vat by drop pod at a chosen spot. Once installed, it can duplicate one Weazel colonist. -->
+  <XCC_CloneVat.description>以運輸艙在指定位置接收一台打包好的一次性鼬族複製培養槽。安裝後可以複製一名鼬族殖民者。</XCC_CloneVat.description>
+</LanguageData>

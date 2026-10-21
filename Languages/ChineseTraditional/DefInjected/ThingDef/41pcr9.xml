@@ -6,8 +6,8 @@
   <Weazel_Essence.description>從包括人類在內的各種族身上抽取出的特殊遺傳物質，是所有鼬族工程中最基本、也最不可或缺的資源。\n\n精華是鼬族發現的一種特殊遺傳物質。從雄性身上抽取時產量特別高，這種物質擁有無窮的潛力，對鼬族社會而言至關重要。視加工方式不同，精華可用於紡織布料、培養人工肌肉、合成藥物，甚至是娛樂用途。精華幾乎就是鼬族文化的代名詞，是讓她們成為掠食性掠奪種族的命脈與原動力。\n雖然理論上也能從文明人形種族以外的生物身上收穫精華，但即使在鼬族社會中，這也被視為嚴格的禁忌，是令人極度厭惡的行為，任何神智正常的鼬族都不會嘗試。</Weazel_Essence.description>
   <!-- EN: Purified Essence -->
   <Weazel_Purified_Essence.label>純化精華</Weazel_Purified_Essence.label>
-  <!-- EN: Essence that has been rendered pure through a process of removing impurities and separating out unwanted compounds. -->
-  <Weazel_Purified_Essence.description>經過去除雜質、分離多餘成分等程序而變得純淨的精華。</Weazel_Purified_Essence.description>
+  <!-- EN: A concentrate of Essence refined through a specialized purification process.\n\nConcentrated Essence is usually distributed to the upper castes of Weazel society. While most of a clone society like the Weazels is built around mass production and mass supply, a strict caste hierarchy means that any substance able to symbolize one's rank is in enormous demand. On its own, Purified Essence does nothing, but added to Essence Silk it yields superior fabrics, more potent drugs, and even special ammunition. -->
+  <Weazel_Purified_Essence.description>經過特殊純化工序精煉而成的精華濃縮液。\n\n濃縮精華通常只流通到鼬族社會的上層階級。像鼬族這樣的複製社會，大部分都圍繞著大量生產與大量供給運作；但嚴格的階級制度，使任何能象徵自身地位的物質都有龐大的需求。純化精華單獨使用沒有任何作用，但加入精華絲綢後，就能製成更優良的布料、更強效的藥物，甚至是特殊彈藥。</Weazel_Purified_Essence.description>
   <!-- EN: Essence Silk -->
   <Weazel_EssentialSilk.label>精華絲綢</Weazel_EssentialSilk.label>
   <!-- EN: A fabric woven from stretched Essence threads. Used as a material for Weazel apparel.\n\nA textile woven by extruding Essence into threads. Its silk-like softness and elasticity bear a disturbing resemblance to the texture of living skin. The raw Essence threads are manufactured during the weaving process via a mechanical device armed with countless micro-needles; this machine utilizes centrifugal force to spin the viscous liquid into microscopic filaments, braiding them tightly together like twine. Mimicking the structural principles of spider silk, this woven material offers impressive ballistic protection. Furthermore, thanks to the inherent thermal properties of raw Essence, specialized processing methods guarantee excellent body temperature regulation. -->
@@ -34,8 +34,8 @@
   <Weazel_Bodysuit_B.description>配發給鼬族部隊最基本的軍服。\n\n鼬族普遍偏好這種緊貼皮膚的服裝，因為貼身的設計能完美襯托並強化她們天生的敏捷。這件緊身衣完全以精華絲綢織成，材質極富彈性，可作為「均碼」服裝，專為她們標準的130公分身高調整過。它穿起來非常舒適，也有輕微的真空耐受性，是所有鼬族步兵的必備底層衣物，無論是穿戴輕型散兵裝備還是駕馭重型動力裝甲都一樣。此外，光是緊身衣本身就能提供相當程度的防護。</Weazel_Bodysuit_B.description>
   <!-- EN: Weazel Bodysuit B -->
   <Weazel_Bodysuit_B.label>鼬族緊身衣B</Weazel_Bodysuit_B.label>
-  <!-- EN: A bodysuit worn by Weazel officers. -->
-  <Weazel_Bodysuit_Officer.description>鼬族軍官穿著的緊身衣。</Weazel_Bodysuit_Officer.description>
+  <!-- EN: A bodysuit worn by Weazel officers, woven from Essence-Synth Silk. -->
+  <Weazel_Bodysuit_Officer.description>鼬族軍官穿著的緊身衣，以精華合成絲綢織成。</Weazel_Bodysuit_Officer.description>
   <!-- EN: Weazel Officer Bodysuit -->
   <Weazel_Bodysuit_Officer.label>鼬族軍官緊身衣</Weazel_Bodysuit_Officer.label>
   <!-- EN: A duster designed to fully cover the wearer's torso and arms. Not only is it highly resilient against the harsh, rugged environments of the Rim, but its open-front cut ensures that a Weazel's natural agility remains completely unhindered. -->
@@ -108,8 +108,8 @@
   <WeazelEssenceWeaver.description>將精華紡織成布料的機械裝置。\n\n沒有這台機器，要把黏稠的液態精華變成可用的布料幾乎是不可能的任務。首先，抽取出的精華會被注入容器，無數微針在空中拉伸、紡絲，讓液體暫時凝固成極細的纖維。接著這些纖維會像搓繩一樣編在一起，織成可用的絲線。其原理模仿蜘蛛結網：概念簡單，卻是極為嚴苛、必須仰賴機械精度的工序。</WeazelEssenceWeaver.description>
   <!-- EN: Weazel Essence Refiner -->
   <WeazelEssenceRefiner.label>鼬族精華精煉機</WeazelEssenceRefiner.label>
-  <!-- EN: A Weazel Essence refinery. It currently has no function.\n\nIt purifies Essence through highly specialized processes. Weazel engineering is fundamentally built upon Essence, and refining it allows it to be utilized in a multitude of ways, from crafting sophisticated apparel to synthesizing potent pharmaceuticals. Naturally, such highly refined Essence is reserved for the upper castes of Weazel society. -->
-  <WeazelEssenceRefiner.description>鼬族的精華精煉設施。目前沒有任何功能。\n\n它以高度特殊的工序純化精華。鼬族工程從根本上就建立在精華之上，經過精煉後的精華用途更廣，從製作精緻的衣物到合成強效藥物都行。理所當然，這種高度精煉的精華只保留給鼬族社會的上層階級。</WeazelEssenceRefiner.description>
+  <!-- EN: A Weazel Essence refinery that periodically produces Purified Essence when fed Essence. Turns 60 Essence into 30 Purified Essence.\n\nIt purifies Essence through highly specialized processes. Weazel engineering is fundamentally built upon Essence, and refining it allows it to be utilized in a multitude of ways, from crafting sophisticated apparel to synthesizing potent pharmaceuticals. Naturally, such highly refined Essence is reserved for the upper castes of Weazel society. -->
+  <WeazelEssenceRefiner.description>鼬族的精華精煉設施，投入精華後會定期產出純化精華。可將60個精華轉成30個純化精華。\n\n它以高度特殊的工序純化精華。鼬族工程從根本上就建立在精華之上，經過精煉後的精華用途更廣，從製作精緻的衣物到合成強效藥物都行。理所當然，這種高度精煉的精華只保留給鼬族社會的上層階級。</WeazelEssenceRefiner.description>
   <!-- EN: G.A.M. Incubator -->
   <WeazelGAMIncubation.label>G.A.M.培養槽</WeazelGAMIncubation.label>
   <!-- EN: An incubator that cultivates G.A.M. artificial muscles using Essence. As long as Essence is periodically injected, it automatically produces G.A.M.\n\nThis vat nurtures a mass of artificial muscle that pulsates in reaction to Essence, behaving almost like a living organism. During the incubation phase, the G.A.M. writhes like tentacles, clumped together within the vat's nutrient fluid. When Essence is pumped through the lower intake chamber, the G.A.M. actively reacts, absorbing the fluid to fuel its growth. Few Weazels actually know the true nature of this material. Most are simply supplied with the base organic matter, knowing nothing more than the protocols required to cultivate and mass-produce it. -->
@@ -270,4 +270,16 @@
   <Weazel_Taipan.verbs.Verb_Shoot.label>鼬族太攀蛇</Weazel_Taipan.verbs.Verb_Shoot.label>
   <!-- EN: grip -->
   <Weazel_Taipan.tools.0.label>握把</Weazel_Taipan.tools.0.label>
+  <!-- EN: Essence-Synth Silk -->
+  <Weazel_EssenceSynthSilk.label>精華合成絲綢</Weazel_EssenceSynthSilk.label>
+  <!-- EN: A synthetic fabric made from Purified Essence and Essence Silk. It performs on par with hyperweave.\n\nA synthetic fabric produced on the Essence Weaver, usually reserved for apparel of high-ranking Weazels such as officers. Upper-caste Weazels care greatly about the grade of Essence a fabric was made from, so it is distributed in luxurious packaging clearly labeled with the grade of Essence used. -->
+  <Weazel_EssenceSynthSilk.description>以純化精華和精華絲綢製成的合成布料，性能與超級布料相當。\n\n由精華紡織機生產的合成布料，通常保留給軍官等高階鼬族製作衣物。上層階級的鼬族非常在意布料是用哪種等級的精華製成，因此它都以豪華包裝流通，並清楚標示所用精華的等級。</Weazel_EssenceSynthSilk.description>
+  <!-- EN: Weazel vac bodysuit -->
+  <Weazel_VacBodysuit.label>鼬族真空緊身衣</Weazel_VacBodysuit.label>
+  <!-- EN: A Weazel bodysuit reworked to survive the vacuum. As a skin-tight bodysuit, power armor or a duster can be worn right over it, and paired with a helmet it lets the wearer operate in space.\n\nWeazel raids don't stop at the planet's surface. Ships and stations drifting in orbit make fine hunting grounds too. The vac bodysuit layers plasteel fiber between sheets of Essence Silk to keep out vacuum and deep cold. It isn't as bulky or heavy as an ordinary vacsuit, so Weazels can keep raiding in space without losing much of their signature agility. -->
+  <Weazel_VacBodysuit.description>改造成能在真空中存活的鼬族緊身衣。由於是貼身的緊身衣，外面可以直接套上動力裝甲或風衣；搭配頭盔就能在太空中活動。\n\n鼬族的掠奪不會停在行星表面，漂浮在軌道上的船艦與太空站也是絕佳的獵場。真空緊身衣在精華絲綢之間夾入玻璃鋼纖維，用來阻絕真空與極寒。它不像一般真空服那麼笨重，因此鼬族在太空中掠奪時也不會失去太多招牌的敏捷。</Weazel_VacBodysuit.description>
+  <!-- EN: Weazel vacsuit helmet -->
+  <Weazel_VacsuitHelmet.label>鼬族真空頭盔</Weazel_VacsuitHelmet.label>
+  <!-- EN: A space helmet that adds a sealed, full-face visor to the Weazel combat helmet. It keeps out vacuum and toxic environments, and paired with a Weazel vac bodysuit it lets the wearer operate in space.\n\nThe oversized ear covers and headset are carried over from the Weazel combat helmet. The wearer's face shows faintly through the translucent visor, and Weazels rather like it, saying it shows off their "individuality" better than any helmet decoration ever could. -->
+  <Weazel_VacsuitHelmet.description>在鼬族戰鬥頭盔上加裝密封全罩式面罩的太空頭盔。能阻絕真空與有毒環境，搭配鼬族真空緊身衣就能在太空中活動。\n\n超大的耳罩與耳機沿用自鼬族戰鬥頭盔。半透明的面罩隱約透出穿戴者的臉，鼬族相當喜歡這點，說這比任何頭盔裝飾都更能展現她們的「個性」。</Weazel_VacsuitHelmet.description>
 </LanguageData>

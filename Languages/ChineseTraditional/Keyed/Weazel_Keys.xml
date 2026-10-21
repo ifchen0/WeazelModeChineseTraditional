@@ -10,4 +10,58 @@
   <Weazel_Surgery_InvalidTarget>目標必須是俘虜或奴隸，且不能是鼬族。</Weazel_Surgery_InvalidTarget>
   <!-- EN: The target's Essence has not regenerated yet. Extracting now may kill them. -->
   <Weazel_EssenceNotRegenerated>目標的精華尚未再生。現在抽取可能會害死對方。</Weazel_EssenceNotRegenerated>
+  <!-- EN: XCC reinforcement -->
+  <Weazel_XCCReinforcement_LetterLabel>XCC增援</Weazel_XCCReinforcement_LetterLabel>
+  <!-- EN: XCC command has answered your reinforcement order. {PAWN_nameDef} has been cultivated at the XCC Factory and dropped in to join your forward base. -->
+  <Weazel_XCCReinforcement_LetterText>XCC指揮部回應了你的增援命令。{PAWN_nameDef}已在XCC工廠培養完成，空投加入你的前進基地。</Weazel_XCCReinforcement_LetterText>
+  <!-- EN: The XCC Raiding Battalion has decided to grant {0} the rank of {1}, along with manpower support.\n\nThe bestower will arrive by shuttle and perform the ceremony.\n\nThe ceremony requires a throne room befitting the rank being bestowed. With more viewers in attendance, there's a chance of gaining extra raid merit, and every viewer gains a mood bonus. -->
+  <Weazel_XCCBestowing_Description>XCC掠奪大隊決定授予{0}{1}的階級，並提供人力支援。\n\n賜予者會搭乘太空梭抵達並主持儀式。\n\n儀式需要一間符合所授階級的謁見廳。出席觀禮的人越多，就越有機會額外獲得掠奪功績，而且每位觀禮者都會獲得心情加成。</Weazel_XCCBestowing_Description>
+  <!-- EN: Mercenary gear -->
+  <Weazel_MercGearValue>傭兵裝備</Weazel_MercGearValue>
+  <!-- EN: No charges left. Needs {0} to reload. -->
+  <Weazel_TailNoCharges>已無剩餘次數。需要{0}才能裝填。</Weazel_TailNoCharges>
+  <!-- EN: {0}/{1} charges -->
+  <Weazel_TailChargesLeft>{0}/{1}次</Weazel_TailChargesLeft>
+  <!-- EN: Start Weazel clone incubation -->
+  <Weazel_CloneVat_Start>開始培養鼬族複製體</Weazel_CloneVat_Start>
+  <!-- EN: Choose a Weazel colonist to duplicate. Haulers will fill the vat with {0} Purified Essence and {1} nutrition of raw food; once full, incubation takes 5 days. Implants are not copied. The vat is destroyed after use. -->
+  <Weazel_CloneVat_StartDesc>選擇一名要複製的鼬族殖民者。搬運工會把{0}個純化精華和{1}營養值的生食裝進培養槽；裝滿後需培養5天。植入物不會被複製。培養槽使用後即毀損。</Weazel_CloneVat_StartDesc>
+  <!-- EN: Requires the Anomaly DLC. -->
+  <Weazel_CloneVat_NeedAnomaly>需要Anomaly DLC。</Weazel_CloneVat_NeedAnomaly>
+  <!-- EN: There are no Weazel colonists on this map. -->
+  <Weazel_CloneVat_NoWeazel>這張地圖上沒有鼬族殖民者。</Weazel_CloneVat_NoWeazel>
+  <!-- EN: Cancel clone incubation -->
+  <Weazel_CloneVat_Cancel>取消複製體培養</Weazel_CloneVat_Cancel>
+  <!-- EN: Cancel the selected target. Loaded Purified Essence is returned; nutrition is lost. -->
+  <Weazel_CloneVat_CancelDesc>取消已選擇的目標。已裝入的純化精華會退還，營養則會損失。</Weazel_CloneVat_CancelDesc>
+  <!-- EN: Clone target set: {0}. Waiting for {1} Purified Essence and {2} nutrition. -->
+  <Weazel_CloneVat_Selected>已設定複製目標：{0}。等待{1}個純化精華和{2}營養值。</Weazel_CloneVat_Selected>
+  <!-- EN: Clone incubation of {0} has begun. It will finish in 5 days. -->
+  <Weazel_CloneVat_Started>{0}的複製體培養已開始，將在5天後完成。</Weazel_CloneVat_Started>
+  <!-- EN: Clone incubation failed: the original could not be found. -->
+  <Weazel_CloneVat_Failed>複製體培養失敗：找不到原本的個體。</Weazel_CloneVat_Failed>
+  <!-- EN: Weazel clone complete -->
+  <Weazel_CloneVat_LetterLabel>鼬族複製完成</Weazel_CloneVat_LetterLabel>
+  <!-- EN: The single-use clone vat has finished incubating. {CLONE_nameDef}, a perfect copy of {ORIGINAL_nameDef}, has emerged and joined the colony.\n\nThe vat was destroyed by the overload. -->
+  <Weazel_CloneVat_LetterText>一次性複製培養槽已完成培養。{ORIGINAL_nameDef}的完美複製體{CLONE_nameDef}已經出槽並加入殖民地。\n\n培養槽因過載而毀損。</Weazel_CloneVat_LetterText>
+  <!-- EN: Idle. Use 'Start Weazel clone incubation' to choose a target. -->
+  <Weazel_CloneVat_Idle>閒置中。使用「開始培養鼬族複製體」來選擇目標。</Weazel_CloneVat_Idle>
+  <!-- EN: Clone target: {0} -->
+  <Weazel_CloneVat_TargetLine>複製目標：{0}</Weazel_CloneVat_TargetLine>
+  <!-- EN: Purified Essence {0}/{1}, nutrition {2}/{3} -->
+  <Weazel_CloneVat_FillLine>純化精華{0}/{1}，營養{2}/{3}</Weazel_CloneVat_FillLine>
+  <!-- EN: Incubation time left: {0} -->
+  <Weazel_CloneVat_TimeLeft>剩餘培養時間：{0}</Weazel_CloneVat_TimeLeft>
+  <!-- EN: Inject Propital-W -->
+  <Weazel_PropitalInject>注射Propital-W</Weazel_PropitalInject>
+  <!-- EN: Inject a carried Propital-W into a chosen target (yourself, colonists, slaves, prisoners or allies; hostiles only when downed).\n\nCarried: {0} -->
+  <Weazel_PropitalInjectDesc>將身上攜帶的Propital-W注射給指定目標（自己、殖民者、奴隸、俘虜或盟友；敵人只能在倒地時注射）。\n\n攜帶數量：{0}</Weazel_PropitalInjectDesc>
+  <!-- EN: {0} is downed. -->
+  <Weazel_PropitalDownedDoctor>{0}已倒地。</Weazel_PropitalDownedDoctor>
+  <!-- EN: {0} took another dose of Propital-W while it was still active. {1_possessive} body has gone into regeneration overload. -->
+  <Weazel_PropitalOverload>{0}在Propital-W藥效未退時又注射了一劑。{1_possessive}身體已進入再生過載。</Weazel_PropitalOverload>
+  <!-- EN: {0} took Propital-W during a regeneration overload and has overdosed. -->
+  <Weazel_PropitalOverdose>{0}在再生過載期間注射了Propital-W，結果用藥過量。</Weazel_PropitalOverdose>
+  <!-- EN: How many Propital-W this pawn keeps in their inventory. They will fetch more from storage when they run low. -->
+  <Weazel_PropitalCarryTip>這名角色要在物品欄裡攜帶多少Propital-W。數量不足時會自行去倉庫補充。</Weazel_PropitalCarryTip>
 </LanguageData>

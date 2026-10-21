@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: high on Essence Boost -->
+  <Weazel_EssenceBoostHigh.label>精华增幅剂亢奋</Weazel_EssenceBoostHigh.label>
+  <!-- EN: an Essence Boost high -->
+  <Weazel_EssenceBoostHigh.labelNoun>精华增幅剂亢奋</Weazel_EssenceBoostHigh.labelNoun>
+  <!-- EN: Essence Boost is coursing through the bloodstream. The mind turns sharp, the hands grow quick, and pain dulls. -->
+  <Weazel_EssenceBoostHigh.description>精华增幅剂正在血液中流窜。思绪变得敏锐、手脚变得俐落，痛觉也迟钝下来。</Weazel_EssenceBoostHigh.description>
+  <!-- EN: Essence Boost tolerance -->
+  <Weazel_EssenceBoostTolerance.label>精华增幅剂耐受</Weazel_EssenceBoostTolerance.label>
+  <!-- EN: A built-up tolerance to Essence Boost. The more severe this tolerance is, the more Essence Boost it takes to get the same effect. -->
+  <Weazel_EssenceBoostTolerance.description>对精华增幅剂累积的耐受性。耐受越严重，就需要越多精华增幅剂才能达到相同效果。</Weazel_EssenceBoostTolerance.description>
+  <!-- EN: Essence Boost addiction -->
+  <Weazel_EssenceBoostAddiction.label>精华增幅剂成瘾</Weazel_EssenceBoostAddiction.label>
+  <!-- EN: A chemical addiction to Essence Boost. It was made to be barely addictive, but once hooked, the user suffers withdrawal without regular doses. Extended abstinence will resolve the addiction. -->
+  <Weazel_EssenceBoostAddiction.description>对精华增幅剂的化学性成瘾。它本来就做得几乎不会成瘾，但一旦上瘾，没有定期使用就会出现戒断症状。长时间戒除后成瘾就会消失。</Weazel_EssenceBoostAddiction.description>
+  <!-- EN: withdrawal -->
+  <Weazel_EssenceBoostAddiction.stages.1.label>戒断反应</Weazel_EssenceBoostAddiction.stages.1.label>
+</LanguageData>

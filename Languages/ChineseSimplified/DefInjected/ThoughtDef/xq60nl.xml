@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: Essence High -->
-  <EssenceHigh.stages.0.label>精华亢奋</EssenceHigh.stages.0.label>
-  <!-- EN: A state of extreme euphoria induced by Essence. -->
-  <EssenceHigh.stages.0.description>因精华而陷入极度的狂喜。</EssenceHigh.stages.0.description>
-  <!-- EN: Essence Withdrawal -->
-  <EssenceWithdrawal.stages.1.label>精华戒断</EssenceWithdrawal.stages.1.label>
-  <!-- EN: Stop fucking around and get me my Essence! Or hand over the damn Gecko, right fucking now! -->
-  <EssenceWithdrawal.stages.1.description>少他妈废话，快把精华给我！不然就把那把该死的壁虎左轮给我，马上！</EssenceWithdrawal.stages.1.description>
   <!-- EN: Essence Blow High -->
   <EssenceSmokeleafHigh.stages.0.label>精华吞吐亢奋</EssenceSmokeleafHigh.stages.0.label>
   <!-- EN: This feeling of Essence running through my veins... I can't get enough of it. -->
