@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: hydraulic suppression strike -->
+  <Weazel_HydraulicStrike.label>液壓壓制重擊</Weazel_HydraulicStrike.label>
+  <!-- EN: Inject Essence into the paw's G.A.M artificial muscle to drive a sudden blow with the hydraulic piston. The target is bruised and builds up hydraulic strain; once the strain reaches its limit, hydraulic shock incapacitates them for a while. Unarmored targets up to human size are subdued in one blow, but larger targets take 2-3 strikes. Armor that reduces or deflects the impact also reduces the strain. Meant to subdue without killing. It can also be used on enemies, but the target can dodge or strike back during the wind-up. Usable as many times as it has been loaded with Essence. -->
+  <Weazel_HydraulicStrike.description>向熊掌內的G.A.M人工肌肉注入精華，以液壓活塞施加瞬間重擊。目標會受到挫傷並累積液壓僵直；僵直達到極限時，會因液壓衝擊而暫時失去行動能力。沒有護甲、體型不超過人類的目標一擊就能制伏，體型較大的目標則需要重擊兩到三次。能減輕或擋下衝擊的護甲也會減少累積的僵直。用途是制伏而不致死，也能對敵人使用，但目標可能在蓄力期間閃避或反擊。以精華裝填幾次就能使用幾次。</Weazel_HydraulicStrike.description>
+</LanguageData>

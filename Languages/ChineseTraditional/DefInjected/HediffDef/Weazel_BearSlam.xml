@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: hydraulic shock -->
+  <Weazel_HydraulicShock.label>液壓衝擊</Weazel_HydraulicShock.label>
+  <!-- EN: The powerful impact of a hydraulic piston has temporarily paralyzed the nervous system. Consciousness is severely reduced and the victim cannot move on their own, but they will recover naturally over time. -->
+  <Weazel_HydraulicShock.description>液壓活塞的強力衝擊使神經系統暫時麻痺。意識大幅下降，無法自行移動，但會隨時間自然恢復。</Weazel_HydraulicShock.description>
+  <!-- EN: hydraulic strain -->
+  <Weazel_HydraulicStrain.label>液壓僵直</Weazel_HydraulicStrain.label>
+  <!-- EN: The impact of a hydraulic piston has left the muscles and nerves stiff. Movement and manipulation are impaired, and if the strain reaches its limit, the victim collapses from hydraulic shock. It eases off gradually over time. -->
+  <Weazel_HydraulicStrain.description>液壓活塞的衝擊使肌肉與神經僵硬。移動與操作能力下降，僵直達到極限時會因液壓衝擊而倒下。會隨時間逐漸緩解。</Weazel_HydraulicStrain.description>
+  <!-- EN: mild -->
+  <Weazel_HydraulicStrain.stages.0.label>輕微</Weazel_HydraulicStrain.stages.0.label>
+  <!-- EN: severe -->
+  <Weazel_HydraulicStrain.stages.1.label>嚴重</Weazel_HydraulicStrain.stages.1.label>
+  <!-- EN: limit -->
+  <Weazel_HydraulicStrain.stages.2.label>極限</Weazel_HydraulicStrain.stages.2.label>
+</LanguageData>

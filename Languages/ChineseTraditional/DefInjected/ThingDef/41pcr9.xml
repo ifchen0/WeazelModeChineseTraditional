@@ -34,8 +34,8 @@
   <Weazel_Bodysuit_B.description>配發給鼬族部隊最基本的軍服。\n\n鼬族普遍偏好這種緊貼皮膚的服裝，因為貼身的設計能完美襯托並強化她們天生的敏捷。這件緊身衣完全以精華絲綢織成，材質極富彈性，可作為「均碼」服裝，專為她們標準的130公分身高調整過。它穿起來非常舒適，也有輕微的真空耐受性，是所有鼬族步兵的必備底層衣物，無論是穿戴輕型散兵裝備還是駕馭重型動力裝甲都一樣。此外，光是緊身衣本身就能提供相當程度的防護。</Weazel_Bodysuit_B.description>
   <!-- EN: Weazel Bodysuit B -->
   <Weazel_Bodysuit_B.label>鼬族緊身衣B</Weazel_Bodysuit_B.label>
-  <!-- EN: A bodysuit worn by Weazel officers, woven from Essence-Synth Silk. -->
-  <Weazel_Bodysuit_Officer.description>鼬族軍官穿著的緊身衣，以精華合成絲綢織成。</Weazel_Bodysuit_Officer.description>
+  <!-- EN: A bodysuit worn by Weazel officers. Made of hyperweave-grade fabric, it offers comparable protection and is designed for comfortable operation even in space. It satisfies the needs that come with rank.\n\nThe color of rank is usually white. Weazel society has two kinds of rank: caste rank, which reflects how close a Weazel is to the original, and the rank assigned to keep Weazel society running. Weazels crave recognition of their rank within their society, and they receive support and supplies to match it. Unlike the ordinary bodysuit, the Weazel officer bodysuit is designed to operate even in space, and its protection surpasses that of the ordinary bodysuit as well. Most Weazel officers adore this bodysuit made just for them. -->
+  <Weazel_Bodysuit_Officer.description>鼬族軍官穿著的緊身衣。以超級布料等級的布料製成，提供相當的防護，並設計成即使在太空中也能舒適行動。它滿足了階級帶來的需求。\n\n階級的代表色通常是白色。鼬族社會有兩種階級：反映與始祖相近程度的階級，以及為維持鼬族社會運作而賦予的階級。鼬族渴望自己的階級在社會中受到認可，並依階級獲得相應的支援與補給。與一般緊身衣不同，鼬族軍官緊身衣設計成可在太空中運作，防護力也勝過一般緊身衣。大多數鼬族軍官都非常喜愛這套專為他們打造的緊身衣。</Weazel_Bodysuit_Officer.description>
   <!-- EN: Weazel Officer Bodysuit -->
   <Weazel_Bodysuit_Officer.label>鼬族軍官緊身衣</Weazel_Bodysuit_Officer.label>
   <!-- EN: A duster designed to fully cover the wearer's torso and arms. Not only is it highly resilient against the harsh, rugged environments of the Rim, but its open-front cut ensures that a Weazel's natural agility remains completely unhindered. -->
@@ -144,8 +144,10 @@
   <Bullet_Taipan.label>鼬族機槍子彈</Bullet_Taipan.label>
   <!-- EN: Weazel Bear Slam -->
   <Weazel_BearSlam.label>鼬族熊掌重擊</Weazel_BearSlam.label>
-  <!-- EN: A mechanized subjugation weapon forged in the shape of a massive bear's paw.\n\nOperating on mechanical principles, the Bear Slam is specifically engineered for subduing captives. Its primary purpose is to deliver a 'crushing blow,' utilizing its broad surface area to swat enemies into unconsciousness. However, when lethal force is required, the four razor-sharp claw blades mounted at the fingertips can inflict critical lacerations and induce heavy bleeding. -->
-  <Weazel_BearSlam.description>鍛造成巨大熊掌形狀的機械化制伏武器。\n\n熊掌重擊以機械原理運作，專為制伏俘虜而設計。它的主要用途是靠寬大的表面積施加「壓制重擊」，把敵人拍到昏迷。然而，需要致命武力時，裝在指尖的四片鋒利爪刃也能造成致命的割傷並引發大量出血。</Weazel_BearSlam.description>
+  <!-- EN: A mechanized subjugation weapon forged in the shape of a massive bear's paw.\n\nOperating on mechanical principles, the Bear Slam is specifically engineered for subduing captives. Its primary purpose is to deliver a 'crushing blow,' utilizing its broad surface area to swat enemies into unconsciousness. Injecting Essence into the G.A.M artificial muscle inside the paw triggers a brief, violent reaction that drives a hydraulic piston into a sudden, powerful impact. This 'Hydraulic Suppression Strike' can subdue rebelling slaves or escaping prisoners without killing them. However, when lethal force is required, the four razor-sharp claw blades mounted at the fingertips can inflict critical lacerations and induce heavy bleeding. -->
+  <Weazel_BearSlam.description>鍛造成巨大熊掌形狀的機械化制伏武器。\n\n熊掌重擊以機械原理運作，專為制伏俘虜而設計。它的主要用途是靠寬大的表面積施加「壓制重擊」，把敵人拍到昏迷。向熊掌內的G.A.M人工肌肉注入精華會引發短暫而劇烈的反應，驅動液壓活塞產生瞬間的強力衝擊。這招「液壓壓制重擊」能在不致死的情況下制伏反抗的奴隸或逃跑的俘虜。然而，需要致命武力時，裝在指尖的四片鋒利爪刃也能造成致命的割傷並引發大量出血。</Weazel_BearSlam.description>
+  <!-- EN: essence charge -->
+  <Weazel_BearSlam.comps.0.chargeNoun>精華裝填</Weazel_BearSlam.comps.0.chargeNoun>
   <!-- EN: slam -->
   <Weazel_BearSlam.tools.0.label>重擊</Weazel_BearSlam.tools.0.label>
   <!-- EN: claw -->

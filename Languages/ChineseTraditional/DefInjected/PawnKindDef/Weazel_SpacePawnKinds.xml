@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Weazel Space Recruit -->
+  <Weazel_Space_Recruit.label>鼬族太空新兵</Weazel_Space_Recruit.label>
+  <!-- EN: Weazel Space Core Infantry -->
+  <Weazel_Space_Core_Infantry.label>鼬族太空主力步兵</Weazel_Space_Core_Infantry.label>
+  <!-- EN: Weazel Space Guidon Bearer -->
+  <Weazel_Space_Guidon_Bearer.label>鼬族太空旗手</Weazel_Space_Guidon_Bearer.label>
+  <!-- EN: Weazel Space Grenadier -->
+  <Weazel_Space_Trooper.label>鼬族太空擲彈兵</Weazel_Space_Trooper.label>
+  <!-- EN: Weazel Space Assault Trooper -->
+  <Weazel_Space_Assault_Trooper.label>鼬族太空突擊兵</Weazel_Space_Assault_Trooper.label>
+  <!-- EN: Weazel Space Assault Guidon Bearer -->
+  <Weazel_Space_Assalut_Guidon.label>鼬族太空突擊旗手</Weazel_Space_Assalut_Guidon.label>
+</LanguageData>

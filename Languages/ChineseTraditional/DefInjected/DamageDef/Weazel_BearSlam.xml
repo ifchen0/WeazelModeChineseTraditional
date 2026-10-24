@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: hydraulic strike -->
+  <Weazel_HydraulicStrike.label>液壓重擊</Weazel_HydraulicStrike.label>
+  <!-- EN: {0} has been killed by a hydraulic strike. -->
+  <Weazel_HydraulicStrike.deathMessage>{0}被液壓重擊打死了。</Weazel_HydraulicStrike.deathMessage>
+</LanguageData>
