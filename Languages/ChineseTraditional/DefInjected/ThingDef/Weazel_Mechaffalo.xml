@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: molly -->
+  <Weazel_Mechaffalo.label>茉莉</Weazel_Mechaffalo.label>
+  <!-- EN: An animal-shaped transport robot the Weazels built in the image of the muffalo. It was designed to haul cargo and produce chemfuel, but for some reason the molly firmly believes it is a real animal. It grazes, forms herds, and even gives birth.\n\nIts armored hull makes it resistant to blades and fire. A molly that has reached the end of its life can be dismantled for steel, G.A.M and components. -->
+  <Weazel_Mechaffalo.description>鼬族仿照毛牛打造的動物型運輸機器人。原本設計用來搬運貨物和產出化合燃料，但不知為何，茉莉堅信自己是真正的動物。牠會吃草、成群活動，甚至還會生小孩。\n\n裝甲外殼讓牠不怕刀刃與火焰。壽命走到盡頭的茉莉可以拆解回收鋼鐵、G.A.M與零件。</Weazel_Mechaffalo.description>
+  <!-- EN: head -->
+  <Weazel_Mechaffalo.tools.0.label>頭部</Weazel_Mechaffalo.tools.0.label>
+  <!-- EN: left hoof -->
+  <Weazel_Mechaffalo.tools.1.label>左蹄</Weazel_Mechaffalo.tools.1.label>
+  <!-- EN: hoof -->
+  <Weazel_Mechaffalo.tools.1.labelNoLocation>蹄</Weazel_Mechaffalo.tools.1.labelNoLocation>
+  <!-- EN: right hoof -->
+  <Weazel_Mechaffalo.tools.2.label>右蹄</Weazel_Mechaffalo.tools.2.label>
+  <!-- EN: hoof -->
+  <Weazel_Mechaffalo.tools.2.labelNoLocation>蹄</Weazel_Mechaffalo.tools.2.labelNoLocation>
+</LanguageData>

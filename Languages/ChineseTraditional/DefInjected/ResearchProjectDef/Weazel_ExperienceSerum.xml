@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Experience Injection Theory -->
+  <WeazelExperienceInjection.label>經驗注入理論</WeazelExperienceInjection.label>
+  <!-- EN: Research serums that infuse Purified Essence with the memories of skilled Weazels, injecting their experience into other Weazels. Unlocks the Weazel combat, domestic and scholarly experience serums at the drug lab. -->
+  <WeazelExperienceInjection.description>研究將熟練鼬族的記憶融入純化精華的血清，把經驗注入其他鼬族體內。解鎖後可在藥物合成桌製作鼬族戰鬥、內政與學藝經驗血清。</WeazelExperienceInjection.description>
+</LanguageData>

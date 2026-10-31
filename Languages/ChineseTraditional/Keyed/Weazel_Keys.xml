@@ -64,4 +64,28 @@
   <Weazel_PropitalOverdose>{0}在再生過載期間注射了Propital-W，結果用藥過量。</Weazel_PropitalOverdose>
   <!-- EN: How many Propital-W this pawn keeps in their inventory. They will fetch more from storage when they run low. -->
   <Weazel_PropitalCarryTip>這名角色要在物品欄裡攜帶多少Propital-W。數量不足時會自行去倉庫補充。</Weazel_PropitalCarryTip>
+  <!-- EN: Only Weazels can receive this. -->
+  <Weazel_ExperienceSerum_NotWeazel>只有鼬族能注射。</Weazel_ExperienceSerum_NotWeazel>
+  <!-- EN: Must be at least {0} years old. -->
+  <Weazel_ExperienceSerum_TooYoung>必須年滿{0}歲。</Weazel_ExperienceSerum_TooYoung>
+  <!-- EN: Has already received an experience serum. -->
+  <Weazel_ExperienceSerum_AlreadyInjected>已經注射過經驗血清。</Weazel_ExperienceSerum_AlreadyInjected>
+  <!-- EN: Has a growth moment that hasn't been chosen yet. -->
+  <Weazel_ExperienceSerum_GrowthPending>還有尚未選擇的成長時刻。</Weazel_ExperienceSerum_GrowthPending>
+  <!-- EN: {PAWN_nameDef} could not receive the experience serum: {REASON} The serum was returned. -->
+  <Weazel_ExperienceSerum_Failed>{PAWN_nameDef}無法注射經驗血清：{REASON}血清已退回。</Weazel_ExperienceSerum_Failed>
+  <!-- EN: Experience injection: {PAWN_nameDef} -->
+  <Weazel_ExperienceSerum_LetterLabel>經驗注入：{PAWN_nameDef}</Weazel_ExperienceSerum_LetterLabel>
+  <!-- EN: {PAWN_nameDef} received an experience serum. ({SKILLS}) -->
+  <Weazel_ExperienceSerum_Injected>{PAWN_nameDef}注射了經驗血清。（{SKILLS}）</Weazel_ExperienceSerum_Injected>
+  <!-- EN: Reload {0} ({1}/{2}) -->
+  <Weazel_TailReloadOption>裝填{0}（{1}/{2}）</Weazel_TailReloadOption>
+  <!-- EN: already full -->
+  <Weazel_TailReloadFull>已裝滿</Weazel_TailReloadFull>
+  <!-- EN: needs at least {1} {0} -->
+  <Weazel_TailReloadNotEnough>至少需要{1}個{0}</Weazel_TailReloadNotEnough>
+  <!-- EN: no path -->
+  <Weazel_TailReloadNoPath>無法抵達</Weazel_TailReloadNoPath>
+  <!-- EN: in use by someone else -->
+  <Weazel_TailReloadReserved>其他人正在使用</Weazel_TailReloadReserved>
 </LanguageData>

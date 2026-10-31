@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: experience injected -->
+  <Weazel_ExperienceInjected.label>已注入經驗</Weazel_ExperienceInjected.label>
+  <!-- EN: This Weazel has already received an experience serum. An experience serum can only be received once in a lifetime. -->
+  <Weazel_ExperienceInjected.description>這名鼬族已經注射過經驗血清。經驗血清一生只能注射一次。</Weazel_ExperienceInjected.description>
+  <!-- EN: learning sickness -->
+  <Weazel_LearningSickness.label>學習暈眩</Weazel_LearningSickness.label>
+  <!-- EN: Severe nausea and vomiting while the injected experience settles into the brain. It wears off on its own after a few days. -->
+  <Weazel_LearningSickness.description>注入的經驗在腦中定型期間，會引起嚴重的噁心與嘔吐。幾天後會自行消退。</Weazel_LearningSickness.description>
+</LanguageData>

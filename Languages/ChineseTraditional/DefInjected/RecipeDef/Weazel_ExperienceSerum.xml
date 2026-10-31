@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: inject Weazel combat experience serum -->
+  <Weazel_InjectExperienceSerum_Combat.label>注射鼬族戰鬥經驗血清</Weazel_InjectExperienceSerum_Combat.label>
+  <!-- EN: Inject a Weazel combat experience serum. Shooting +2, Melee +2, a top-tier growth moment, and learning sickness (6 days). -->
+  <Weazel_InjectExperienceSerum_Combat.description>注射鼬族戰鬥經驗血清。射擊+2、格鬥+2、最高等級的成長時刻，並伴隨學習暈眩（6天）。</Weazel_InjectExperienceSerum_Combat.description>
+  <!-- EN: Injecting Weazel combat experience serum. -->
+  <Weazel_InjectExperienceSerum_Combat.jobString>正在注射鼬族戰鬥經驗血清。</Weazel_InjectExperienceSerum_Combat.jobString>
+  <!-- EN: inject Weazel domestic experience serum -->
+  <Weazel_InjectExperienceSerum_Domestic.label>注射鼬族內政經驗血清</Weazel_InjectExperienceSerum_Domestic.label>
+  <!-- EN: Inject a Weazel domestic experience serum. Crafting +2, Construction +2, a top-tier growth moment, and learning sickness (6 days). -->
+  <Weazel_InjectExperienceSerum_Domestic.description>注射鼬族內政經驗血清。手工+2、建造+2、最高等級的成長時刻，並伴隨學習暈眩（6天）。</Weazel_InjectExperienceSerum_Domestic.description>
+  <!-- EN: Injecting Weazel domestic experience serum. -->
+  <Weazel_InjectExperienceSerum_Domestic.jobString>正在注射鼬族內政經驗血清。</Weazel_InjectExperienceSerum_Domestic.jobString>
+  <!-- EN: inject Weazel scholarly experience serum -->
+  <Weazel_InjectExperienceSerum_Research.label>注射鼬族學藝經驗血清</Weazel_InjectExperienceSerum_Research.label>
+  <!-- EN: Inject a Weazel scholarly experience serum. Intellectual +2, Artistic +2, a top-tier growth moment, and learning sickness (6 days). -->
+  <Weazel_InjectExperienceSerum_Research.description>注射鼬族學藝經驗血清。知識+2、藝術+2、最高等級的成長時刻，並伴隨學習暈眩（6天）。</Weazel_InjectExperienceSerum_Research.description>
+  <!-- EN: Injecting Weazel scholarly experience serum. -->
+  <Weazel_InjectExperienceSerum_Research.jobString>正在注射鼬族學藝經驗血清。</Weazel_InjectExperienceSerum_Research.jobString>
+  <!-- EN: make Weazel combat experience serum -->
+  <Make_Weazel_ExperienceSerum_Combat.label>製作鼬族戰鬥經驗血清</Make_Weazel_ExperienceSerum_Combat.label>
+  <!-- EN: Make a Weazel combat experience serum. -->
+  <Make_Weazel_ExperienceSerum_Combat.description>製作一劑鼬族戰鬥經驗血清。</Make_Weazel_ExperienceSerum_Combat.description>
+  <!-- EN: Making Weazel combat experience serum. -->
+  <Make_Weazel_ExperienceSerum_Combat.jobString>正在製作鼬族戰鬥經驗血清。</Make_Weazel_ExperienceSerum_Combat.jobString>
+  <!-- EN: make Weazel domestic experience serum -->
+  <Make_Weazel_ExperienceSerum_Domestic.label>製作鼬族內政經驗血清</Make_Weazel_ExperienceSerum_Domestic.label>
+  <!-- EN: Make a Weazel domestic experience serum. -->
+  <Make_Weazel_ExperienceSerum_Domestic.description>製作一劑鼬族內政經驗血清。</Make_Weazel_ExperienceSerum_Domestic.description>
+  <!-- EN: Making Weazel domestic experience serum. -->
+  <Make_Weazel_ExperienceSerum_Domestic.jobString>正在製作鼬族內政經驗血清。</Make_Weazel_ExperienceSerum_Domestic.jobString>
+  <!-- EN: make Weazel scholarly experience serum -->
+  <Make_Weazel_ExperienceSerum_Research.label>製作鼬族學藝經驗血清</Make_Weazel_ExperienceSerum_Research.label>
+  <!-- EN: Make a Weazel scholarly experience serum. -->
+  <Make_Weazel_ExperienceSerum_Research.description>製作一劑鼬族學藝經驗血清。</Make_Weazel_ExperienceSerum_Research.description>
+  <!-- EN: Making Weazel scholarly experience serum. -->
+  <Make_Weazel_ExperienceSerum_Research.jobString>正在製作鼬族學藝經驗血清。</Make_Weazel_ExperienceSerum_Research.jobString>
+</LanguageData>

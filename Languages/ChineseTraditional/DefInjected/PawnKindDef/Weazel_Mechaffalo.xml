@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: molly -->
+  <Weazel_Mechaffalo.label>茉莉</Weazel_Mechaffalo.label>
+  <!-- EN: molly -->
+  <Weazel_Mechaffalo.labelPlural>茉莉</Weazel_Mechaffalo.labelPlural>
+  <!-- EN: molly calf -->
+  <Weazel_Mechaffalo.lifeStages.0.label>茉莉寶寶</Weazel_Mechaffalo.lifeStages.0.label>
+  <!-- EN: molly calves -->
+  <Weazel_Mechaffalo.lifeStages.0.labelPlural>茉莉寶寶</Weazel_Mechaffalo.lifeStages.0.labelPlural>
+</LanguageData>
