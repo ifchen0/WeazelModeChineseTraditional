@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: essence-synth reactive armor -->
+  <Weazel_EssenceSynthReactiveArmor.label>精華合成反應裝甲</Weazel_EssenceSynthReactiveArmor.label>
+  <!-- EN: The essence-synth reactive armor of the worn power armor absorbs impacts, greatly reducing the damage taken. -->
+  <Weazel_EssenceSynthReactiveArmor.description>穿戴中的動力裝甲所配備的精華合成反應裝甲會吸收衝擊，大幅減少受到的傷害。</Weazel_EssenceSynthReactiveArmor.description>
+  <!-- EN: first aid protocol -->
+  <Weazel_FirstAidProtocol.label>急救協定</Weazel_FirstAidProtocol.label>
+  <!-- EN: The first aid protocol of the worn power armor. If the wearer collapses from pain, it automatically injects the loaded Propital-W to stop the bleeding, regenerate the body and gradually suppress the pain.\n\nOnce activated, it must be reloaded with Propital-W. -->
+  <Weazel_FirstAidProtocol.description>穿戴中的動力裝甲的急救協定。穿戴者因疼痛倒下時，會自動注射裝填好的Propital-W，止住出血、再生身體，並逐漸壓制疼痛。\n\n一旦啟動，就必須重新裝填Propital-W。</Weazel_FirstAidProtocol.description>
+  <!-- EN: first aid protocol active -->
+  <Weazel_FirstAidProtocolActive.label>急救協定啟動中</Weazel_FirstAidProtocolActive.label>
+  <!-- EN: The first aid protocol is running. Pain is suppressed more and more over time, letting a collapsed wearer slowly get back on their feet. -->
+  <Weazel_FirstAidProtocolActive.description>急救協定正在運作。疼痛會隨著時間受到越來越強的壓制，讓倒下的穿戴者慢慢重新站起來。</Weazel_FirstAidProtocolActive.description>
+  <!-- EN: pain suppression I -->
+  <Weazel_FirstAidProtocolActive.stages.0.label>疼痛壓制一級</Weazel_FirstAidProtocolActive.stages.0.label>
+  <!-- EN: pain suppression II -->
+  <Weazel_FirstAidProtocolActive.stages.1.label>疼痛壓制二級</Weazel_FirstAidProtocolActive.stages.1.label>
+  <!-- EN: pain suppression III -->
+  <Weazel_FirstAidProtocolActive.stages.2.label>疼痛壓制三級</Weazel_FirstAidProtocolActive.stages.2.label>
+  <!-- EN: pain suppression max -->
+  <Weazel_FirstAidProtocolActive.stages.3.label>疼痛壓制最大</Weazel_FirstAidProtocolActive.stages.3.label>
+</LanguageData>

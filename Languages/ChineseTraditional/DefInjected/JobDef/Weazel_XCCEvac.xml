@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: boarding the evacuation shuttle. -->
+  <Weazel_XCCBoardEvac.reportString>正在登上撤離穿梭機。</Weazel_XCCBoardEvac.reportString>
+  <!-- EN: carrying TargetA to the evacuation shuttle. -->
+  <Weazel_XCCCarryToEvac.reportString>正在將TargetA搬上撤離穿梭機。</Weazel_XCCCarryToEvac.reportString>
+  <!-- EN: evacuating by drop pod. -->
+  <Weazel_XCCPodInPlace.reportString>正在搭乘空投艙撤離。</Weazel_XCCPodInPlace.reportString>
+</LanguageData>

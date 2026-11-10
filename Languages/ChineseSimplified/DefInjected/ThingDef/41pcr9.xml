@@ -139,7 +139,7 @@
   <!-- EN: Weazel nine-barrel shotgun pellet -->
   <Bullet_NineBarrelShotgun.label>鼬族九管霰弹</Bullet_NineBarrelShotgun.label>
   <!-- EN: autocannon HE shell -->
-  <Bullet_Alligator.label>机砲高爆弹</Bullet_Alligator.label>
+  <Bullet_Alligator.label>机炮高爆弹</Bullet_Alligator.label>
   <!-- EN: Weazel machine gun bullet -->
   <Bullet_Taipan.label>鼬族机枪子弹</Bullet_Taipan.label>
   <!-- EN: Weazel Bear Slam -->
@@ -259,7 +259,7 @@
   <!-- EN: Weazel Alligator -->
   <Weazel_Alligator.label>鼬族短吻鳄</Weazel_Alligator.label>
   <!-- EN: A massive, devastating heavy weapon created by fusing twin autocannons into a single platform, capable of rapidly unleashing a barrage of 25mm high-explosive rounds.\nIts overwhelming firepower and explosive payload effectively transform a standard infantryman into a walking armored vehicle. However, its crushing weight and absurd recoil make it impossible to operate without the highly precise contraction and relaxation of G.A.M. artificial muscles to absorb the punishment.\nConsequently, the Alligator is designed exclusively for power armor wearers. -->
-  <Weazel_Alligator.description>将两门机砲合而为一的巨大毁灭性重武器，能迅速射出一连串25mm高爆弹。\n压倒性的火力与爆炸酬载，实际上把一名普通步兵变成了一辆会走路的装甲车。然而，它惊人的重量和荒谬的后座力，没有G.A.M.人工肌肉极其精确的收缩与舒张来吸收冲击，就根本无法操作。\n因此，短吻鳄专为动力装甲穿着者设计。</Weazel_Alligator.description>
+  <Weazel_Alligator.description>将两门机炮合而为一的巨大毁灭性重武器，能迅速射出一连串25mm高爆弹。\n压倒性的火力与爆炸酬载，实际上把一名普通步兵变成了一辆会走路的装甲车。然而，它惊人的重量和荒谬的后座力，没有G.A.M.人工肌肉极其精确的收缩与舒张来吸收冲击，就根本无法操作。\n因此，短吻鳄专为动力装甲穿着者设计。</Weazel_Alligator.description>
   <!-- EN: Weazel Alligator -->
   <Weazel_Alligator.verbs.Verb_Shoot.label>鼬族短吻鳄</Weazel_Alligator.verbs.Verb_Shoot.label>
   <!-- EN: grip -->

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: XCC evacuation shuttle (incoming) -->
+  <Weazel_XCCShuttleIncoming.label>XCC撤离穿梭机（降落中）</Weazel_XCCShuttleIncoming.label>
+  <!-- EN: XCC evacuation shuttle (leaving) -->
+  <Weazel_XCCShuttleLeaving.label>XCC撤离穿梭机（起飞中）</Weazel_XCCShuttleLeaving.label>
+  <!-- EN: XCC evacuation drop pod -->
+  <Weazel_XCCPodLeaving.label>XCC撤离空投舱</Weazel_XCCPodLeaving.label>
+  <!-- EN: XCC evacuation shuttle -->
+  <Weazel_XCCEvacShuttle.label>XCC撤离穿梭机</Weazel_XCCEvacShuttle.label>
+  <!-- EN: A shuttle sent by the XCC to retrieve its support troops. It takes off once all the troops are aboard. Downed troops are carried to the shuttle by their comrades. -->
+  <Weazel_XCCEvacShuttle.description>XCC派来接回支援部队的穿梭机。所有部队登机后就会起飞。倒地的士兵会由同伴擡上穿梭机。</Weazel_XCCEvacShuttle.description>
+  <!-- EN: XCC evacuation point -->
+  <Weazel_XCCEvacBeacon.label>XCC撤离点</Weazel_XCCEvacBeacon.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Weazel Stoat Power Armor (Type A) -->
+  <Weazel_StoatArmorA.label>鼬族短尾鼬動力裝甲（A型）</Weazel_StoatArmorA.label>
+  <!-- EN: The finest power armor, built for Weazel officers. Its essence-synth reactive armor greatly reduces the damage the wearer takes, and its first aid protocol automatically injects a loaded dose of Propital-W when the wearer collapses from pain.\n\nOnce the first aid protocol activates, it must be reloaded with Propital-W. The wearer reloads it on their own, from their inventory or from storage.\n\nThe Stoat comes in Type A and Type B, which differ only in appearance. -->
+  <Weazel_StoatArmorA.description>為鼬族軍官打造的最頂級動力裝甲。精華合成反應裝甲能大幅減少穿戴者受到的傷害，急救協定則會在穿戴者因疼痛倒下時，自動注射裝填好的Propital-W。\n\n急救協定一旦啟動，就必須重新裝填Propital-W。穿戴者會自行從隨身物品或倉庫取用來裝填。\n\n短尾鼬分為A型與B型，兩者只有外觀不同。</Weazel_StoatArmorA.description>
+  <!-- EN: Weazel Stoat Power Armor (Type B) -->
+  <Weazel_StoatArmorB.label>鼬族短尾鼬動力裝甲（B型）</Weazel_StoatArmorB.label>
+  <!-- EN: The finest power armor, built for Weazel officers. Its essence-synth reactive armor greatly reduces the damage the wearer takes, and its first aid protocol automatically injects a loaded dose of Propital-W when the wearer collapses from pain.\n\nOnce the first aid protocol activates, it must be reloaded with Propital-W. The wearer reloads it on their own, from their inventory or from storage.\n\nThe Stoat comes in Type A and Type B, which differ only in appearance. -->
+  <Weazel_StoatArmorB.description>為鼬族軍官打造的最頂級動力裝甲。精華合成反應裝甲能大幅減少穿戴者受到的傷害，急救協定則會在穿戴者因疼痛倒下時，自動注射裝填好的Propital-W。\n\n急救協定一旦啟動，就必須重新裝填Propital-W。穿戴者會自行從隨身物品或倉庫取用來裝填。\n\n短尾鼬分為A型與B型，兩者只有外觀不同。</Weazel_StoatArmorB.description>
+  <!-- EN: Weazel Stoat Helmet -->
+  <Weazel_StoatHelmat.label>鼬族短尾鼬頭盔</Weazel_StoatHelmat.label>
+  <!-- EN: The helmet of the Stoat power armor for Weazel officers. Its targeting aid shortens the wearer's aiming time. -->
+  <Weazel_StoatHelmat.description>鼬族軍官用短尾鼬動力裝甲的頭盔。瞄準輔助裝置能縮短穿戴者的瞄準時間。</Weazel_StoatHelmat.description>
+</LanguageData>

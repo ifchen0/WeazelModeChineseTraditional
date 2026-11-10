@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Weazel Kodiak -->
+  <Weazel_Kodiak.label>鼬族科迪亞克</Weazel_Kodiak.label>
+  <!-- EN: An ultra-hot greatsword whose high-powered laser recalls a giant wire saw. It can strike several targets at once and deals heavy damage with high armor penetration. Because of its heat and weight, the Kodiak can only be wielded while wearing power armor.\n\nOwning a Kodiak alone is proof of elite status. The pinnacle of Weazel engineering, it reinterprets the idea of the monosword as "a sword that can cut molecules," and it was designed to cut through, quite literally, anything. Weazels find it a highly attractive weapon, as it lets them strike any enemy with overwhelming force regardless of size. Its intense heat and weight, however, make it an extremely difficult and dangerous weapon that demands great skill. For this reason, only Weazels recognized as elites may carry the Kodiak. -->
+  <Weazel_Kodiak.description>一把超高熱大劍，高功率雷射的外形讓人聯想到巨大的線鋸。能同時攻擊多個目標，傷害高且護甲穿透力強。由於高熱與重量，科迪亞克只能在穿著動力裝甲時使用。\n\n光是擁有科迪亞克，就足以證明自己是菁英。作為鼬族工程學的極致，它將單分子劍的概念重新詮釋為「能切斷分子的劍」，設計目標就是字面意義上的斬斷一切。它能讓鼬族無論面對多龐大的敵人都施展壓倒性的力量，因此在鼬族眼中是極具吸引力的武器。然而，強烈的高熱與重量也讓它成為極難駕馭、極度危險、需要高超技術的武器。因此，只有被認可為菁英的鼬族才能攜帶科迪亞克。</Weazel_Kodiak.description>
+  <!-- EN: downward slash -->
+  <Weazel_Kodiak.tools.0.label>下劈</Weazel_Kodiak.tools.0.label>
+  <!-- EN: sweep -->
+  <Weazel_Kodiak.tools.1.label>橫掃</Weazel_Kodiak.tools.1.label>
+</LanguageData>

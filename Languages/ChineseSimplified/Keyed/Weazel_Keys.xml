@@ -88,4 +88,34 @@
   <Weazel_TailReloadNoPath>无法抵达</Weazel_TailReloadNoPath>
   <!-- EN: in use by someone else -->
   <Weazel_TailReloadReserved>其他人正在使用</Weazel_TailReloadReserved>
+  <!-- EN: First aid protocol: {0}/{1} -->
+  <Weazel_FirstAidProtocolCharges>急救协议：{0}/{1}</Weazel_FirstAidProtocolCharges>
+  <!-- EN: Loaded: activates automatically if the wearer collapses from pain. -->
+  <Weazel_FirstAidProtocolReady>已装填：穿戴者因疼痛倒下时会自动启动。</Weazel_FirstAidProtocolReady>
+  <!-- EN: Empty: needs to be reloaded with {0}. -->
+  <Weazel_FirstAidProtocolEmpty>已用尽：需要用{0}重新装填。</Weazel_FirstAidProtocolEmpty>
+  <!-- EN: {0}'s first aid protocol has activated. The bleeding stops and the body begins to regenerate. -->
+  <Weazel_FirstAidProtocolActivated>{0}的急救协议已启动。出血停止，身体开始再生。</Weazel_FirstAidProtocolActivated>
+  <!-- EN: {0}'s first aid protocol has activated. Given time, they may get back up. -->
+  <Weazel_FirstAidProtocolActivatedOther>{0}的急救协议已启动。只要给点时间，或许就能重新站起来。</Weazel_FirstAidProtocolActivatedOther>
+  <!-- EN: Reload first aid protocol ({0}/{1}) -->
+  <Weazel_FirstAidReloadOption>重新装填急救协议（{0}/{1}）</Weazel_FirstAidReloadOption>
+  <!-- EN: A {0} evacuation shuttle is coming down to pick up the support troops. -->
+  <Weazel_XCCEvacCalled>{0}的撤离穿梭机正在降落，准备接回支援部队。</Weazel_XCCEvacCalled>
+  <!-- EN: There is no room for the shuttle to land, so the {0} support troops are evacuating by drop pod. -->
+  <Weazel_XCCEvacPod>穿梭机没有降落空间，{0}的支援部队改以空投舱撤离。</Weazel_XCCEvacPod>
+  <!-- EN: The {0} evacuation shuttle has left with the support troops. -->
+  <Weazel_XCCEvacDeparted>{0}的撤离穿梭机已载着支援部队离开。</Weazel_XCCEvacDeparted>
+  <!-- EN: Overcharge -->
+  <Weazel_EnergyBladeToggle>超载</Weazel_EnergyBladeToggle>
+  <!-- EN: Raise the output and switch the attack to a sweep. A sweep hits every target in a 3-cell cone in the attack direction, allies included, but attacks more slowly.\n\nTurn it off to return to the downward slash, which deals heavy damage to a single target. After switching, you can't switch again for 10 seconds. -->
+  <Weazel_EnergyBladeToggleDesc>提高输出功率，将攻击切换为横扫。横扫会击中攻击方向3格锥形范围内的所有目标（包括友军），但攻击速度较慢。\n\n关闭后会恢复为对单一目标造成重创的下劈。切换后10秒内无法再次切换。</Weazel_EnergyBladeToggleDesc>
+  <!-- EN: Output switch on cooldown ({0}s) -->
+  <Weazel_EnergyBladeToggleCooldown>输出切换冷却中（{0}秒）</Weazel_EnergyBladeToggleCooldown>
+  <!-- EN: Attack mode: downward slash -->
+  <Weazel_EnergyBladeModeSlash>攻击模式：下劈</Weazel_EnergyBladeModeSlash>
+  <!-- EN: Attack mode: sweep (overcharged) -->
+  <Weazel_EnergyBladeModeSweep>攻击模式：横扫（超载）</Weazel_EnergyBladeModeSweep>
+  <!-- EN: {0} took off their power armor and can no longer hold {1}, so they put it down. -->
+  <Weazel_PowerWeaponDropped>{0}脱下了动力装甲，无法再持握{1}，只好将它放下。</Weazel_PowerWeaponDropped>
 </LanguageData>

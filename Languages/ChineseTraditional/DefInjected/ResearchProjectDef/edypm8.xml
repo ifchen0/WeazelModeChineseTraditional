@@ -28,4 +28,8 @@
   <WeazelPowerWeapon.label>武器巨型化</WeazelPowerWeapon.label>
   <!-- EN: Unlocks the fabrication of massive heavy weapons. Due to their extreme weight and monstrous recoil, these weapons can only be wielded by units equipped with power armor. -->
   <WeazelPowerWeapon.description>解鎖巨型重武器的製作。由於極為沉重且後座力驚人，這些武器只有穿著動力裝甲的人才能使用。</WeazelPowerWeapon.description>
+  <!-- EN: Essence-Synth Reactive Armor -->
+  <WeazelEssenceSynthReactiveArmor.label>精華合成反應裝甲</WeazelEssenceSynthReactiveArmor.label>
+  <!-- EN: Research reactive armor that combines Essence-Synth Silk with G.A.M. artificial muscles to reduce incoming damage. Unlocks the fabrication of the Stoat and Ratel, the finest Weazel power armor. -->
+  <WeazelEssenceSynthReactiveArmor.description>研究結合精華合成絲綢與G.A.M.人工肌肉、能減少所受傷害的反應裝甲。解鎖鼬族最頂級動力裝甲「短尾鼬」與「蜜獾」的製作。</WeazelEssenceSynthReactiveArmor.description>
 </LanguageData>

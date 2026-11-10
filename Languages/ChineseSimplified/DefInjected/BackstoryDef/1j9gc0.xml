@@ -151,11 +151,11 @@
   <!-- EN: Most of Weazel society runs on slave labor, but Weazels of the lower castes are also put to work on such tasks. [PAWN_nameDef] has spent her life fit for nothing more than this. -->
   <Weazel_HydroFarmer.description>鼬族社会大多靠奴隶劳动运作，但下层阶级的鼬族也会被派去做这类工作。[PAWN_nameDef]这辈子除了这个之外，什么都做不来。</Weazel_HydroFarmer.description>
   <!-- EN: Weazel Bullet Sponge -->
-  <Weazel_BulletSponge.title>鼬族砲灰</Weazel_BulletSponge.title>
+  <Weazel_BulletSponge.title>鼬族炮灰</Weazel_BulletSponge.title>
   <!-- EN: Bullet Sponge -->
-  <Weazel_BulletSponge.titleShort>砲灰</Weazel_BulletSponge.titleShort>
+  <Weazel_BulletSponge.titleShort>炮灰</Weazel_BulletSponge.titleShort>
   <!-- EN: When a new batch of clones unexpectedly pushes the population plan past saturation, the newly produced Weazels become 'bullet sponges.' [PAWN_nameDef] has survived this long by doing whatever it took. -->
-  <Weazel_BulletSponge.description>当一批新的复制体意外让人口计划超过饱和时，新生产的鼬族就会成为“砲灰”。[PAWN_nameDef]靠着不择手段，才活到了现在。</Weazel_BulletSponge.description>
+  <Weazel_BulletSponge.description>当一批新的复制体意外让人口计划超过饱和时，新生产的鼬族就会成为“炮灰”。[PAWN_nameDef]靠着不择手段，才活到了现在。</Weazel_BulletSponge.description>
   <!-- EN: Weazel Alpha -->
   <Weazel_Alpha.title>鼬族阿尔法</Weazel_Alpha.title>
   <!-- EN: Alpha -->
