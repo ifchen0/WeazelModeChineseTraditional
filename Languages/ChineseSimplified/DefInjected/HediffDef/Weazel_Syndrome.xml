@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Weazel syndrome -->
+  <Weazel_Syndrome.label>鼬族症候群</Weazel_Syndrome.label>
+  <!-- EN: A state of mind that develops in slaves who spend their nights with the Weazels. Each time they sleep beside a Weazel in a Weazel 221-0047 bed, the stage may rise, or, if they feel humiliated, drop into 'Weazel aversion'. If they go a long time without sleeping beside a Weazel, Weazel syndrome slowly fades. -->
+  <Weazel_Syndrome.description>与鼬族共度夜晚的奴隶身上产生的心理状态。每次在鼬族221-0047床上睡在鼬族身旁，阶段都可能上升；若感到屈辱，则会跌落至“鼬族厌恶”。长时间没有睡在鼬族身旁，鼬族症候群会慢慢消退。</Weazel_Syndrome.description>
+  <!-- EN: Weazel aversion -->
+  <Weazel_Syndrome.stages.0.overrideLabel>鼬族厌恶</Weazel_Syndrome.stages.0.overrideLabel>
+  <!-- EN: Weazel aversion -->
+  <Weazel_Syndrome.stages.1.overrideLabel>鼬族厌恶</Weazel_Syndrome.stages.1.overrideLabel>
+</LanguageData>

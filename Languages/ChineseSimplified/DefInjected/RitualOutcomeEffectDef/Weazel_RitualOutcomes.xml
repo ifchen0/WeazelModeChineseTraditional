@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Depending on the ritual quality, the slave becomes the chooser's lover. -->
+  <Weazel_TrophySelection.description>依仪式品质，奴隶会成为钦点者的恋人。</Weazel_TrophySelection.description>
+  <!-- EN: Selection success chance by outcome: Low 30% / Normal 45% / High 60% -->
+  <Weazel_TrophySelection.extraInfoLines.0>各结果的钦点成功率：低30%、普通45%、高60%</Weazel_TrophySelection.extraInfoLines.0>
+  <!-- EN: room impressiveness -->
+  <Weazel_TrophySelection.comps.0.label>房间印象</Weazel_TrophySelection.comps.0.label>
+  <!-- EN: participant count -->
+  <Weazel_TrophySelection.comps.1.label>参与人数</Weazel_TrophySelection.comps.1.label>
+  <!-- EN: {PAWN_nameDef}'s animals skill -->
+  <Weazel_TrophySelection.comps.2.label>{PAWN_nameDef}的动物技能</Weazel_TrophySelection.comps.2.label>
+  <!-- EN: chooser's animals skill -->
+  <Weazel_TrophySelection.comps.2.labelAbstract>钦点者的动物技能</Weazel_TrophySelection.comps.2.labelAbstract>
+  <!-- EN: Low -->
+  <Weazel_TrophySelection.outcomeChances.0.label>低</Weazel_TrophySelection.outcomeChances.0.label>
+  <!-- EN: The {0} was clumsy. The chooser's words carried no conviction, and the spectators were unimpressed. -->
+  <Weazel_TrophySelection.outcomeChances.0.description>{0}进行得很笨拙。钦点者的话毫无说服力，观众们也提不起兴趣。</Weazel_TrophySelection.outcomeChances.0.description>
+  <!-- EN: Normal -->
+  <Weazel_TrophySelection.outcomeChances.1.label>普通</Weazel_TrophySelection.outcomeChances.1.label>
+  <!-- EN: The {0} went smoothly. The chooser proudly declared their trophy. -->
+  <Weazel_TrophySelection.outcomeChances.1.description>{0}进行得很顺利。钦点者骄傲地宣告了自己的战利品。</Weazel_TrophySelection.outcomeChances.1.description>
+  <!-- EN: High -->
+  <Weazel_TrophySelection.outcomeChances.2.label>高</Weazel_TrophySelection.outcomeChances.2.label>
+  <!-- EN: The {0} was splendid! Amid the cheers of the spectators, the chooser embraced their trophy. -->
+  <Weazel_TrophySelection.outcomeChances.2.description>{0}办得非常精彩！在观众的欢呼声中，钦点者将战利品拥入怀中。</Weazel_TrophySelection.outcomeChances.2.description>
+</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: chosen as a trophy -->
+  <Weazel_ChosenAsTrophy.stages.0.label>被钦点为战利品</Weazel_ChosenAsTrophy.stages.0.label>
+  <!-- EN: This isn't such a bad feeling... -->
+  <Weazel_ChosenAsTrophy.stages.0.description>这感觉倒也不坏……</Weazel_ChosenAsTrophy.stages.0.description>
+  <!-- EN: chose me as a trophy -->
+  <Weazel_ChosenAsTrophy_Opinion.stages.0.label>把我钦点为战利品</Weazel_ChosenAsTrophy_Opinion.stages.0.label>
+  <!-- EN: chose me as a trophy -->
+  <Weazel_ChosenAsTrophy_Opinion.stages.1.label>把我钦点为战利品</Weazel_ChosenAsTrophy_Opinion.stages.1.label>
+  <!-- EN: chose me as a trophy -->
+  <Weazel_ChosenAsTrophy_Opinion.stages.2.label>把我钦点为战利品</Weazel_ChosenAsTrophy_Opinion.stages.2.label>
+  <!-- EN: resisted the selection -->
+  <Weazel_ResistedSelection.stages.0.label>抗拒了钦点</Weazel_ResistedSelection.stages.0.label>
+  <!-- EN: Am I just an object to you? -->
+  <Weazel_ResistedSelection.stages.0.description>你把我当成物品吗？</Weazel_ResistedSelection.stages.0.description>
+  <!-- EN: treated me like an object -->
+  <Weazel_ResistedSelection_Opinion.stages.0.label>把我当成物品</Weazel_ResistedSelection_Opinion.stages.0.label>
+  <!-- EN: treated me like an object -->
+  <Weazel_ResistedSelection_Opinion.stages.1.label>把我当成物品</Weazel_ResistedSelection_Opinion.stages.1.label>
+  <!-- EN: treated me like an object -->
+  <Weazel_ResistedSelection_Opinion.stages.2.label>把我当成物品</Weazel_ResistedSelection_Opinion.stages.2.label>
+</LanguageData>

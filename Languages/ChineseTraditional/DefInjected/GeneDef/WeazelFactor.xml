@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Weazel factor -->
+  <Weazel_WeazelFactor.label>鼬族因子</Weazel_WeazelFactor.label>
+  <!-- EN: Weazel -->
+  <Weazel_WeazelFactor.labelShortAdj>鼬族</Weazel_WeazelFactor.labelShortAdj>
+  <!-- EN: A unique genetic factor carried by every Weazel. Whatever race's genes she inherits, a Weazel face and body will always appear, and other genes that affect appearance are deactivated.\n\nThis factor is always passed on to children even if only one parent carries it, and it cannot be obtained through gene extraction. -->
+  <Weazel_WeazelFactor.description>所有鼬族都帶有的獨特遺傳因子。無論繼承了哪個種族的基因，都必定呈現鼬族的臉孔與身體，其他影響外觀的基因則會失效。\n\n只要父母其中一方帶有此因子，就必定會遺傳給子女，而且無法透過基因抽取取得。</Weazel_WeazelFactor.description>
+</LanguageData>

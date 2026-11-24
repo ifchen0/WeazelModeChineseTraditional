@@ -118,4 +118,114 @@
   <Weazel_EnergyBladeModeSweep>攻击模式：横扫（超载）</Weazel_EnergyBladeModeSweep>
   <!-- EN: {0} took off their power armor and can no longer hold {1}, so they put it down. -->
   <Weazel_PowerWeaponDropped>{0}脱下了动力装甲，无法再持握{1}，只好将它放下。</Weazel_PowerWeaponDropped>
+  <!-- EN: Left -->
+  <Weazel_221Bed_SlotLeft>左</Weazel_221Bed_SlotLeft>
+  <!-- EN: Center -->
+  <Weazel_221Bed_SlotCenter>中</Weazel_221Bed_SlotCenter>
+  <!-- EN: Right -->
+  <Weazel_221Bed_SlotRight>右</Weazel_221Bed_SlotRight>
+  <!-- EN: Lower left -->
+  <Weazel_221Bed_SlotLowerLeft>左下</Weazel_221Bed_SlotLowerLeft>
+  <!-- EN: Lower right -->
+  <Weazel_221Bed_SlotLowerRight>右下</Weazel_221Bed_SlotLowerRight>
+  <!-- EN: Empty -->
+  <Weazel_221Bed_SlotEmpty>空位</Weazel_221Bed_SlotEmpty>
+  <!-- EN: Set original owner -->
+  <Weazel_221Bed_SetOriginalOwner>设定原主人</Weazel_221Bed_SetOriginalOwner>
+  <!-- EN: Choose this bed's original owner from the people assigned to it. The original owner's name tag is shown in gold. -->
+  <Weazel_221Bed_SetOriginalOwnerDesc>从分配到这张床的人之中选出床的原主人。原主人的名牌会以金色显示。</Weazel_221Bed_SetOriginalOwnerDesc>
+  <!-- EN: No one is assigned. -->
+  <Weazel_221Bed_NoOwners>没有分配任何人。</Weazel_221Bed_NoOwners>
+  <!-- EN: None -->
+  <Weazel_221Bed_OwnerNone>无</Weazel_221Bed_OwnerNone>
+  <!-- EN: Change sleeping spot -->
+  <Weazel_221Bed_ChangeSlot>变更睡位</Weazel_221Bed_ChangeSlot>
+  <!-- EN: Choose a spot, then choose who sleeps there. If someone is already in that spot, the two swap places. The new spot applies the next time they go to sleep.\n\nLeft, center and right are the head row (only the head shows). Lower left and lower right are the lower spots (the whole body shows). -->
+  <Weazel_221Bed_ChangeSlotDesc>先选择位置，再选择睡在那里的人。如果该位置已经有人，两人会交换位置。新位置会在下次睡觉时生效。\n\n左、中、右是床头那一排（只显示头部）。左下与右下是下方的位置（显示全身）。</Weazel_221Bed_ChangeSlotDesc>
+  <!-- EN: Original owner: {0} -->
+  <Weazel_221Bed_OriginalOwnerInspect>原主人：{0}</Weazel_221Bed_OriginalOwnerInspect>
+  <!-- EN: After a night with the Weazels, {0} is now '{1}'. -->
+  <Weazel_Syndrome_StageUp>与鼬族共度一夜后，{0}现在是“{1}”。</Weazel_Syndrome_StageUp>
+  <!-- EN: That night was humiliating for {0}. They are now '{1}'. -->
+  <Weazel_Syndrome_StageDown>那一夜让{0}感到屈辱，现在变成“{1}”。</Weazel_Syndrome_StageDown>
+  <!-- EN: {0} hasn't slept with the Weazels for a long time and is now '{1}'. -->
+  <Weazel_Syndrome_Faded>{0}已经很久没有和鼬族同睡，现在变成“{1}”。</Weazel_Syndrome_Faded>
+  <!-- EN: no Weazel syndrome -->
+  <Weazel_Syndrome_None>没有鼬族症候群</Weazel_Syndrome_None>
+  <!-- EN: {0} days since last sleeping with a Weazel -->
+  <Weazel_Syndrome_DaysSince>距离上次与鼬族同睡已{0}天</Weazel_Syndrome_DaysSince>
+  <!-- EN: "Am I supposed to be kept by these horrible creatures forever? It's disgusting... I have to escape, whatever it takes!"\n\nMood -8, rebellion chance +40% -->
+  <Weazel_Syndrome_Flavor_M2>“难道我要永远被这些可怕的家伙饲养吗？真恶心……不管用什么方法，我都要逃出去！”\n\n心情-8，叛变机率+40%</Weazel_Syndrome_Flavor_M2>
+  <!-- EN: "That was so humiliating... I have to get out of here somehow..."\n\nMood -4, rebellion chance +20% -->
+  <Weazel_Syndrome_Flavor_M1>“那次真是太屈辱了……我得想办法离开这里……”\n\n心情-4，叛变机率+20%</Weazel_Syndrome_Flavor_M1>
+  <!-- EN: "What was that feeling last night... It was a strange experience."\n\nRebellion chance -5%, suppression fall rate -20% -->
+  <Weazel_Syndrome_Flavor_1>“昨晚那是什么感觉……真是奇妙的经历。”\n\n叛变机率-5%，压制力下降率-20%</Weazel_Syndrome_Flavor_1>
+  <!-- EN: "That small, doll-like build... I can't stop thinking about that fur."\n\nRebellion chance -10%, suppression fall rate -40% -->
+  <Weazel_Syndrome_Flavor_2>“那娇小得像娃娃一样的身材……我没办法不去想那身毛皮。”\n\n叛变机率-10%，压制力下降率-40%</Weazel_Syndrome_Flavor_2>
+  <!-- EN: "Maybe they aren't as bad as I thought. Maybe they were just lonely?"\n\nRebellion chance -15%, suppression fall rate -60%, won't break up with a lover -->
+  <Weazel_Syndrome_Flavor_3>“也许她们没有我想的那么坏。也许她们只是寂寞？”\n\n叛变机率-15%，压制力下降率-60%，不会与恋人分手</Weazel_Syndrome_Flavor_3>
+  <!-- EN: "Time to work hard again today. That's how I'll get my reward, right?"\n\nRebellion chance -20%, suppression fall rate -80%, won't break up with a lover -->
+  <Weazel_Syndrome_Flavor_4>“今天也要努力工作。这样我就能得到奖励了，对吧？”\n\n叛变机率-20%，压制力下降率-80%，不会与恋人分手</Weazel_Syndrome_Flavor_4>
+  <!-- EN: "This place feels more like home now. What could get worse?"\n\nRebellion chance 0%, no suppression fall, mood +10, won't break up with a lover -->
+  <Weazel_Syndrome_Flavor_5>“现在这里更像家了。还能糟到哪去呢？”\n\n叛变机率0%，压制力不会下降，心情+10，不会与恋人分手</Weazel_Syndrome_Flavor_5>
+  <!-- EN: {PAWN_labelShort} is not a slave of the colony. -->
+  <Weazel_Trophy_NotSlave>{PAWN_labelShort}不是殖民地的奴隶。</Weazel_Trophy_NotSlave>
+  <!-- EN: {PAWN_labelShort} already has a lover. -->
+  <Weazel_Trophy_HasLover>{PAWN_labelShort}已经有恋人了。</Weazel_Trophy_HasLover>
+  <!-- EN: {PAWN_labelShort} can't be chosen because of the {1} trait. -->
+  <Weazel_Trophy_BlockedTrait>{PAWN_labelShort}因为{1}特性而无法被钦点。</Weazel_Trophy_BlockedTrait>
+  <!-- EN: Ritual quality '{1}': {0} chance to be chosen -->
+  <Weazel_Trophy_Chance>仪式品质“{1}”：被钦点的机率{0}</Weazel_Trophy_Chance>
+  <!-- EN: Chosen as a trophy -->
+  <Weazel_Trophy_SuccessLabel>被钦点为战利品</Weazel_Trophy_SuccessLabel>
+  <!-- EN: {CHOOSER_nameDef} has chosen {TROPHY_nameDef} as a trophy. The two are now lovers. -->
+  <Weazel_Trophy_SuccessText>{CHOOSER_nameDef}将{TROPHY_nameDef}钦点为战利品。两人现在是恋人了。</Weazel_Trophy_SuccessText>
+  <!-- EN: Resisted the selection -->
+  <Weazel_Trophy_FailLabel>抗拒钦点</Weazel_Trophy_FailLabel>
+  <!-- EN: {TROPHY_nameDef} refused {CHOOSER_nameDef}'s selection. "Am I just an object to you?" -->
+  <Weazel_Trophy_FailText>{TROPHY_nameDef}拒绝了{CHOOSER_nameDef}的钦点。“你把我当成物品吗？”</Weazel_Trophy_FailText>
+  <!-- EN: Weazel loot collection ship -->
+  <Weazel_LootCollectorShip_Label>鼬族战利品回收船</Weazel_LootCollectorShip_Label>
+  <!-- EN: A Weazel loot collection ship has arrived in orbit. Contact it with a comms console, deliver your slaves and essence, and have your raid merit recognized. -->
+  <Weazel_LootCollectorShip_Text>鼬族战利品回收船已抵达轨道。用通讯台联络它，交付你的奴隶与精华，让你的掠夺功绩获得认可。</Weazel_LootCollectorShip_Text>
+  <!-- EN: {PAWN_nameDef}, held captive by the XCC Raid Battalion, has been put up for sale as a slave. You may buy {PAWN_objective} back from an XCC slave merchant. -->
+  <Weazel_XCCCaptiveForSale>被XCC掠夺大队囚犯的{PAWN_nameDef}已被当作奴隶出售。你可以向XCC奴隶贩子把{PAWN_objective}买回来。</Weazel_XCCCaptiveForSale>
+  <!-- EN: No signals to intercept. This must be attempted from a planet's surface. -->
+  <Weazel_Wiretap_NoSignal>没有可拦截的讯号。必须在行星地表上进行。</Weazel_Wiretap_NoSignal>
+  <!-- EN: Not linked to a comms console. Build it within 6 cells of a comms console. -->
+  <Weazel_Wiretap_NoConsole>未连接通讯台。请建在通讯台6格范围内。</Weazel_Wiretap_NoConsole>
+  <!-- EN: The linked comms console has no power. -->
+  <Weazel_Wiretap_ConsoleNoPower>连接的通讯台没有电力。</Weazel_Wiretap_ConsoleNoPower>
+  <!-- EN: Deal with the raid target already found before wiretapping again. -->
+  <Weazel_Wiretap_Pending>请先处理已找到的掠夺目标，再进行窃听。</Weazel_Wiretap_Pending>
+  <!-- EN: Requires Social {0}+ -->
+  <Weazel_Wiretap_NeedSocial>需要社交{0}以上</Weazel_Wiretap_NeedSocial>
+  <!-- EN: Only the assigned operator ({0}) can use this -->
+  <Weazel_Wiretap_NotOperator>只有指定的操作员（{0}）可以使用</Weazel_Wiretap_NotOperator>
+  <!-- EN: Wiretap operator -->
+  <Weazel_Wiretap_OperatorLabel>窃听操作员</Weazel_Wiretap_OperatorLabel>
+  <!-- EN: None -->
+  <Weazel_Wiretap_OperatorNone>无</Weazel_Wiretap_OperatorNone>
+  <!-- EN: Choose who operates this wiretap. Only colonists with Social {0} or higher can be chosen.\n\nIf no operator is assigned, any colonist with Social {0} or higher will operate it. The assignment is cleared automatically if the operator dies, leaves, or becomes a slave or prisoner. -->
+  <Weazel_Wiretap_OperatorDesc>选择由谁操作这台窃听装置。只能选择社交{0}以上的殖民者。\n\n若未指定操作员，任何社交{0}以上的殖民者都会操作它。操作员死亡、离开，或成为奴隶或囚犯时，指定会自动取消。</Weazel_Wiretap_OperatorDesc>
+  <!-- EN: None (anyone with Social {0}+) -->
+  <Weazel_Wiretap_OperatorAnyone>无（社交{0}以上的任何人）</Weazel_Wiretap_OperatorAnyone>
+  <!-- EN: {0} (Social {1}) -->
+  <Weazel_Wiretap_OperatorOption>{0}（社交{1}）</Weazel_Wiretap_OperatorOption>
+  <!-- EN: Wiretap success: {0} -->
+  <Weazel_Wiretap_SuccessLabel>窃听成功：{0}</Weazel_Wiretap_SuccessLabel>
+  <!-- EN: {PAWN_labelShort} has found a place worth raiding through the wiretap. -->
+  <Weazel_Wiretap_SuccessText>{PAWN_labelShort}透过窃听找到了一个值得掠夺的地方。</Weazel_Wiretap_SuccessText>
+  <!-- EN: The wiretap worked, but it picked up nothing worth raiding. -->
+  <Weazel_Wiretap_NothingFound>窃听顺利进行，但没有听到任何值得掠夺的情报。</Weazel_Wiretap_NothingFound>
+  <!-- EN: Wiretap failed -->
+  <Weazel_Wiretap_FailLabel>窃听失败</Weazel_Wiretap_FailLabel>
+  <!-- EN: {FACTION_name} noticed {PAWN_labelShort}'s wiretapping. Goodwill with {FACTION_name} drops by {AMOUNT}. -->
+  <Weazel_Wiretap_FailText>{FACTION_name}发现了{PAWN_labelShort}的窃听行为。与{FACTION_name}的友好度下降{AMOUNT}。</Weazel_Wiretap_FailText>
+  <!-- EN: Wiretap traced! -->
+  <Weazel_Wiretap_CritLabel>窃听遭到反向追踪！</Weazel_Wiretap_CritLabel>
+  <!-- EN: {PAWN_labelShort} made a serious mistake while wiretapping and was traced by {FACTION_name}. Goodwill with {FACTION_name} drops by {AMOUNT}. -->
+  <Weazel_Wiretap_CritText>{PAWN_labelShort}在窃听时犯下严重失误，被{FACTION_name}反向追踪。与{FACTION_name}的友好度下降{AMOUNT}。</Weazel_Wiretap_CritText>
+  <!-- EN: \n\n{FACTION_name} has learned where we are. They will raid us in about 5 days. -->
+  <Weazel_Wiretap_CritRaid>\n\n{FACTION_name}已经得知我们的位置。他们将在大约5天后袭击我们。</Weazel_Wiretap_CritRaid>
 </LanguageData>

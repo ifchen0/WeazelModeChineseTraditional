@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Raid start! -->
+  <Weazel_RaidStart.label>掠奪開始！</Weazel_RaidStart.label>
+  <!-- EN: Shout the start of the raid to fire up nearby allies. Everyone of the same faction within a radius of 9.9 (including the caster) instantly recovers 10% rest and recreation and becomes 'Here we go!!!' for 1 day. -->
+  <Weazel_RaidStart.description>高喊掠奪開始，激勵附近的同伴。半徑9.9內所有同派系的人（包括施放者）立即恢復10%休息與娛樂，並在1天內進入「要開始了！！！」狀態。</Weazel_RaidStart.description>
+</LanguageData>

@@ -2,4 +2,6 @@
 <LanguageData>
   <!-- EN: Weazel loot collection team -->
   <Caravan_XCC_LootCollector.label>鼬族战利品回收队</Caravan_XCC_LootCollector.label>
+  <!-- EN: Weazel loot collection ship -->
+  <Orbital_XCC_LootCollector.label>鼬族战利品回收船</Orbital_XCC_LootCollector.label>
 </LanguageData>

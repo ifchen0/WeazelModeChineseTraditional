@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: by the Weazels -->
+  <Weazel_Structure_ByWeazel.label>鼬族所造</Weazel_Structure_ByWeazel.label>
+  <!-- EN: The way of thinking that every Weazel, the XCC Raiding Battalion included, believes in. After all, a true Weazel must always be Weazel-like.\n\nFirst-Alpha is the very first specimen, the original from which every Weazel was copied. A Weazel's rank is set by how close they are to First-Alpha genetically: in other words, by how early in the cloning order they were made. Even 'The Firsts', who found new factories and start the cloning there, were all born because she was the first to flip the switch. -->
+  <Weazel_Structure_ByWeazel.description>包括XCC掠奪大隊在內，所有鼬族都信奉的思考方式。畢竟，真正的鼬族就必須活出鼬族之道。\n\n初代阿爾法是最初的個體，是所有鼬族複製時的原型。鼬族的階級取決於她與初代阿爾法在基因上有多接近，換句話說，就是她在複製順序中排第幾。就連建立新工廠、在那裡開始複製的「始祖」們，也全都是因為她第一個按下開關才得以誕生。</Weazel_Structure_ByWeazel.description>
+  <!-- EN: culture memorial hall -->
+  <Weazel_Structure_ByWeazel.worshipRoomLabel>培養紀念室</Weazel_Structure_ByWeazel.worshipRoomLabel>
+  <!-- EN: First-Alpha -->
+  <Weazel_Structure_ByWeazel.fixedDeityNameTypes.0.name>初代阿爾法</Weazel_Structure_ByWeazel.fixedDeityNameTypes.0.name>
+  <!-- EN: Original of All Weazels -->
+  <Weazel_Structure_ByWeazel.fixedDeityNameTypes.0.type>所有鼬族的原型</Weazel_Structure_ByWeazel.fixedDeityNameTypes.0.type>
+  <!-- EN: memeCreed->factory | memeConcept->cloning | memeConcept->the original | memeLeaderNoun->boss | memeLeaderNoun->commander | memeLeaderAdjective->original | memeMoralist->specimen classifier | memeMoralist->culture overseer -->
+  <Weazel_Structure_ByWeazel.generalRules.rulesStrings>
+    <li>memeCreed-&gt;工廠</li>
+    <li>memeConcept-&gt;複製</li>
+    <li>memeConcept-&gt;原型</li>
+    <li>memeLeaderNoun-&gt;頭目</li>
+    <li>memeLeaderNoun-&gt;指揮官</li>
+    <li>memeLeaderAdjective-&gt;原初</li>
+    <li>memeMoralist-&gt;個體分類官</li>
+    <li>memeMoralist-&gt;培養監督官</li>
+  </Weazel_Structure_ByWeazel.generalRules.rulesStrings>
+  <!-- EN: Weazelness -->
+  <Weazel_Structure_ByWeazel.symbolPacks.0.ideoName>鼬族之道</Weazel_Structure_ByWeazel.symbolPacks.0.ideoName>
+  <!-- EN: raiding -->
+  <Weazel_Structure_ByWeazel.symbolPacks.0.theme>掠奪</Weazel_Structure_ByWeazel.symbolPacks.0.theme>
+  <!-- EN: great and powerful -->
+  <Weazel_Structure_ByWeazel.symbolPacks.0.adjective>偉大而強大的</Weazel_Structure_ByWeazel.symbolPacks.0.adjective>
+  <!-- EN: Weazel -->
+  <Weazel_Structure_ByWeazel.symbolPacks.0.member>鼬族</Weazel_Structure_ByWeazel.symbolPacks.0.member>
+</LanguageData>

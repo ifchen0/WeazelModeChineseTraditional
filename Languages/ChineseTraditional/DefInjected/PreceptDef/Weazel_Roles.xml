@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: raid vanguard -->
+  <Weazel_IdeoRole_RaidVanguard.label>掠奪先鋒</Weazel_IdeoRole_RaidVanguard.label>
+  <!-- EN: A special status in the Weazel ideoligion for those who stand at the very front of a raid. Raises melee hit chance and shooting accuracy, and makes caravans travel faster when they come along. Grants the ability 'Raid start!', which refills nearby allies' rest and recreation and sharpens their combat senses. Holders of this role will refuse many kinds of work unrelated to raiding. -->
+  <Weazel_IdeoRole_RaidVanguard.description>鼬族理念中為站在掠奪最前線的人設立的特殊身分。提升近戰命中率與射擊準度，同行時旅隊移動更快。可使用能力「掠奪開始！」，恢復附近同伴的休息與娛樂，並提升他們的戰鬥感官。擔任此職位的人將會拒絕從事多種與掠奪無關的工作。</Weazel_IdeoRole_RaidVanguard.description>
+  <!-- EN: normal -->
+  <Weazel_Expedition_Normal.label>普通</Weazel_Expedition_Normal.label>
+  <!-- EN: Expeditions are something you set out on when needed. No special meaning is attached to them. -->
+  <Weazel_Expedition_Normal.description>遠征是有需要時才出發的事，沒有特別的意義。</Weazel_Expedition_Normal.description>
+  <!-- EN: eager -->
+  <Weazel_Expedition_Eager.label>熱衷</Weazel_Expedition_Eager.label>
+  <!-- EN: The road to a place worth raiding is always exciting. Caravans travel faster when a believer of this ideoligion is part of them. -->
+  <Weazel_Expedition_Eager.description>前往值得掠奪之地的路途總是令人興奮。旅隊中有此理念的信徒時，旅隊移動速度會加快。</Weazel_Expedition_Eager.description>
+  <!-- EN: sacred -->
+  <Weazel_Expedition_Sacred.label>神聖</Weazel_Expedition_Sacred.label>
+  <!-- EN: Expeditions are a sacred mission given to the Weazels. No one marches toward a raid site faster than they do. Caravans travel much faster when a believer of this ideoligion is part of them. -->
+  <Weazel_Expedition_Sacred.description>遠征是賦予鼬族的神聖使命。沒有人比她們更快奔向掠奪地點。旅隊中有此理念的信徒時，旅隊移動速度會大幅加快。</Weazel_Expedition_Sacred.description>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: trophy selection -->
+  <Weazel_TrophySelection.label>戰利品欽點</Weazel_TrophySelection.label>
+  <!-- EN: Trophy selection -->
+  <Weazel_TrophySelection.tipLabelOverride>戰利品欽點</Weazel_TrophySelection.tipLabelOverride>
+  <!-- EN: A ceremony in which one officially claims a trophy from among the livestock successfully enslaved. The chooser brings a slave to the ritual spot and gives a speech; depending on the ritual quality, the two may become lovers regardless of their opinion of each other. The higher the chooser's animals skill, the higher the ritual quality. Slaves who already have a lover, or who are misogynists or xenophobes, can't be chosen. -->
+  <Weazel_TrophySelection.description>從成功奴役的家畜中正式認領戰利品的儀式。欽點者把奴隸帶到儀式地點並發表演說；依儀式品質，兩人可能不顧彼此的好感而成為戀人。欽點者的動物技能越高，儀式品質就越高。已有戀人、仇女或仇外的奴隸無法被欽點。</Weazel_TrophySelection.description>
+  <!-- EN: don't mind -->
+  <Weazel_SpaceHabitat_DontMind.label>不在意</Weazel_SpaceHabitat_DontMind.label>
+  <!-- EN: Space or planet, it doesn't matter. Anywhere with something to raid is our home. -->
+  <Weazel_SpaceHabitat_DontMind.description>太空還是行星都無所謂。只要有東西可搶，哪裡都是我們的家。</Weazel_SpaceHabitat_DontMind.description>
+</LanguageData>

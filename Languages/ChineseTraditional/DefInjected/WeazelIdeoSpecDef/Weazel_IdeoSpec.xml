@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Weazelness ideoligion contents -->
+  <Weazel_IdeoSpec.label>鼬族之道理念內容</Weazel_IdeoSpec.label>
+  <!-- EN: Weazelness -->
+  <Weazel_IdeoSpec.ideoName>鼬族之道</Weazel_IdeoSpec.ideoName>
+  <!-- EN: great and powerful -->
+  <Weazel_IdeoSpec.adjective>偉大而強大的</Weazel_IdeoSpec.adjective>
+  <!-- EN: Weazel -->
+  <Weazel_IdeoSpec.memberName>鼬族</Weazel_IdeoSpec.memberName>
+  <!-- EN: boss -->
+  <Weazel_IdeoSpec.leaderTitle>頭目</Weazel_IdeoSpec.leaderTitle>
+  <!-- EN: "We are the Weazels.\n\nWe raid everything.\n\nWe take everything."\n\n\nThe rimworlds must be filled with Weazels. Everything must belong to the Weazels. Raid everything others have, kill the females and carry off the males. Tame them into livestock for drawing out essence. Raid every settlement on the rimworlds as if grazing a herd. Weazels exist to raid and to take. That is Weazelness. -->
+  <Weazel_IdeoSpec.ideoDescription>「我們是鼬族。\n\n我們掠奪一切。\n\n我們奪走一切。」\n\n\n邊緣世界必須充滿鼬族。一切都必須屬於鼬族。掠奪他人擁有的一切，殺死雌性，擄走雄性。把他們馴服成榨取精華的家畜。像放牧一樣掠奪邊緣世界上的每一個據點。鼬族為掠奪與奪取而存在。這就是鼬族之道。</Weazel_IdeoSpec.ideoDescription>
+  <!-- EN: I'll Remember -->
+  <Weazel_IdeoSpec.precepts.25.name>我會記住的</Weazel_IdeoSpec.precepts.25.name>
+  <!-- EN: Great and Powerful Celebration -->
+  <Weazel_IdeoSpec.precepts.26.name>偉大而強大的紀念日</Weazel_IdeoSpec.precepts.26.name>
+  <!-- EN: Pecking Order -->
+  <Weazel_IdeoSpec.precepts.27.name>排定位階</Weazel_IdeoSpec.precepts.27.name>
+  <!-- EN: boss -->
+  <Weazel_IdeoSpec.precepts.40.name>頭目</Weazel_IdeoSpec.precepts.40.name>
+  <!-- EN: specimen classifier -->
+  <Weazel_IdeoSpec.precepts.41.name>個體分類官</Weazel_IdeoSpec.precepts.41.name>
+  <!-- EN: raid vanguard -->
+  <Weazel_IdeoSpec.precepts.42.name>掠奪先鋒</Weazel_IdeoSpec.precepts.42.name>
+  <!-- EN: designated marksman -->
+  <Weazel_IdeoSpec.precepts.43.name>指定射手</Weazel_IdeoSpec.precepts.43.name>
+  <!-- EN: Great and Powerful Foundation -->
+  <Weazel_IdeoSpec.precepts.44.name>偉大而強大的根基</Weazel_IdeoSpec.precepts.44.name>
+</LanguageData>

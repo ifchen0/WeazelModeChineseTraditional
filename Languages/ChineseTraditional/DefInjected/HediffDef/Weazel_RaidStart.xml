@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Here we go!!! -->
+  <Weazel_RaidStartBuff.label>要開始了！！！</Weazel_RaidStartBuff.label>
+  <!-- EN: The raid vanguard's shout has their blood boiling. They tire less easily, dodge melee attacks better and aim faster. -->
+  <Weazel_RaidStartBuff.description>掠奪先鋒的吶喊讓人熱血沸騰。不容易疲勞、更能閃避近戰攻擊，瞄準也更快。</Weazel_RaidStartBuff.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: wiretap speed -->
+  <Weazel_WiretapSpeed.label>竊聽速度</Weazel_WiretapSpeed.label>
+  <!-- EN: How quickly this person finds raid targets with a Weazel wiretap. Depends on Social skill. -->
+  <Weazel_WiretapSpeed.description>此人使用鼬族竊聽裝置找出掠奪目標的速度。取決於社交技能。</Weazel_WiretapSpeed.description>
+</LanguageData>

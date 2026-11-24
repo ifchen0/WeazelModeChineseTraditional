@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: slept with my spouses (1) -->
+  <Weazel_SleptWithPartners.stages.0.label>和配偶們同睡(1)</Weazel_SleptWithPartners.stages.0.label>
+  <!-- EN: I slept in the same bed as someone I love. -->
+  <Weazel_SleptWithPartners.stages.0.description>我和心愛的人睡在同一張床上。</Weazel_SleptWithPartners.stages.0.description>
+  <!-- EN: slept with my spouses (2) -->
+  <Weazel_SleptWithPartners.stages.1.label>和配偶們同睡(2)</Weazel_SleptWithPartners.stages.1.label>
+  <!-- EN: I slept in the same bed as the people I love. -->
+  <Weazel_SleptWithPartners.stages.1.description>我和心愛的人們睡在同一張床上。</Weazel_SleptWithPartners.stages.1.description>
+  <!-- EN: slept with my spouses (3) -->
+  <Weazel_SleptWithPartners.stages.2.label>和配偶們同睡(3)</Weazel_SleptWithPartners.stages.2.label>
+  <!-- EN: I slept in the same bed as the people I love. It was crowded, but warm. -->
+  <Weazel_SleptWithPartners.stages.2.description>我和心愛的人們睡在同一張床上。雖然很擠，但很溫暖。</Weazel_SleptWithPartners.stages.2.description>
+  <!-- EN: slept with my spouses (4) -->
+  <Weazel_SleptWithPartners.stages.3.label>和配偶們同睡(4)</Weazel_SleptWithPartners.stages.3.label>
+  <!-- EN: I slept in the same bed as everyone I love. It doesn't get better than this. -->
+  <Weazel_SleptWithPartners.stages.3.description>我和所有心愛的人睡在同一張床上。沒有比這更好的了。</Weazel_SleptWithPartners.stages.3.description>
+  <!-- EN: Weazel aversion (-2) -->
+  <Weazel_SyndromeMood.stages.0.label>鼬族厭惡(-2)</Weazel_SyndromeMood.stages.0.label>
+  <!-- EN: Am I supposed to be kept by these horrible creatures forever? It's disgusting... I have to escape, whatever it takes! -->
+  <Weazel_SyndromeMood.stages.0.description>難道我要永遠被這些可怕的傢伙飼養嗎？真噁心……不管用什麼方法，我都要逃出去！</Weazel_SyndromeMood.stages.0.description>
+  <!-- EN: Weazel aversion (-1) -->
+  <Weazel_SyndromeMood.stages.1.label>鼬族厭惡(-1)</Weazel_SyndromeMood.stages.1.label>
+  <!-- EN: That was so humiliating... I have to get out of here somehow... -->
+  <Weazel_SyndromeMood.stages.1.description>那次真是太屈辱了……我得想辦法離開這裡……</Weazel_SyndromeMood.stages.1.description>
+  <!-- EN: Weazel syndrome (+5) -->
+  <Weazel_SyndromeMood.stages.2.label>鼬族症候群(+5)</Weazel_SyndromeMood.stages.2.label>
+  <!-- EN: This place feels more like home now. What could get worse? -->
+  <Weazel_SyndromeMood.stages.2.description>現在這裡更像家了。還能糟到哪去呢？</Weazel_SyndromeMood.stages.2.description>
+</LanguageData>

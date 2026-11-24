@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Weazel wiretap -->
+  <Weazel_Wiretap.label>鼬族竊聽裝置</Weazel_Wiretap.label>
+  <!-- EN: A Weazel-made eavesdropping rig that hooks into a comms console. It listens in on nearby factions' communications and tricks information out of them by voice phishing to locate places worth raiding.\n\nIt must be built within 6 cells of a comms console, and the linked console also needs power. Only colonists with Social 5 or higher can operate it; the better their social skills, the faster they find targets and the fewer mistakes they make. If the wiretapping is noticed, relations with that faction will suffer, and a serious mistake may get you traced and raided.\n\nIt will not search again until the raid target already found has been dealt with. No signals can be picked up in space. -->
+  <Weazel_Wiretap.description>鼬族製的竊聽設備，需連接通訊台使用。它會監聽附近派系的通訊，並以電話詐騙套出情報，找出值得掠奪的地點。\n\n必須建在通訊台6格範圍內，且連接的通訊台也需要電力。只有社交5以上的殖民者能操作；社交能力越高，找到目標越快，失誤也越少。若竊聽被發現，與該派系的關係會惡化，嚴重失誤時還可能被反向追蹤而遭到襲擊。\n\n在已找到的掠奪目標處理完之前，不會再次搜尋。在太空中收不到任何訊號。</Weazel_Wiretap.description>
+</LanguageData>

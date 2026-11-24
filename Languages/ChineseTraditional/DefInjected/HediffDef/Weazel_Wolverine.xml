@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: G.A.M shock-absorbing armor -->
+  <Weazel_GAMShockAbsorbArmor.label>G.A.M.衝擊吸收裝甲</Weazel_GAMShockAbsorbArmor.label>
+  <!-- EN: The reactive plating and high-capacity G.A.M of the worn Wolverine power armor absorb the shock of explosions, reducing the explosive damage taken. -->
+  <Weazel_GAMShockAbsorbArmor.description>穿戴中的狼獾動力裝甲，其反應裝甲與大容量G.A.M.會吸收爆炸衝擊，減少受到的爆炸傷害。</Weazel_GAMShockAbsorbArmor.description>
+</LanguageData>

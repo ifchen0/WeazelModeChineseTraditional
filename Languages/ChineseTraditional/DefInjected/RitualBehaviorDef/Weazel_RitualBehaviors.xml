@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: chooser -->
+  <Weazel_TrophySelection.roles.0.label>欽點者</Weazel_TrophySelection.roles.0.label>
+  <!-- EN: chooser -->
+  <Weazel_TrophySelection.roles.0.categoryLabel>欽點者</Weazel_TrophySelection.roles.0.categoryLabel>
+  <!-- EN: a colonist who can bring the slave (chooser) -->
+  <Weazel_TrophySelection.roles.0.missingDesc>能帶來奴隸的殖民者（欽點者）</Weazel_TrophySelection.roles.0.missingDesc>
+  <!-- EN: trophy -->
+  <Weazel_TrophySelection.roles.1.label>戰利品</Weazel_TrophySelection.roles.1.label>
+  <!-- EN: trophy -->
+  <Weazel_TrophySelection.roles.1.categoryLabel>戰利品</Weazel_TrophySelection.roles.1.categoryLabel>
+  <!-- EN: a slave who can be chosen -->
+  <Weazel_TrophySelection.roles.1.missingDesc>可以被欽點的奴隸</Weazel_TrophySelection.roles.1.missingDesc>
+  <!-- EN: Spectators -->
+  <Weazel_TrophySelection.spectatorsLabel>觀眾</Weazel_TrophySelection.spectatorsLabel>
+  <!-- EN: spectate -->
+  <Weazel_TrophySelection.spectatorGerund>旁觀</Weazel_TrophySelection.spectatorGerund>
+  <!-- EN: The slave is not reachable. -->
+  <Weazel_TrophySelection.stages.0.failTriggers.0.desc>無法抵達奴隸身邊。</Weazel_TrophySelection.stages.0.failTriggers.0.desc>
+  <!-- EN: chooser asleep -->
+  <Weazel_TrophySelection.stages.0.failTriggers.1.desc>欽點者睡著了</Weazel_TrophySelection.stages.0.failTriggers.1.desc>
+</LanguageData>
