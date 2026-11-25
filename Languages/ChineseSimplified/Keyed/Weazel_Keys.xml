@@ -228,4 +228,12 @@
   <Weazel_Wiretap_CritText>{PAWN_labelShort}在窃听时犯下严重失误，被{FACTION_name}反向追踪。与{FACTION_name}的友好度下降{AMOUNT}。</Weazel_Wiretap_CritText>
   <!-- EN: \n\n{FACTION_name} has learned where we are. They will raid us in about 5 days. -->
   <Weazel_Wiretap_CritRaid>\n\n{FACTION_name}已经得知我们的位置。他们将在大约5天后袭击我们。</Weazel_Wiretap_CritRaid>
+  <!-- EN: High-value target found: {0} -->
+  <Weazel_Wiretap_HVLabel>发现高价值目标：{0}</Weazel_Wiretap_HVLabel>
+  <!-- EN: {PAWN_labelShort} has uncovered a highly valuable raid target through the wiretap! -->
+  <Weazel_Wiretap_HVText>{PAWN_labelShort}透过窃听找到了一个极具价值的掠夺目标！</Weazel_Wiretap_HVText>
+  <!-- EN: Wanted boss found -->
+  <Weazel_Wiretap_BossLabel>发现通缉头目</Weazel_Wiretap_BossLabel>
+  <!-- EN: {PAWN_labelShort}, the wanted target uncovered by the wiretap, is guarding this place. They carry a powerful weapon, so be careful. If downed, they can be captured. -->
+  <Weazel_Wiretap_BossText>窃听查到的通缉目标{PAWN_labelShort}正守在这里。对方持有强力武器，务必小心。击倒后可以将其囚犯。</Weazel_Wiretap_BossText>
 </LanguageData>

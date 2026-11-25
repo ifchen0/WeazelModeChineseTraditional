@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: questName(priority=1,weazelTarget==Relay)->[siteFaction_name] Comms Relay | questName(priority=1,weazelTarget==Depot)->[siteFaction_name] Supply Depot | questName(priority=1,weazelTarget==Cache)->[siteFaction_name] Secret Cache | questName(priority=1,weazelTarget==Boss)->[siteFaction_name] Wanted Boss | questName->[siteFaction_name] High-Value Target -->
+  <Weazel_Wiretap_HighValue.questNameRules.rulesStrings>
+    <li>questName(priority=1,weazelTarget==Relay)-&gt;[siteFaction_name]的通訊中繼站</li>
+    <li>questName(priority=1,weazelTarget==Depot)-&gt;[siteFaction_name]的補給倉庫</li>
+    <li>questName(priority=1,weazelTarget==Cache)-&gt;[siteFaction_name]的秘密藏匿處</li>
+    <li>questName(priority=1,weazelTarget==Boss)-&gt;[siteFaction_name]的通緝頭目</li>
+    <li>questName-&gt;[siteFaction_name]的高價值目標</li>
+  </Weazel_Wiretap_HighValue.questNameRules.rulesStrings>
+  <!-- EN: questDescription->Through wiretapping, we have learned the location of [siteFaction_name]'s [targetIntro]\n\nConfirmed supplies (worth about [itemStashContentsValue]):\n\n[itemStashContents]\n\nAlso, [allSitePartsDescriptionsExceptFirst]. | targetIntro(priority=1,weazelTarget==Relay)->comms relay. It is not heavily guarded, but psychic items and valuable tech data are stored there. | targetIntro(priority=1,weazelTarget==Depot)->supply depot. Large amounts of strategic supplies are piled up there, but it is heavily guarded and defended by turrets. | targetIntro(priority=1,weazelTarget==Cache)->secret cache. It is lightly guarded, but rare items you can't find just anywhere are hidden there. | targetIntro(priority=1,weazelTarget==Boss)->stronghold, where a wanted criminal is hiding. The boss carries a powerful weapon, and can be captured if downed. | targetIntro->high-value raid target. -->
+  <Weazel_Wiretap_HighValue.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;透過竊聽，我們得知了[siteFaction_name]的[targetIntro]\n\n已確認的物資（價值約[itemStashContentsValue]）：\n\n[itemStashContents]\n\n此外，[allSitePartsDescriptionsExceptFirst]</li>
+    <li>targetIntro(priority=1,weazelTarget==Relay)-&gt;通訊中繼站位置。那裡守備不嚴，但存放著心靈物品與珍貴的技術資料。</li>
+    <li>targetIntro(priority=1,weazelTarget==Depot)-&gt;補給倉庫位置。那裡堆放著大量戰略物資，但戒備森嚴，還有砲塔防守。</li>
+    <li>targetIntro(priority=1,weazelTarget==Cache)-&gt;秘密藏匿處位置。那裡守備薄弱，卻藏著在別處難得一見的稀有物品。</li>
+    <li>targetIntro(priority=1,weazelTarget==Boss)-&gt;通緝犯藏身的據點位置。頭目持有強力武器，擊倒後可以將其俘虜。</li>
+    <li>targetIntro-&gt;高價值掠奪目標位置。</li>
+  </Weazel_Wiretap_HighValue.questDescriptionRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <Weazel_Wiretap_HighValue.LetterLabelQuestExpired.slateRef>任務過期：[resolvedQuestName]</Weazel_Wiretap_HighValue.LetterLabelQuestExpired.slateRef>
+  <!-- EN: The raid site uncovered by the wiretap has been moved elsewhere. The quest [resolvedQuestName] has expired. -->
+  <Weazel_Wiretap_HighValue.LetterTextQuestExpired.slateRef>竊聽查到的掠奪地點已經轉移到別處。任務「[resolvedQuestName]」已過期。</Weazel_Wiretap_HighValue.LetterTextQuestExpired.slateRef>
+</LanguageData>

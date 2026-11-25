@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: comms relay -->
+  <Weazel_HV_Relay.label>通讯中继站</Weazel_HV_Relay.label>
+  <!-- EN: A comms relay uncovered by wiretapping. Psychic items and valuable tech data are stored here. -->
+  <Weazel_HV_Relay.description>透过窃听找到的通讯中继站。这里存放着心灵物品与珍贵的技术资料。</Weazel_HV_Relay.description>
+  <!-- EN: supply depot -->
+  <Weazel_HV_Depot.label>补给仓库</Weazel_HV_Depot.label>
+  <!-- EN: A supply depot uncovered by wiretapping. Large amounts of strategic supplies are piled up here under heavy guard. -->
+  <Weazel_HV_Depot.description>透过窃听找到的补给仓库。这里堆放着大量战略物资，戒备森严。</Weazel_HV_Depot.description>
+  <!-- EN: secret cache -->
+  <Weazel_HV_Cache.label>秘密藏匿处</Weazel_HV_Cache.label>
+  <!-- EN: A secret cache uncovered by wiretapping. It is lightly guarded, but rare items are hidden here. -->
+  <Weazel_HV_Cache.description>透过窃听找到的秘密藏匿处。这里守备薄弱，却藏着稀有物品。</Weazel_HV_Cache.description>
+  <!-- EN: boss stronghold -->
+  <Weazel_HV_Boss.label>头目定居点</Weazel_HV_Boss.label>
+  <!-- EN: The stronghold of a wanted criminal uncovered by wiretapping. A boss with a powerful weapon guards this place. -->
+  <Weazel_HV_Boss.description>透过窃听找到的通缉犯定居点。持有强力武器的头目守在这里。</Weazel_HV_Boss.description>
+</LanguageData>
